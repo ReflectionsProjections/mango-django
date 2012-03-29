@@ -1,0 +1,186 @@
+html {
+  height: auto;
+}
+body {
+  background: #a90329; /* Old browsers */
+  background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* IE10+ */
+  background: linear-gradient(top,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); */
+  margin: 0;
+  width: auto;
+  height: auto;
+}
+
+/* Navbar */
+.navbar-fixed-top {
+  margin-bottom: 0;
+}
+.navbar-fixed-top .container {
+  width: auto;
+}
+.navbar .brand {
+  margin-left: 0;
+}
+
+/* Top Section */
+#header {
+  background-color: #eee;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px rgba(0, 0, 0, 0.1);
+}
+#logo-box .span12 {
+  text-align: center;
+  margin: 0 auto;
+}
+.container-fluid {
+  padding-right: 0px;
+}
+.container-fluid .span12 {
+  width: 100%
+}
+.container-fluid .span12 h1, .container-fluid .span12 h2 {
+  display: inline;
+}
+.container-fluid .span12 h1 {
+  margin-right: 20px;
+}
+.container-fluid .span12 h2 {
+  margin-bottom: 0;
+}
+.container-fluid .span12 h2 > img {
+  padding-bottom: 8px;
+  padding-left: 5px;
+}
+.container-fluid .span12 p {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: lighter;
+}
+
+/* MechMania boxes */
+#footnotes {
+  padding: 8px 20px;
+}
+#footnotes .small-font {
+  font-size: 11px;
+  line-height: 17px;
+}
+/*
+.info-box {
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 10px;
+  display: block;
+}
+.info-box p {
+  font-size: 15px;
+  line-height: 22px;
+}
+  */
+#logo {
+  text-align: center;
+  margin: 80px auto 40px auto;
+}
+#homepage-hero {
+  padding: 25px;
+  margin-top: 45px;
+  font-size: 15px;
+  line-height: 22px;
+}
+.hero-unit .description, .hero-unit.mechmania-info p {
+  font-size: 15px;
+  line-height: 22px;
+}
+.hero-unit {
+  padding: 20px;
+}
+.hero-unit p {
+  font-size: 15px;
+  line-height: 22px;
+}
+#mechmania, #about, #main {
+  margin-top: 45px;
+}
+.header-paragraph {
+  margin-top: 10px;
+}
+#top-section .span12 p {
+  font-family: Helvetica;
+  letter-spacing: 1px;
+}
+.hero-unit.extra-pad p {
+  padding-top: 22px;
+  padding-bottom: 22px;
+}
+.container-fluid .span12 p {
+  padding-top: 10px;
+}
+.hero-unit.mechmania-info {
+  -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 45px;
+  margin-bottom: 0;
+}
+.address p, #social-networking p {
+  margin-bottom: 0;
+}
+#social-networking {
+  margin-top: 20px;
+}
+#homepage-carousel-space {
+  margin-top: 65px;
+}
+#homepage-carousel {
+  width: 576px;
+  margin-left: 20px;
+}
+#homepage-carousel .carousel-inner .item > img {
+  width: 576px;
+  height: 384px;
+}
+.carousel-control {
+  margin-top: 10px;
+}
+.page-heading {
+  font-size: 42px;
+}
+#event-schedule th {
+  font-size: 20px;
+  text-align: center;
+}
+#event-schedule td {
+  text-align: center;
+}
+.footer {
+  width: 70%;
+  text-align: center;
+  margin-top: -90px;
+  top: 100%;
+  position: absolute;
+}
+#foot h1 {
+  color: #eee;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+  margin-bottom: 10px;
+  font-size: 24px;
+  text-align: center;
+}
+#foot p {
+  font-size: 16px;
+  font-weight: lighter;
+  letter-spacing: 0px;
+  color: #eee;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.sink-footer {
+  position: relative;
+  width: 95%;
+  text-align: center;
+  margin-top: 80px;
+  top: 100%;
+}
