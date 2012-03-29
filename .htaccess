@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule "^(.*/)?\.git/" - [R=404,L]
