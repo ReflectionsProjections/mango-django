@@ -154,6 +154,7 @@ body {
   text-align: center;
 }
 .footer {
+  z-index: -9;
   width: 70%;
   text-align: center;
   margin-top: -90px;
