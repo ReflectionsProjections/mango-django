@@ -12,9 +12,14 @@
 	<link href="css/rp_styles.css" rel="stylesheet" />
 	<link href="css/bootstrap-responsive.css" rel="stylesheet" />
 	<link href="css/rp_styles-responsive.css" rel="stylesheet" />
+	<!--[if !IE 7]>
+		<style type="text/css">
+			#wrap {display:table;height:100%}
+		</style>
+	<![endif]-->
 
 </head>
-<body data-spy="scroll" data-target=".subnav" data-offset="50">
+<body>
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
@@ -23,44 +28,46 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</a>
-				<a class="brand" href="./index.html">Reflections | Projections</a>
+				<a class="brand" href="./index.html"><img src="img/running_man_navbar.png"></a>
 				<div class="nav-collapse">
 				<ul class="nav">
 					<li class="">
-						<a href="./index.html">Home</a>
+						<a href="./about.html">about</a>
 					</li>
 					<li class="">
-						<a href="./about.html">About</a>
+						<a href="./registration.html">register</a>
 					</li>
 					<li class="">
-						<a href="./registration.html">Register</a>
+						<a href="./schedule.html">schedule</a>
 					</li>
 					<li class="">
-						<a href="./schedule.html">Schedule</a>
+						<a href="./speakers.html">speakers</a>
 					</li>
 					<li class="">
-						<a href="./speakers.html">Speakers</a>
+						<a href="./travel.html">travel</a>
 					</li>
 					<li class="">
-						<a href="./travel.html">Travel</a>
+						<a href="./jobfair.html">job fair</a>
 					</li>
-					<li class="">
-						<a href="./jobfair.html">Job Fair</a>
-					</li>
+					<!--
 					<li class="active">
-						<a href="./mechmania.html">MechMania</a>
+						<a href="./mechmania.html">mechmania</a>
+					</li>
+					-->
+					<li class="">
+						<a href="./volunteers.html">volunteers</a>
 					</li>
 					<li class="">
-						<a href="./volunteers.html">Volunteers</a>
-					</li>
-					<li class="">
-						<a href="./contact.html">Contact</a>
+						<a href="./contact.html">contact</a>
 					</li>
 				</ul>
 				<ul class="nav pull-right">
+					<li class="">
+						<a href="./index.html">acm@uiuc</a>
+					</li>
 					<li class="divider-vertical"></li>
 					<li class="dropdown" id="history_menu">
-						<a class="dropdown-toggle" data-toggle="dropdown">History <b class="caret"></b></a>
+						<a class="dropdown-toggle" data-toggle="dropdown">history <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li>
 								<a href="http://www.acm.uiuc.edu/conference/2011/index.php">2011</a>
@@ -154,7 +161,7 @@
 		<div class="mechmania-info span6">
 			<div id="dont" class="hero-unit">
 				<h2>What you don't need to know</h2>
-				<p>No knowledge of graphics programming is required. For the languages we provide sample clients for, no network programming experience is required. Additionally, Dropbox is running a tutorial on REST in Python during the opening ceremony. This is a change from previous years and was requested by numerous contest alumni.</p>
+				<p>No knowledge of graphics programming is required. For the languages we provide sample clients for, no network programming experience is required.</p>
 			</div>
 		</div>
 	</div>

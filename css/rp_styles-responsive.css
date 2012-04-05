@@ -1,5 +1,6 @@
+/* Makes the background gradient all purrrty.  Trust me. */
 @media (min-height: 1px) {
-  body {
+    body {
 	background: #a90329; /* Old browsers */
 	background: -moz-linear-gradient(top,  #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019)); /* Chrome,Safari4+ */
@@ -10,210 +11,244 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); */
 	margin: 0;
 	width: auto;
-	height: auto;
+	height: 100%;
 	background-repeat: no-repeat;
 	background-color: #6d0019;
-  }
+    }
 }
 
+/* Mobile view <3 */
 @media (max-width: 480px) {
-	#homepage-carousel {
-		width: inherit;
-	}
+    #homepage-carousel {
+	width: inherit;
+    }
 }
 
-@media (min-width: 680px) and (max-width: 1199px) {
-	#header .span12 > img {
-		width: 680px;
-		height: 99px;
-		margin: 30px 0 30px -35px;
-	}
+/* Header section adjustments */
+@media (min-width: 680px) and (max-width: 1054px) {
+    #header .span12 > img {
+	width: 680px;
+	height: 99px;
+	margin: 30px 0 30px -35px;
+    }
 }
 
 @media (min-width: 550px) and (max-width: 679px) {
-	#header .span12 > img {
-		width: 550px;
-		height: 80px;
-		margin: 20px 0 20px -35px;
-	}
-	.span12 {
-		width: 100%;
-	}
+    #header .span12 > img {
+	width: 550px;
+	height: 80px;
+	margin: 20px 0 20px -35px;
+    }
 }
 
 @media (min-width: 400px) and (max-width: 549px) {
-	#header .span12 > img {
-		width: 400px;
-		height: 65px;
-		margin: 10px 0 10px -35px;
-	}
-}
-
-@media (max-width: 575px) {
-	#homepage-carousel .carousel-inner .item > img {
-		height: 269px;
-		width: 404px;
-	}
-	#homepage-carousel-space {
-		margin: 0 auto;
-		width: 404px;
-	}
-	#homepage-carousel {
-		float: left;
-		width: 404px;
-	}
-}
-
-@media (min-width: 576px) {
-  #homepage-carousel .carousel-inner .item > img {
-	height: 384px;
-	width: 576px;
-  }
+    #header .span12 > img {
+	width: 400px;
+	height: 65px;
+	margin: 10px 0 10px -35px;
+    }
 }
 
 @media (max-width: 566px) {
-  .container-fluid .span12 h1, .container-fluid .span12 h2 {
+    .container-fluid .span12 h1, .container-fluid .span12 h2 {
 	display: block;
-  }
-  .container-fluid .span12 h1 {
+    }
+    .container-fluid .span12 h1 {
 	margin-bottom: 10px;
-  }
+    }
+}
+
+/* index.html carousel adjustments */
+@media (max-width: 575px) {
+    #homepage-carousel .carousel-inner .item > img {
+	height: 269px;
+	width: 404px;
+    }
+    #homepage-carousel-space {
+	margin: 0 auto;
+	width: 404px;
+    }
+    #homepage-carousel {
+	float: left;
+	width: 404px;
+    }
+}
+
+@media (min-width: 576px) {
+    #homepage-carousel .carousel-inner .item > img {
+	height: 330px;
+	width: 496px;
+    }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
-	#homepage-carousel-space {
-	  float: left;
-	  width: 100%;
-	  margin: 0 auto;
-	}
-	#homepage-carousel {
-	  display: block;
-	  width: 576px;
-	  margin: 40px auto;
-	}
+    #homepage-carousel-space {
+	float: left;
+	width: 100%;
+	margin: 0 auto;
+    }
+    #homepage-carousel {
+	display: block;
+	width: 496px;
+	margin: 40px auto;
+    }
 }
 
 @media (max-width: 767px) {
-	#homepage-span6 .span6 {
-	  width: auto;
-	  margin-left: 0px;
-	}
-	#top-section {
-	  width: auto;
-	}
-	#top-section .span12 {
-	  width: 95%;
-	  padding-top: 30px;
-	  padding-bottom: 30px;
-	}
-	.container-fluid {
-	  padding-left: 0;
-	}
-	#foot {
-	  width: 95%;
-	  margin: 20px auto;
-	}
-	.drop-footer {
-	  position: relative;
-	}
+    #homepage-span6 .span6 {
+	width: auto;
+	margin-left: 0px;
+    }
+    #top-section {
+	width: auto;
+    }
+    #top-section .span12 {
+	width: 95%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+    }
+    .container-fluid {
+	padding-left: 0;
+    }
+    #map {
+	margin-top: 50px;
+	margin-bottom: 20px;
+    }
 }
 
-@media (max-width: 1199px) {
-	.navbar-fixed-top {
-		margin-bottom: 0px;
-	}
-	#logo-box {
-		padding: 0;
-	}
+/* Tablet view */
+@media (min-width: 768px) and (max-width: 1054px) {
+    #homepage-span6 .span6 {
+	margin-left: 10px;
+	margin-right: 20px;
+    }
+    #foot {
+	margin-left: 10px;
+    }
+    #top-section {
+	width: 722px;
+	margin: 0 auto;
+    }
+    #top-section .span12 {
+	margin-left: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+    }
+    #homepage-span6, #location {
+	width: inherit;
+    }
+    #homepage-carousel-space {
+	margin-left: 15px;
+    }
+    #map {
+	margin-top: 0;
+	width: 100%;
+    }
+    #map iframe {
+	margin: 20px auto;
+    }
+    #homepage-carousel-space {
+	clear: right;
+	width: 100%;
+    }
+    #homepage-carousel {
+	width: 496px;
+	height: 330px;
+	margin: 40px auto;
+    }
+    #homepage-hero {
+	width: 692px;
+    }
+    #location {
+	width: 100%;
+    }
+    /* mechmania hoopla */
+    #dont {
+	height: 279px;
+    }
+    #bring {
+	height: 226px;
+    }
+    #when {
+	height: 188px;
+    }
 }
 
-@media (min-width: 768px) and (max-width: 1199px) {
-	#top-section {
-	  width: 722px;
-	  margin: 0 auto;
-	}
-	#top-section .span12 {
-	  margin-left: 0;
-	  padding-top: 30px;
-	  padding-bottom: 30px;
-	}
-	#homepage-span6, #location {
-	  margin-left: -20px;
-	  width: auto;
-	}
-	#map {
-	  width: 100%;
-	  margin-left: auto;
-	  margin-right: auto;
-	}
-	#map iframe {
-	  margin: 20px auto;
-	}
-	#homepage-carousel-space {
-	  clear: right;
-	  width: 100%;
-	  margin: 0 auto;
-	}
-	#homepage-carousel {
-		width: 576px;
-		height: 384px;
-		margin: 40px auto;
-	}
-	#homepage-hero {
-	  width: 692px;
-	}
-	#location {
-	  width: 810px;
-	}
-	#dont {
-	  height: 375px;
-	}
-	#bring {
-	  height: 287px;
-	}
-	#when {
-	  height: 242px;
-	}
-	#footnotes {
-	  height: 157px;
-	}
+/* Almost full screen view (maybe full screen on some compooters, but not on a 15-inch Mac */
+@media (min-width: 1055px) {
+    #top-section {
+	width: 940px;
+	margin: 0 auto;
+    }
+    #top-section .span12 {
+	margin-left: 10px;
+    }
+    #logo-box #header .span12 {
+	width: 100%;
+    }
+    #page-description .span12 {
+	margin-right: auto;
+	margin-top: 70px;
+	margin-bottom: 30px;
+    }
+    #dont p {
+	height: 179px;
+    }
+    #bring p {
+	height: 127px;
+    }
+    #homepage-carousel .carousel-inner .item > img {
+	float: right;
+	height: 330px;
+	width: 496px;
+    }
+    #homepage-carousel {
+	margin-right: 30px;
+    }
+    #map {
+	margin-left: 40px;
+    }
+    #contact-info .span6 {
+	margin-left: 30px;
+    }
+    #location {
+	margin-left: 0px;
+    }
+    #foot {
+	margin-left: 10px;
+    }
 }
 
+@media (max-width: 1054px) {
+    .navbar-fixed-top {
+      	margin-bottom: 0px;
+    }
+    #logo-box {
+	padding: 0;
+    }
+}
+
+/* Full screen view */
 @media (min-width: 1200px) {
-	#top-section {
-	  width: 1160px;
-	  margin: 0 auto;
-	}
-	#top-section .span12 {
-	  margin-left: 0;
-	}
-	#logo-box #header .span12 {
-		width: 100%;
-	}
-	#page-description .span12 {
-	  margin-top: 70px;
-	  margin-bottom: 30px;
-	}
-	.mechmania-info.span12, .about-info.span12{
-	  width: 1160px;
-	}
-	#dont p {
-	  height: 175px;
-	}
-	#bring p {
-	  height: 134px;
-	}
-	#homepage-carousel .carousel-inner .item > img {
-		height: 384px;
-		width: 576px;
-	}
-	#map {
-	  margin-left: 40px;
-	}
-	#contact-info .span6 {
-	  margin-left: 30px;
-	}
-	.sink-footer {
-	  margin-top: 80px;
-	}
+    #main > .row {
+	margin-left: -10px;
+    }
+    #top-section {
+	width: 1150px; margin: 0 auto;
+    }
+    .row {
+	margin-left: -20px;
+    }
+    .container-fluid .span12 {
+	width: 1170px; 
+    }
+    #location {
+        margin-left: 0;
+    }
+    #dont {
+        height: 188px;
+    }
+    #bring {
+	height: 153px;
+    }
 }

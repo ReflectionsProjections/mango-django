@@ -1,5 +1,5 @@
 html {
-  height: auto;
+  height: 100%;
 }
 body {
   background: #a90329; /* Old browsers */
@@ -12,7 +12,18 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); */
   margin: 0;
   width: auto;
-  height: auto;
+  height: 100%;
+}
+
+/* Wrappers for entire page/main content */
+#wrap {
+  min-height: 100%;
+}
+#wrap > #main {
+  padding-bottom: 100px;
+}
+#main {
+  margin-top: 45px;
 }
 
 /* Navbar */
@@ -29,7 +40,6 @@ body {
 /* Top Section */
 #header {
   background-color: #eee;
-  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px rgba(0, 0, 0, 0.1);
 }
 #logo-box .span12 {
   text-align: center;
@@ -37,9 +47,10 @@ body {
 }
 .container-fluid {
   padding-right: 0px;
+  padding-left: 0px;
 }
 .container-fluid .span12 {
-  width: 100%
+  width: 100%;
 }
 .container-fluid .span12 h1, .container-fluid .span12 h2 {
   display: inline;
@@ -48,19 +59,30 @@ body {
   margin-right: 20px;
 }
 .container-fluid .span12 h2 {
+  width: 80%;
   margin-bottom: 0;
 }
-.container-fluid .span12 h2 > img {
-  padding-bottom: 8px;
-  padding-left: 5px;
-}
 .container-fluid .span12 p {
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 22px;
   font-weight: lighter;
+  padding-top: 10px;
+}
+#logo {
+  text-align: center;
+  margin: 25px auto;
+}
+.page-heading {
+  font-size: 42px;
 }
 
-/* MechMania boxes */
+/* Special mechmania.html styles */
+.hero-unit.mechmania-info {
+  -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 45px;
+  margin-bottom: 0;
+}
 #footnotes {
   padding: 8px 20px;
 }
@@ -68,83 +90,59 @@ body {
   font-size: 11px;
   line-height: 17px;
 }
-/*
-.info-box {
-  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px rgba(0, 0, 0, 0.1);
-  padding: 20px;
-  margin-top: 10px;
-  display: block;
-}
-.info-box p {
-  font-size: 15px;
-  line-height: 22px;
-}
-  */
-#logo {
-  text-align: center;
-  margin: 80px auto 40px auto;
-}
+
+/* index.html styles */
 #homepage-hero {
   padding: 25px;
-  margin-top: 45px;
   font-size: 15px;
   line-height: 22px;
 }
-.hero-unit .description, .hero-unit.mechmania-info p {
-  font-size: 15px;
-  line-height: 22px;
+#homepage-span6 > .span6 {
+  margin-left: 10px;
+}
+#homepage-carousel-space {
+  margin-left: 20px;
+}
+#homepage-carousel {
+  width: 496px;
+  margin-right: 10px;
+  margin-left: auto;
+  border-radius: 6px;
+}
+#homepage-carousel .carousel-inner .item > img {
+  border-radius: 6px;
+  width: 496px;
+  height: 384px;
+  z-index: -9;
+}
+.carousel-control {
+  margin-top: 10px;
+}
+
+/* General text box styles */
+.hero-unit .description {
+  font-size: 13px;
+  line-height: 18px;
 }
 .hero-unit {
   padding: 20px;
 }
 .hero-unit p {
-  font-size: 15px;
-  line-height: 22px;
-}
-#mechmania, #about, #main {
-  margin-top: 45px;
-}
-.header-paragraph {
-  margin-top: 10px;
-}
-#top-section .span12 p {
-  font-family: Helvetica;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 18px;
 }
 .hero-unit.extra-pad p {
   padding-top: 22px;
   padding-bottom: 22px;
 }
-.container-fluid .span12 p {
-  padding-top: 10px;
-}
-.hero-unit.mechmania-info {
-  -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px rgba(0, 0, 0, 0.1);
-  padding: 20px;
-  margin-top: 45px;
-  margin-bottom: 0;
-}
+
+/* Contact page stylez yo */
 .address p, #social-networking p {
   margin-bottom: 0;
 }
 #social-networking {
   margin-top: 20px;
-}
-#homepage-carousel-space {
-  margin-top: 65px;
-}
-#homepage-carousel {
-  width: 576px;
-  margin-left: 20px;
-}
-#homepage-carousel .carousel-inner .item > img {
-  width: 576px;
-  height: 384px;
-}
-.carousel-control {
-  margin-top: 10px;
-}
-.page-heading {
-  font-size: 42px;
 }
 #event-schedule th {
   font-size: 20px;
@@ -153,13 +151,23 @@ body {
 #event-schedule td {
   text-align: center;
 }
-.footer {
-  z-index: -9;
-  width: 70%;
-  text-align: center;
-  margin-top: -90px;
-  top: 100%;
-  position: absolute;
+
+/* Footer stylez yo */
+#foot {
+  width: inherit;
+  padding-top: 40px;
+  position: relative;
+  margin-top: -140px;
+  height: 100px;
+  clear: both;
+}
+/*Opera Fix*/
+body:before {
+    content:"";
+      height:100%;
+        float:left;
+          width:0;
+            margin-top:-32767px;/
 }
 #foot h1 {
   color: #eee;
@@ -172,15 +180,13 @@ body {
 #foot p {
   font-size: 16px;
   font-weight: lighter;
-  letter-spacing: 0px;
   color: #eee;
   text-align: center;
   margin-bottom: 10px;
 }
-.sink-footer {
-  position: relative;
-  width: 95%;
-  text-align: center;
-  margin-top: 80px;
-  top: 100%;
+#foot > .row > .span12 {
+  width: 98%;
+}
+#foot > #copyright {
+  font-size: 12px;
 }
