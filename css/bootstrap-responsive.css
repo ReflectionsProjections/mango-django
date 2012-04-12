@@ -292,6 +292,7 @@
     width: 714px;
   }
 }
+/*
 @media (max-width: 1054px) {
   body {
     padding-top: 0;
@@ -401,6 +402,7 @@
       height: auto !important
    }
 }
+*/
 @media (min-width: 1200px) {
   .row {
     margin-left: -30px;
