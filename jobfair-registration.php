@@ -167,7 +167,7 @@ if($row = $res->fetch_assoc()){
 }
 if($error){
 ?>
-<p>There was an error with this page. Please contact ____</p>
+<p>There was an error with this page. Please contact <a href="mailto:jobfair@acm.uiuc.edu">jobfair@acm.uiuc.edu</a></p>
 <?php
 }
 ?>
