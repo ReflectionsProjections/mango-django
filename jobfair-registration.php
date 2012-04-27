@@ -131,8 +131,46 @@
 		<div class="row" id="header">
 			<div id="top-section">
 				<div class="span12">
-					<h1 class="page-heading">Job Fair Registration</h1>
-					<p>Hey there! Glad to see you are interested in attending our job fair this year!  Please fill out the form below to sign yourself up!</p>
+<h1 class="page-heading">Job Fair Registration</h1>
+<?php
+require_once('dbconnect.php');
+
+$mysqli = new mysqli($db_host,$db_user,$db_pass, $db_name);
+if ($mysqli->connect_errno) {
+    echo "Failed to connect to MySQL";
+}
+
+$company = $mysqli->real_escape_string($_GET['company']);
+$hash = $mysqli->real_escape_string($_GET['key']);
+
+$error = False;
+$res = $mysqli->query("SELECT * FROM jobfair WHERE company = '$company'");
+if($row = $res->fetch_assoc()){
+    if($row['hash'] == $hash && !$row['done']){
+	$id = $row['id'];
+	$mysqli->query("UPDATE jobfair SET visits=visits+1 WHERE id=$id");
+    ?>
+	<a name="form1308489271" id="formAnchor1308489271"></a>
+	<script type="text/javascript" src="http://fs6.formsite.com/include/form/embedManager.js?1308489271"></script>
+	<script type="text/javascript">
+		EmbedManager.embed({
+		    key: "http://fs6.formsite.com/res/showFormEmbed?EParam=0f3EXAbWkRyOWvWrn2%2FGgtt7h1SghSJ6&1308489271",
+ 		    width: "100%"
+		});
+	</script>
+    <?php
+    }else{
+	$error = True;
+    }
+}else{
+    $error = True;
+}
+if($error){
+?>
+<p>There was an error with this page. Please contact ____</p>
+<?php
+}
+?>
 				</div>
 			</div>
 		</div>
