@@ -51,6 +51,9 @@
 							<a href="./jobfair.html">job fair</a>
 						</li>
 						<li class="">
+							<a href="./startupfair.html">startups</a>
+						</li>
+						<li class="">
 							<a href="./mechmania.html">mechmania</a>
 						</li>
 						<li class="">

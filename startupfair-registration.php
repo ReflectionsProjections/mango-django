@@ -47,8 +47,11 @@
 						<li class="">
 							<a href="./travel.html">travel</a>
 						</li>
-						<li class="active">
+						<li class="">
 							<a href="./jobfair.html">job fair</a>
+						</li>
+						<li class="active">
+							<a href="./startupfair.html">startups</a>
 						</li>
 						<li class="">
 							<a href="./mechmania.html">mechmania</a>
