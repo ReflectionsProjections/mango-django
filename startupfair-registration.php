@@ -153,14 +153,14 @@ if($row = $res->fetch_assoc()){
 	$id = $row['id'];
 	$mysqli->query("UPDATE startupfair SET visits=visits+1 WHERE id=$id");
     ?>
-	<a name="form1308489271" id="formAnchor1308489271"></a>
-	<script type="text/javascript" src="http://fs6.formsite.com/include/form/embedManager.js?1308489271"></script>
-	<script type="text/javascript">
-		EmbedManager.embed({
-		    key: "http://fs6.formsite.com/res/showFormEmbed?EParam=0f3EXAbWkRyOWvWrn2%2FGgq%2F3bsAv%2BgQi&1453896551",
- 		    width: "100%"
-		});
-	</script>
+    <a name="form1453896551" id="formAnchor1453896551"></a>
+    <script type="text/javascript" src="http://fs6.formsite.com/include/form/embedManager.js?1453896551"></script>
+    <script type="text/javascript">
+      EmbedManager.embed({
+        key: "http://fs6.formsite.com/res/showFormEmbed?EParam=0f3EXAbWkRyOWvWrn2%2FGgq%2F3bsAv%2BgQi&1453896551",
+        width: "100%"
+      });
+    </script>
     <?php
     }else{
 	$error = True;
