@@ -31,10 +31,13 @@ $company = $mysqli->real_escape_string($_POST['company']);
 $company = preg_replace('/\s+/', '', $company);
 if(strlen($company)>0){
     $mysqli->query("INSERT INTO jobfair (`company`,`hash`) VALUES ('$company','$activatecode')");
+    $id = $mysqli->insert_id;
+    $res = $mysqli->query("SELECT * FROM jobfair WHERE id=".$id);
+    $row = $res->fetch_assoc();
 ?>
 <div class="alert alert-block">
   <h4 class="alert-heading">Create new company</h4>
-  <p>Here's the link: http://www.acm.uiuc.edu/conference/2012/jobfair-registration.php?company=<?= $company; ?>&key=<?= $activatecode; ?>
+  <p>Here's the link: http://www.acm.uiuc.edu/conference/2012/jobfair-registration.php?company=<?= $row['company']; ?>&key=<?= $row['hash']; ?>
 </div>
 
 <?php
