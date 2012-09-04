@@ -9,7 +9,7 @@ if ($mysqli->connect_errno) {
 $firstname = $mysqli->real_escape_string($_POST['firstname']);
 $lastname = $mysqli->real_escape_string($_POST['lastname']);
 $netid = $mysqli->real_escape_string($_POST['netid']);
-$data = addslashes(fread(fopen($form_data, "r"), filesize($resume)));
+$data = addslashes(fread(fopen($form_data, "r"), filesize($form_data)));
 
 $mysqli->query("INSERT INTO resumes (firstname, lastname, netid, file, filename, filesize, filetype) VALUES ('$firstname','$lastname','$netid','$data','$form_data_name','$form_data_size','$form_data_type')");
 $id = $mysqli->insert_id;
