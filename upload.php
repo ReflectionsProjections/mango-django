@@ -28,7 +28,8 @@ if (!$results) {
 	 exit;
    }
 } else {
-  $netid_id = $result->fetch_assoc()['id'];
+  $row = $result->fetch_assoc();
+  $netid_id = $row['id'];
   $result->free();
 }
 
