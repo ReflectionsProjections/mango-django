@@ -18,7 +18,17 @@ $file_obj = fopen($tmp_file, "r");
 $data = addslashes(fread($file_obj, filesize($tmp_file)));
 fclose($file_obj);
 
-$mysqli->query("INSERT INTO resumes (firstname, lastname, netid, file, filename, filesize, filetype) VALUES ('$firstname','$lastname','$netid','$data','$filename','$filesize','$filetype') ON DUPLICATE KEY UPDATE (firstname, lastname, file, filename, filesize, filetype) VALUES ('$firstname','$lastname','$data','$filename','$filesize','$filetype')");
+$mysqli->query(
+"INSERT INTO resumes (firstname, lastname, netid, file, filename, filesize, filetype) 
+VALUES ('$firstname','$lastname','$netid','$data','$filename','$filesize','$filetype') 
+ON DUPLICATE KEY UPDATE 
+firstname = VALUES(firstname),
+lastname = VALUES(lastname),
+file = VALUES(file),
+filename = VALUES(filename),
+filesize = VALUES(filesize),
+filetype = VALUES(filetype)
+");
 
 if ($mysqli->error) {
   print $mysqli->error;
