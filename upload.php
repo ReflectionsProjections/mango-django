@@ -18,7 +18,7 @@ $file_obj = fopen($tmp_file, "r");
 $data = addslashes(fread($file_obj, filesize($tmp_file)));
 fclose($file_obj);
 
-$mysqli->query("INSERT INTO netid_ids (netid) VALUES ('$netid')");
+$mysqli->query("INSERT INTO netid_ids (netid) VALUES ('$netid') ON DUPLICATE KEY UPDATE netid=".$netid);
 $netid_id = $mysqli->insert_id;
 if ($mysqli->error) {
    print $mysqli->error;
