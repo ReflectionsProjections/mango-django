@@ -21,6 +21,6 @@ fclose($file_obj);
 $mysqli->query("INSERT INTO resumes (firstname, lastname, netid, file, filename, filesize, filetype) VALUES ('$firstname','$lastname','$netid','$data','$filename','$filesize','$filetype')");
 $id = $mysqli->insert_id;
 
-header("Location: resumes.html?success=1");
+header("Location: resumes.html?result_code=0");
 exit;
 ?>
