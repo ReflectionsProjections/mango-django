@@ -38,7 +38,7 @@
 						<li class="">
 							<a href="./registration.html">register</a>
 						</li>
-						<li class="active">
+						<li class="">
 							<a href="./schedule.html">schedule</a>
 						</li>
 						<li class="">
