@@ -18,13 +18,15 @@ $file_obj = fopen($tmp_file, "r");
 $data = addslashes(fread($file_obj, filesize($tmp_file)));
 fclose($file_obj);
 
-$netid_id = $mysqli->query("SELECT id FROM netid_ids WHERE netid=".$netid);
-if (!$netid_rows) {
+$netid_rows = $mysqli->query("SELECT id FROM netid_ids WHERE netid=".$netid);
+$netid_id = $netid_rows->fetch_object();
+if (!$netid_id) {
    $mysqli->query("INSERT INTO netid_ids (netid) VALUES ('$netid')");
    $netid_id = $mysqli->insert_id;
    $netid_error = $mysqli->error;
    if ($mysqli->error) {
      print $mysqli->error;
+     $mysqli->close();
 	 exit;
    }
 }
@@ -34,8 +36,10 @@ $id = $mysqli->insert_id;
 
 if ($mysqli->error) {
   print $mysqli->error;
+  $mysqli->close();
   exit;
 } else {
+  $mysqli->close();
   header("Location: resumes.php?status=ok");
   exit;
 }
