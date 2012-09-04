@@ -142,11 +142,18 @@
 	</div>
 	<div id="main" class="container">
 		<div class="row">
-			<div class="span12">
+			<div class="span6">
+				<div class="hero-unit">
+				  <h3>Add your resume to The Big Book of Programmers!</h3>
+				 <p>Reflections | Projections is compiling its first volume of an annual resume book for attendees. Participants who upload their resume here or in person at the registration table will have their own page in the book.</p>
+				 <h3>Interested in a copy?</h3>
+				 <p>Employers who are interested in purchasing a copy of the Big Book of Programmers should email <a href="mailto:corporate@acm.uiuc.edu">corporate@acm.uiuc.edu</a> for more information.</p>
+				</div>
+			</div>
+			<div class="span6">
 				<div class="hero-unit">
 				  <?php
 					 if ($_GET["status"] == "ok") {
-					 print $_GET["result_code"];
 					 ?>
 <div class="alert alert-success">Your resume was uploaded! If you need to make changes, just upload your resume again with the same Netid and we will save your changes!</div>
 <?
