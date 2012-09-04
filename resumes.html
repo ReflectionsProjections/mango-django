@@ -147,9 +147,7 @@
 				  <?php
 					 if ($_GET['result_code'] == 1) {
 					 echo $_GET['result_code'];
-					 ?>
-					   <div class="alert alert-success">Your resume was uploaded! If you need to make changes, just upload your resume again with the same Netid and we will save your changes!</div>
-					   <?
+					   echo '<div class="alert alert-success">Your resume was uploaded! If you need to make changes, just upload your resume again with the same Netid and we will save your changes!</div>';
 						  }
 						  ?>
 				  <form method="post" action="upload.php" enctype="multipart/form-data">
