@@ -18,16 +18,7 @@ $file_obj = fopen($tmp_file, "r");
 $data = addslashes(fread($file_obj, filesize($tmp_file)));
 fclose($file_obj);
 
-$mysqli->query("INSERT INTO netid_ids (netid) VALUES ('$netid') ON DUPLICATE KEY UPDATE netid=".$netid);
-$netid_id = $mysqli->insert_id;
-if ($mysqli->error) {
-   print $mysqli->error;
-   $mysqli->close();
-   exit;
-}
-
-$mysqli->query("INSERT INTO resumes (firstname, lastname, netid, file, filename, filesize, filetype) VALUES ('$firstname','$lastname','$netid_id','$data','$filename','$filesize','$filetype')");
-$resume_id = $mysqli->insert_id;
+$mysqli->query("INSERT INTO resumes (firstname, lastname, netid, file, filename, filesize, filetype) VALUES ('$firstname','$lastname','$netid','$data','$filename','$filesize','$filetype') ON DUPLICATE KEY UPDATE (firstname, lastname, file, filename, filesize, filetype) VALUES ('$firstname','$lastname','$data','$filename','$filesize','$filetype')");
 
 if ($mysqli->error) {
   print $mysqli->error;
