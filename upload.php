@@ -18,24 +18,16 @@ $file_obj = fopen($tmp_file, "r");
 $data = addslashes(fread($file_obj, filesize($tmp_file)));
 fclose($file_obj);
 
-$results = $mysqli->query("SELECT id FROM netid_ids WHERE netid=".$netid);
-if (!$results) {
-   $mysqli->query("INSERT INTO netid_ids (netid) VALUES ('$netid')");
-   $netid_id = $mysqli->insert_id;
-   if ($mysqli->error) {
-     print $mysqli->error;
-     $mysqli->close();
-	 exit;
-   }
-} else {
-  $row = $result->fetch_assoc();
-  $netid_id = $row['id'];
-  $result->free();
+$mysqli->query("INSERT INTO netid_ids (netid) VALUES ('$netid')");
+$netid_id = $mysqli->insert_id;
+if ($mysqli->error) {
+   print $mysqli->error;
+   $mysqli->close();
+   exit;
 }
 
-
 $mysqli->query("INSERT INTO resumes (firstname, lastname, netid, file, filename, filesize, filetype) VALUES ('$firstname','$lastname','$netid_id','$data','$filename','$filesize','$filetype')");
-$id = $mysqli->insert_id;
+$resume_id = $mysqli->insert_id;
 
 if ($mysqli->error) {
   print $mysqli->error;
