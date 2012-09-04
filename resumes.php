@@ -146,6 +146,13 @@
 				<div class="hero-unit">
 				  <h3>Add your resume to The Big Book of Programmers!</h3>
 				 <p>Reflections | Projections is compiling its first volume of an annual resume book for attendees. Participants who upload their resume here or in person at the registration table will have their own page in the book.</p>
+				  <p>Here is what we need:</p>
+				  <ul>
+					<li>Full name as you would like it printed in the book</li>
+					<li>A valid University of Illinois Netid.</li>
+					<li>A black & white, one-page, PDF file containing your resume.</li>
+				  </ul>
+				  <p>Questions? <a href="mailto:corporate@acm.uiuc.edu">Email us.</a></p>
 				 <h3>Interested in a copy?</h3>
 				 <p>Employers who are interested in purchasing a copy of the Big Book of Programmers should email <a href="mailto:corporate@acm.uiuc.edu">corporate@acm.uiuc.edu</a> for more information.</p>
 				</div>
@@ -159,17 +166,37 @@
 <?
 						  }
 						  ?>
-				  <form method="post" action="upload.php" enctype="multipart/form-data">
-					<label>First Name:</label>
-					<input type="text" name="firstname" size="40">
-					<label>Last Name:</label>
-					<input type="text" name="lastname" size="40">
-					<label>University of Illinois Netid:</label>
-					<input type="text" name="netid" size="40">
-					<input type="hidden" name="MAX_FILE_SIZE" value="1000000">
-					<label>Resume (PDFs only):</label>
-					<input type="file" name="resume" id="resume" size="40">
-					<button type="submit" class="btn">Submit</button>
+				  <form class="form-horizontal" method="post" action="upload.php" enctype="multipart/form-data">
+					<div class="control-group">
+					  <label class="control-label">First Name:</label>
+					  <div class="controls">
+						<input type="text" name="firstname" size="40">
+					  </div>
+					</div>
+					<div class="control-group">
+					  <label class="control-label">Last Name:</label>
+					  <div class="controls">
+						<input type="text" name="lastname" size="40">
+					  </div>
+					</div>
+					<div class="control-group">
+					  <label class="control-label">University of Illinois Netid:</label>
+					  <div class="controls">
+						<input type="text" name="netid" size="40">
+						<input type="hidden" name="MAX_FILE_SIZE" value="1000000">
+					  </div>
+					</div>
+					<div class="control-group">
+					  <label class="control-label">Resume (PDFs only):</label>
+					  <div class="controls">
+						<input type="file" name="resume" id="resume" size="40">
+					  </div>
+					</div>
+					<div class="control-group">
+					  <div class="controls">
+						<button type="submit" class="btn btn-primary">Submit</button>
+					  </div>
+					</div>
 				  </form>
 				</div>
 			</div>
