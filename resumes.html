@@ -134,8 +134,8 @@
 		<div class="row" id="header">
 			<div id="top-section">
 				<div class="span12">
-					<h1 class="page-heading">Schedule</h1>
-					<p>The schedule for this year's conference will be finalized closer to the date of the event.  Be sure to check back for updates.</p>
+					<h1 class="page-heading">Resume Book</h1>
+					<p>Fill out the form below to have your resume added to the Reflections | Projections resume book.</p>
 				</div>
 			</div>
 		</div>
@@ -144,6 +144,11 @@
 		<div class="row">
 			<div class="span12">
 				<div class="hero-unit">
+				  <?php
+					 if ($_GET['success']) {
+					   print '<div class="alert alert-success">Your resume was uploaded! If you need to make changes, just upload your resume again with the same Netid and we will save your changes!</div>'
+					 }
+					 ?>
 				  <form method="post" action="upload.php" enctype="multipart/form-data">
 					<label>First Name:</label>
 					<input type="text" name="firstname" size="40">
