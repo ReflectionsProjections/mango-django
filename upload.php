@@ -20,11 +20,7 @@ fclose($file_obj);
 
 $mysqli->query("INSERT INTO resumes (firstname, lastname, netid, file, filename, filesize, filetype) VALUES ('$firstname','$lastname','$netid','$data','$filename','$filesize','$filetype')");
 $id = $mysqli->insert_id;
-$res = $mysqli->query("SELECT * FROM resumes WHERE id=".$id);
-$row = $res->fetch_assoc();
 
-print "<p>File ID: <b>$id</b><br>";
-print "<p>File Name: <b>$filename</b><br>";
-print "<p>File Size: <b>$filesize</b><br>";
-print "<p>File Type: <b>$filetype</b><p>";
+header("Location: resumes.php");
+exit;
 ?>
