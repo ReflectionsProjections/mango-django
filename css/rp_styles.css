@@ -25,6 +25,7 @@ body {
 
 /* Navbar */
 .navbar-fixed-top {
+  position: static;
   margin-bottom: 0;
 }
 .navbar-fixed-top .container {
@@ -164,11 +165,11 @@ body {
 }
 /*Opera Fix*/
 body:before {
-    content:"";
-      height:100%;
-        float:left;
-          width:0;
-            margin-top:-32767px;/
+  content:"";
+  height:100%;
+  float:left;
+  width:0;
+  margin-top:-32767px;/
 }
 #foot h1 {
   color: #eee;
@@ -189,4 +190,26 @@ body:before {
 }
 #foot > #copyright {
   font-size: 12px;
+}
+#helping_out {
+  color: #eee;
+}
+.company_list {
+  font-size: 18px;
+  margin-left: 0;
+}
+.company_list li {
+  list-style-type: none;
+  color: #8f0222;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+.company_list:last-child {
+  padding-bottom: 0px;
+}
+#company_list_2 {
+  top: 0;
+}
+#company_row {
+  margin: 20px auto 0 auto;
 }

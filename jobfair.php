@@ -37,30 +37,46 @@
 			<div class="jobfair-info span12">
 				<div class="hero-unit">
 				<p>The following companies will attend the job fair this year:</p>
-				<ul>
+				<div id="company_row" class="row">
+				<div class="span3">
+				    <ul id="company_list_1" class="company_list">
 					<li>Allston Trading</li>
 					<li>Citrix Systems</li>
 					<li>CME Group</li>
 					<li>Dropbox</li>
 					<li>Enova</li>
 					<li>Facebook</li>
+				    </ul>
+				</div>
+				<div class="span3">
+				    <ul id="company_list_2" class="company_list">
 					<li>Groupon</li>
 					<li>Hulu</li>
 					<li>IMC</li>
 					<li>Intel</li>
 					<li>Interactive Game Technology</li>
 					<li>Interactive Intelligence</li>
+				    </ul>
+				</div>
+				<div class="span3">
+				    <ul id="company_list_3" class="company_list">
 					<li>Microsoft</li>
 					<li>Palantir</li>
 					<li>Riverbed</li>
 					<li>Salesforce</li>
 					<li>Sandia National Laboratories</li>
 					<li>Trial Pay</li>
+				    </ul>
+				</div>
+				<div class="span2">
+				    <ul id="company_list_4" class="company_list">
 					<li>Twitter</li>
 					<li>ViaSat</li>
 					<li>Yelp</li>
 					<li>Zynga</li>
-				</ul>
+				    </ul>
+				</div>
+				</div>
 				</div>
 			</div>
 		</div>

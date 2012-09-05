@@ -120,16 +120,15 @@
 @media (min-width: 887px) {
     #top-section .span12 {
 	margin-left: 10px;
-	margin-top: 70px;
 	margin-bottom: 30px;
+	margin-top: 30px;
     }
 }
 @media (min-width: 768px) and (max-width: 886px) {
     #top-section .span12 {
 	margin-left: 10px;
-	padding-top: 30px;
 	padding-bottom: 30px;
-	margin: 0px;
+	padding-top: 30px;
     }
 }
 @media (min-width: 768px) and (max-width: 1054px) {
@@ -198,7 +197,7 @@
     }
     #page-description .span12 {
 	margin-right: auto;
-	margin-top: 70px;
+	margin-top: 30px;
 	margin-bottom: 30px;
     }
     #dont p {
@@ -234,7 +233,7 @@
       height: auto !important
    }
 }
-@media (max-width: 886px) {
+@media (max-width: 955px) {
   body {
     padding-top: 0;
   }
@@ -242,17 +241,12 @@
     position: static;
     margin-bottom: 0px;
   }
-  .navbar-fixed-top .navbar-inner {
-    padding: 5px;
-  }
   .navbar .container {
     width: auto;
     padding: 0;
   }
   .navbar .brand {
-    padding-left: 10px;
     padding-right: 10px;
-    margin: 0 0 0 -5px;
   }
   .navbar .nav-collapse {
     clear: left;
