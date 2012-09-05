@@ -177,19 +177,9 @@
 			</div>
 		</div>
 	</div>
-	<div id="foot" class="row mechmania-row">
-		<div class="span12">
-			<h1>October 5-7, 2012</h1>
-			<p>18<sup>th</sup> Annual Reflections | Projections Student Computing Conference</p>
-		</div>
-	</div
 </div>
 
-	<!-- Le JavaScript -->
-	<script src="js/jquery.js"></script>
-	<script src="js/bootstrap-carousel.js"></script>
-	<script src="js/bootstrap-collapse.js"></script>
-	<script src="js/bootstrap-dropdown.js"></script>
+<?php include("footer.php"); ?>
 
 </body>
 </html>
