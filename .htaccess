@@ -2,4 +2,4 @@ RewriteEngine On
 
 RewriteRule "^(.*/)?\.git/" - [R=404,L]
 
-RedirectMatch permanent /conference/2012/(.*).html http://www.acm.uiuc.edu/conference/2012/$1.php
+RedirectMatch temp /conference/2012/(.*).html http://www.acm.uiuc.edu/conference/2012/$1.php
