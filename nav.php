@@ -1,26 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
-	<meta name="description" content="">
-	<meta name="author" content="">
-	<title>Speakers - ACM Reflections | Projections 2012</title>
-
-	<!-- Le Styles -->
-	<link href="css/bootstrap.css" rel="stylesheet" />
-	<link href="css/rp_styles.css" rel="stylesheet" />
-	<link href="css/bootstrap-responsive.css" rel="stylesheet" />
-	<link href="css/rp_styles-responsive.css" rel="stylesheet" />
-	<!--[if !IE 7]>
-		<style type="text/css">
-			#wrap {display:table;height:100%}
-		</style>
-	<![endif]-->
-
-</head>
-<body>
-<div id="wrap">
+<?php $page = end(explode("/", $_SERVER['REQUEST_URI'])) ?>
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
@@ -29,38 +7,38 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</a>
-				<a class="brand" href="./index.html"><img src="img/running_man_navbar.png"></a>
+				<a class="brand" href="./index.php"><img src="img/running_man_navbar.png"></a>
 				<div class="nav-collapse">
 					<ul class="nav">
-						<li class="">
-							<a href="./about.html">about</a>
+						<li class="<?php if($page=="about.php"){echo "active";} ?>">
+							<a href="./about.php">about</a>
 						</li>
-						<li class="">
-							<a href="./registration.html">register</a>
+						<li class="<?php if($page=="registration.php"){echo "active";} ?>">
+							<a href="./registration.php">register</a>
 						</li>
-						<li class="">
-							<a href="./schedule.html">schedule</a>
+						<li class="<?php if($page=="schedule.php"){echo "active";} ?>">
+							<a href="./schedule.php">schedule</a>
 						</li>
-						<li class="active">
-							<a href="./speakers.html">speakers</a>
+						<li class="<?php if($page=="speakers.php"){echo "active";} ?>">
+							<a href="./speakers.php">speakers</a>
 						</li>
-						<li class="">
-							<a href="./travel.html">travel</a>
+						<li class="<?php if($page=="travel.php"){echo "active";} ?>">
+							<a href="./travel.php">travel</a>
 						</li>
-						<li class="">
-							<a href="./jobfair.html">job fair</a>
+						<li class="<?php if($page=="jobfair.php"){echo "active";} ?>">
+							<a href="./jobfair.php">job fair</a>
 						</li>
-						<li class="">
-							<a href="./startupfair.html">startups</a>
+						<li class="<?php if($page=="startupfair.php"){echo "active";} ?>">
+							<a href="./startupfair.php">startups</a>
 						</li>
-						<li class="">
-							<a href="./mechmania.html">mechmania</a>
+						<li class="<?php if($page=="mechmania.php"){echo "active";} ?>">
+							<a href="./mechmania.php">mechmania</a>
 						</li>
-						<li class="">
-							<a href="./volunteers.html">volunteers</a>
+						<li class="<?php if($page=="volunteers.php"){echo "active";} ?>">
+							<a href="./volunteers.php">volunteers</a>
 						</li>
-						<li class="">
-							<a href="./contact.html">contact</a>
+						<li class="<?php if($page=="contact.php"){echo "active";} ?>">
+							<a href="./contact.php">contact</a>
 						</li>
 					</ul>
 					<ul class="nav pull-right">
@@ -123,33 +101,9 @@
 									<a href="http://www.acm.uiuc.edu/conference/1995/">1995</a>
 								</li>
 							</ul>
-							</li>
-						</ul>
+						</li>
 					</ul>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="page-description" class="container-fluid">
-		<div class="row" id="header">
-			<div id="top-section">
-				<div class="span12">
-					<h1 class="page-heading">Speakers</h1>
-					<p>Each year, Reflections | Projections hosts various tech talks and presentations by some of the most influential minds in the history of science and technology.  The speakers for this year's event have not yet been announced. Keep checking back for more information on who will be featured at this year's conference.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<div id="foot">
-	<h1>October 5-7, 2012</h1>
-	<p>18<sup>th</sup> Annual Reflections | Projections Student Computing Conference</p>
-	<p id="copyright">Copyright ACM 2012</p>
-</div>
-
-	<!-- Le JavaScript -->
-	<script src="js/jquery.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-
-</body>
-</html>
