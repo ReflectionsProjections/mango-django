@@ -38,22 +38,73 @@
 				<div class="hero-unit">
 					<table id="event-schedule" class="table table-bordered table-striped">
 						<tr>
-							<th id="friday">Friday, October 5</th>
+							<th id="friday" colspan="2">Friday, October 5</th>
 						</tr>
 						<tr>
-							<td class="muted">No events have been scheduled... yet.</td>
+							<td>10:00 AM - 4:00 PM</td>
+							<td>Reflections | Projections Job Fair</td>
 						</tr>
 						<tr>
-							<th id="saturday">Saturday, October 6</th>
+							<td class="muted">5:00 PM</td>
+							<td class="muted">Speaker Talk (TBA)</td>
 						</tr>
 						<tr>
-							<td class="muted">No events have been scheduled... yet.</td>
+							<td>6:30 PM</td>
+							<td>Dinner</td>
 						</tr>
 						<tr>
-							<th id="sunday">Sunday, October 7</th>
+							<td class="muted">7:45 PM</td>
+							<td class="muted">Speaker Talk (TBA)</td>
 						</tr>
 						<tr>
-							<td class="muted">No events have been scheduled... yet.</td>
+							<td>9:00 PM</td>
+							<td>MechMania Opening Ceremony</td>
+						</tr>
+						<tr>
+							<td>9:30 PM</td>
+							<td>MechMania Begins</td>
+						</tr>
+						<tr>
+							<th id="saturday" colspan="2">Saturday, October 6</th>
+						</tr>
+						<tr>
+							<td>9:00 AM</td>
+							<td>Breakfast</td>
+						</tr>
+						<tr>
+							<td class="muted">10:00 AM</td>
+							<td class="muted">Speaker Talks (TBA)</td>
+						</tr>
+						<tr>
+							<td>12:30 AM</td>
+							<td>Lunch</td>
+						</tr>
+						<tr>
+							<td>1:00 PM - 4:00 PM</td>
+							<td>Reflections | Projections Startup Fair</td>
+						</tr>
+						<tr>
+							<td class="muted">1:30 PM</td>
+							<td class="muted">Speaker Talks (TBA)</td>
+						</tr>
+						<tr>
+							<td>5:30 PM</td>
+							<td>Dinner</td>
+						</tr>
+						<tr>
+							<td class="muted">6:30 - 9:00 PM</td>
+							<td class="muted">Speaker Talks (TBA)</td>
+						</tr>
+						<tr>
+							<td>9:00 PM</td>
+							<td>MechMania Ends</td>
+						</tr>
+						<tr>
+							<th id="sunday" colspan="2">Sunday, October 7</th>
+						</tr>
+						<tr>
+							<td>1:00 PM</td>
+							<td>MechMania Closing Ceremony</td>
 						</tr>
 					</table>
 				</div>
