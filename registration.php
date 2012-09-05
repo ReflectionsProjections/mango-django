@@ -22,14 +22,21 @@
 				<div class="span12">
 					<h1 class="page-heading">Registration</h1>
 					<p>You may register online or at the door, but we prefer if you would register now.  It helps give us an accurate headcount when planning space and logistics.  If you would like meals throughout the weekend, you can also pay now or at the door for the meal plan. If you have questions, please email <a href="mailto:conference@acm.uiuc.edu">conference@acm.uiuc.edu</a>.</p>
-<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=2363790160&ref=etckt" frameborder="0" height="256" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-<h2>Interested in helping out?</h2>
-<p>Reflections | Projections is entirely run by students, and we need your help! Volunteers get entry with the meal plan for free, so <a href="volunteers.php">register as a volunteer instead</a>!</p>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="main"></div>
+	<div id="main" class="container">
+	  <div class="span12">
+		<div class="hero-unit">
+		  <iframe  src="http://www.eventbrite.com/tickets-external?eid=2363790160&ref=etckt" frameborder="0" height="256" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+	  </div></div>
+	<div class="span12">
+	  <div class="hero-unit">
+		<h2>Interested in helping out?</h2>
+		<p>Reflections | Projections is entirely run by students, and we need your help! Volunteers get entry with the meal plan for free, so <a href="volunteers.php">register as a volunteer instead</a>!</p>
+	  </div></div<
+	</div>
   </div>
 </div>
 <?php include("footer.php"); ?>
