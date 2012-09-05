@@ -1,5 +1,5 @@
 <?php $page = end(explode("/", $_SERVER['REQUEST_URI'])) ?>
-	<div class="navbar <?php if($page!="index.php"){ echo "navbar-fixed-top"; } ?>">
+	<div class="navbar <?php if($page != "index.php" && $page != "" ){ echo "navbar-fixed-top"; } ?>">
 		<div class="navbar-inner">
 			<div class="container">
 				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
