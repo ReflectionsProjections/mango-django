@@ -20,7 +20,7 @@
 
 </head>
 <body>
-<?php include("nav.php") ?>
+<?php $page="mechmania.php"; include("nav.php") ?>
 <div id="page-description" class="container-fluid">
 	<div class="row" id="header">
 		<div id="top-section">

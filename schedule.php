@@ -21,7 +21,7 @@
 </head>
 <body>
 <div id="wrap">
-	<?php include("nav.php") ?>
+	<?php $page="schedule.php"; include("nav.php") ?>
 	<div id="page-description" class="container-fluid">
 		<div class="row" id="header">
 			<div id="top-section">

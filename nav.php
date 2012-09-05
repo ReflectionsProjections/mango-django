@@ -1,5 +1,4 @@
-<?php $page = end(explode("/", $_SERVER['REQUEST_URI'])) ?>
-	<div class="navbar <?php if($page != "index.php" && $page != "" ){ echo "navbar-fixed-top"; } ?>">
+	<div class="navbar <?php if($page != "index.php"){ echo "navbar-fixed-top"; } ?>">
 		<div class="navbar-inner">
 			<div class="container">
 				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -7,7 +6,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</a>
-				<a class="brand" href="./index.php"><img src="img/running_man_navbar.png"></a>
+				<a class="brand" href="./"><img src="img/running_man_navbar.png"></a>
 				<div class="nav-collapse">
 					<ul class="nav">
 						<li class="<?php if($page=="about.php"){echo "active";} ?>">

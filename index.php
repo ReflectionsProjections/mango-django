@@ -23,7 +23,7 @@
 			</div>
 		</div>
 	</div>
-	<?php include("nav.php"); ?>
+	<?php $page="index.php"; include("nav.php"); ?>
 	<div id="main" class="container">
 		<div class="row">
 			<div id="homepage-span6">
