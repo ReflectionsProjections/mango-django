@@ -6,7 +6,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</a>
-				<a class="brand" href="./"><img src="img/running_man_navbar.png"></a>
+				<?php if($page != "index.php"){ echo '<a class="brand" href="./"><img src="img/running_man_navbar.png"></a>';} ?>
 				<div class="nav-collapse">
 					<ul class="nav">
 						<li class="<?php if($page=="about.php"){echo "active";} ?>">
