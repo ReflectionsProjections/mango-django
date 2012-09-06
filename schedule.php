@@ -45,16 +45,16 @@
 							<td>Reflections | Projections Job Fair</td>
 						</tr>
 						<tr>
-							<td class="muted">5:00 PM</td>
-							<td class="muted">Speaker Talk (TBA)</td>
+							<td>5:00 PM</td>
+							<td>Speaker Talk (TBA)</td>
 						</tr>
 						<tr>
 							<td>6:30 PM</td>
 							<td>Dinner</td>
 						</tr>
 						<tr>
-							<td class="muted">7:45 PM</td>
-							<td class="muted">Speaker Talk (TBA)</td>
+							<td>7:45 PM</td>
+							<td>Speaker Talk (TBA)</td>
 						</tr>
 						<tr>
 							<td>9:00 PM</td>
@@ -72,8 +72,8 @@
 							<td>Breakfast</td>
 						</tr>
 						<tr>
-							<td class="muted">10:00 AM</td>
-							<td class="muted">Speaker Talks (TBA)</td>
+							<td>10:00 AM</td>
+							<td>Speaker Talks (TBA)</td>
 						</tr>
 						<tr>
 							<td>12:30 AM</td>
@@ -84,16 +84,16 @@
 							<td>Reflections | Projections Startup Fair</td>
 						</tr>
 						<tr>
-							<td class="muted">1:30 PM</td>
-							<td class="muted">Speaker Talks (TBA)</td>
+							<td>1:30 PM</td>
+							<td>Speaker Talks (TBA)</td>
 						</tr>
 						<tr>
 							<td>5:30 PM</td>
 							<td>Dinner</td>
 						</tr>
 						<tr>
-							<td class="muted">6:30 - 9:00 PM</td>
-							<td class="muted">Speaker Talks (TBA)</td>
+							<td>6:30</td>
+							<td>Speaker Talks (TBA)</td>
 						</tr>
 						<tr>
 							<td>9:00 PM</td>

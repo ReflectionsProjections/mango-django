@@ -27,12 +27,13 @@
 		</div>
 	</div>
 	<div id="main" class="container">
-	    <div class="span12">
-		  <iframe  src="http://www.eventbrite.com/tickets-external?eid=2363790160&ref=etckt" frameborder="0" height="256" width="95%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+	    <div class="span11">
+		  <iframe  src="http://www.eventbrite.com/tickets-external?eid=2363790160&ref=etckt" frameborder="0" height="256" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 	    </div>
-	    <div id="helping_out" class="span12">
+	    <div id="helping_out" class="span11"> <div class="hero-unit">
 		<h2>Interested in helping out?</h2>
 		<p>Reflections | Projections is entirely run by students, and we need your help! Volunteers get entry with the meal plan for free, so <a href="volunteers.php">register as a volunteer instead</a>!</p>
+</div>
 	    </div>
 	</div>
   </div>

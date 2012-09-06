@@ -191,16 +191,12 @@ body:before {
 #foot > #copyright {
   font-size: 12px;
 }
-#helping_out {
-  color: #eee;
-}
 .company_list {
   font-size: 18px;
   margin-left: 0;
 }
 .company_list li {
   list-style-type: none;
-  color: #8f0222;
   padding-bottom: 5px;
   font-weight: bold;
 }
