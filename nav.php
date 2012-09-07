@@ -9,35 +9,49 @@
 				<?php if($page != "index.php"){ echo '<a class="brand" href="./"><img src="img/running_man_navbar.png"></a>';} ?>
 				<div class="nav-collapse">
 					<ul class="nav">
-						<li class="<?php if($page=="about.php"){echo "active";} ?>">
-							<a href="./about.php">about</a>
+						<li class="dropdown" id="about">
+							<a class="dropdown-toggle" data-toggle="dropdown">conference <b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li class="<?php if($page=="about.php"){echo "active";} ?>">
+									<a href="./about.php">about</a>
+								</li>
+								<li class="<?php if($page=="contact.php"){echo "active";} ?>">
+									<a href="./contact.php">contact</a>
+								</li>
+							</ul>
 						</li>
-						<li class="<?php if($page=="registration.php"){echo "active";} ?>">
-							<a href="./registration.php">register</a>
+						<li class="dropdown" id="attend">
+							<a class="dropdown-toggle" data-toggle="dropdown">attend <b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li class="<?php if($page=="registration.php"){echo "active";} ?>">
+									<a href="./registration.php">register</a>
+								</li>
+								<li class="<?php if($page=="volunteers.php"){echo "active";} ?>">
+									<a href="./volunteers.php">volunteers</a>
+								</li>
+							</ul>
 						</li>
-						<li class="<?php if($page=="schedule.php"){echo "active";} ?>">
-							<a href="./schedule.php">schedule</a>
+						<li class="dropdown" id="speakers">
+							<a class="dropdown-toggle" data-toggle="dropdown">speakers <b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li class="<?php if($page=="schedule.php"){echo "active";} ?>">
+									<a href="./schedule.php">schedule</a>
+								</li>
+							</ul>
 						</li>
-						<li class="<?php if($page=="speakers.php"){echo "active";} ?>">
-							<a href="./speakers.php">speakers</a>
-						</li>
-						<li class="<?php if($page=="travel.php"){echo "active";} ?>">
-							<a href="./travel.php">travel</a>
-						</li>
-						<li class="<?php if($page=="jobfair.php"){echo "active";} ?>">
-							<a href="./jobfair.php">job fair</a>
-						</li>
-						<li class="<?php if($page=="startupfair.php"){echo "active";} ?>">
-							<a href="./startupfair.php">startups</a>
+						<li class="dropdown" id="job fairs">
+							<a class="dropdown-toggle" data-toggle="dropdown">job fairs <b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li class="<?php if($page=="jobfair.php"){echo "active";} ?>">
+									<a href="./jobfair.php">job fair</a>
+								</li>
+								<li class="<?php if($page=="startupfair.php"){echo "active";} ?>">
+									<a href="./startupfair.php">startup fair</a>
+								</li>
+							</ul>
 						</li>
 						<li class="<?php if($page=="mechmania.php"){echo "active";} ?>">
 							<a href="./mechmania.php">mechmania</a>
-						</li>
-						<li class="<?php if($page=="volunteers.php"){echo "active";} ?>">
-							<a href="./volunteers.php">volunteers</a>
-						</li>
-						<li class="<?php if($page=="contact.php"){echo "active";} ?>">
-							<a href="./contact.php">contact</a>
 						</li>
 					</ul>
 					<ul class="nav pull-right">
