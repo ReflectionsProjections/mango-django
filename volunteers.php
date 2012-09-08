@@ -22,7 +22,7 @@
 <body>
 <div id="wrap">
 <?php $page="volunteers.php"; include("nav.php"); ?>
-	<div id="page-description" class="container-fluid">
+	<div id="page-description" class="container-fluid" style="min-height: 150%;">
 		<div class="row" id="header">
 			<div id="top-section">
 				<div class="span12">

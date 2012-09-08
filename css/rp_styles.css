@@ -209,3 +209,13 @@ body:before {
 #company_row {
   margin: 20px auto 0 auto;
 }
+.dropdown-menu li > a:hover,
+.dropdown-menu .active > a,
+.dropdown-menu .active > a:hover {
+  background-color: #991B1E;
+}
+.navbar .nav .active > a,
+.navbar .nav .active > a:hover {
+  background-color: inherit;
+  color: #991B1E;
+}
