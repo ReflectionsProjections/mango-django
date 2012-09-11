@@ -75,8 +75,7 @@
 							<td>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></td>
 						<tr>
 						  <td></td>
-						  <td>Kumar Srinivasan, Chief Product & Technology Officer at Bazaarvoice</td>
-</tr>
+						  <td>Rian Hunter, Software Engineer at Dropbox</td>
 						</tr>
 						<tr>
 						  <td>11:15 AM</td>
@@ -111,10 +110,6 @@
 						  <td>Ian Chan, Front End Engineer at Twitter</td>
 						</tr>
 						<tr>
-						  <td></td>
-						  <td>Rian Hunter, Software Engineer at Dropbox</td>
-						</tr>
-						<tr>
 						  <td>4:00 PM</td>
 						  <td>Jiquan Ngiam, Director of Engineering at Coursera</td>
 						</tr>
@@ -128,7 +123,7 @@
 						</tr>
 						<tr>
 						  <td>6:30 PM</td>
-						  <td>Andrew Ritz, Devleopment Manager for Windows at Microsoft</td>
+						  <td>Andrew Ritz, Development Manager for Windows at Microsoft</td>
 						</tr>
 						<tr>
 						  <td></td>
@@ -144,7 +139,7 @@
 						</tr>
 						<tr>
 						  <td></td>
-						  <td>Video Game Q&A with Eric Wolpaw (Portal) and Steve Jaros (Volition)</td>
+						  <td>Video Game Q&A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</td>
 						</tr>
 						<tr>
 							<td>9:00 PM</td>
