@@ -27,6 +27,14 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">Startup Fair</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="main" class="container">
+		<div class="row">
+			<div class="about-info span12">
+				<div class="hero-unit">
 					<p>This year Reflections | Projections will feature a startup fair. The companies that will be at this year's fair have not yet been announced. Keep checking back to find out who you'll get a chance to meet.</p>
 				</div>
 			</div>

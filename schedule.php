@@ -27,7 +27,6 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">Schedule</h1>
-					<p>We have a ton of great speakers and events this year at Reflections | Projections. Be sure to check back for updates and event locations!</p>
 				</div>
 			</div>
 		</div>
@@ -73,7 +72,7 @@
 						</tr>
 						<tr>
 							<td>10:00 AM</td>
-							<td>Amber Graner, Co-Author of The Official Ubuntu Book</td>
+							<td>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></td>
 						<tr>
 						  <td></td>
 						  <td>Kumar Srinivasan, Chief Product & Technology Officer at Bazaarvoice</td>

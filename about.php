@@ -27,7 +27,6 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">About</h1>
-					<p>History of Reflections | Projections</p>
 				</div>
 			</div>
 		</div>

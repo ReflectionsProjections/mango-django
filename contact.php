@@ -27,7 +27,6 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">Contact Us</h1>
-					<p>Have a question? We'd love to help.</p>
 				</div>
 			</div>
 		</div>

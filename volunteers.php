@@ -27,20 +27,31 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">Volunteers</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="main" class="container">
+		<div class="row">
+			<div class="about-info span12">
+				<div class="hero-unit">
+					<h2>About volunteering</h2>
 					<p>Volunteers play a crucial role in the success of the Reflections | Projections weekend.  They are responsible for setup and tear-down of the events and other logistics. Volunteer registration is now open, so please sign up!</p>
 				</div>
 			</div>
 		</div>
-		<center>
-		<a name="form1002235818" id="formAnchor1002235818"></a>
-		<script type="text/javascript" src="http://fs6.formsite.com/include/form/embedManager.js?1002235818"></script>
-		<script type="text/javascript">
-		EmbedManager.embed({
-		key: "http://fs6.formsite.com/res/showFormEmbed?EParam=0f3EXAbWkRyOWvWrn2%2FGgsd%2FCVfYhMrF&1002235818",
-		width: "70%"
-		});
-		</script>
-		</center>
+		<div class="row">
+			<div class="offset2 span8">
+				<a name="form1002235818" id="formAnchor1002235818"></a>
+				<script type="text/javascript" src="http://fs6.formsite.com/include/form/embedManager.js?1002235818"></script>
+				<script type="text/javascript">
+					EmbedManager.embed({
+					key: "http://fs6.formsite.com/res/showFormEmbed?EParam=0f3EXAbWkRyOWvWrn2%2FGgsd%2FCVfYhMrF&1002235818",
+					width: "100%"
+					});
+				</script>
+			</div>
+		</div>
 	</div>
 </div>
 

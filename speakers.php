@@ -27,7 +27,6 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">Speakers</h1>
-					<p>This Year's Reflections | Projections Speakers</p>
 				</div>
 			</div>
 		</div>
@@ -36,8 +35,57 @@
 		<div class="row">
 			<div class="span12">
 				<div class="hero-unit">
-					<p>Each year, Reflections | Projections hosts diverse speaking events by some of the most influential minds in the history of technology. The <a href="./schedule.php">speaker schedule</a> has been posted. Profiles featuring the speakers and their talks will be available soon.</p>
+					<h2>Talks</h2>
+					<div class="row">
+						<div class="span4">
+							<ul>
+								<li>Shannon “JJ” Behrens, Member of Google DART Team</li>
+								<li>Joe Boutros, Project Manager at Indeed</li>
+								<li>Ian Chan, Front End Engineer at Twitter</li>
+								<li>Danielle Feinberg, Director of Photography—Lighting at Pixar</li>
+								<li>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></li>
+							</ul>
+						</div>
+						<div class="span4">
+							<ul>
+								<li>Rian Hunter, Software Engineer at Dropbox</li>
+								<li>Jiquan Ngiam, Director of Engineering at Coursera</li>
+								<li>Radu Rusu, CEO of Open Perception, Inc.</li>
+								<li>Andrew Ritz, Development Manager for Windows at Microsoft</li>
+								<li>Zed Shaw, Creator of Mongrel</li>
+							</ul>
+						</div>
+						<div class="span3">
+							<ul>
+								<li>Garry Tan, Partner at Y Combinator</li>
+								<li>Jonathan Verrecchia, Front End Engineer at Yelp</li>
+								<li>Stefano Zacchiroli, Debian Project Leader</li>
+							</ul>
+						</div>
+					</div>				
 				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="span6">
+				<div class="hero-unit">
+					<h2>Startup Panel</h2>
+					<ul>
+						<li>Cory Levy, One</li>
+						<li>Amit Kulkarni, Do</li>
+						<li>Dave Paola, Bloc</li>
+					</ul>	
+				</div>	
+			</div>
+			<div class="span6">
+				<div class="hero-unit">
+					<h2>Gaming Q & A</h2>
+					<ul>
+						<li>Erik Wolpaw, Co-writer for Portal (Valve)</li>
+						<li>Steve Jaros, Lead Writer for Saints Row (Volition)</li>
+						<br/><!-- This is a kluge. Forgive me gods of computing -->
+					</ul>	
+				</div>	
 			</div>
 		</div>
 	</div>

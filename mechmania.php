@@ -26,17 +26,24 @@
 		<div id="top-section">
 		<div class="span12">
 			<h1 class="page-heading">MechMania</h1>
-			<p>
-			MechMania is a 24-hour programming contest in which teams of
-			students from various schools compete to create an AI capable of
-			playing (and winning) a strategy game we have developed for the
-			event.
-			</p>
 		</div>
 	</div>
 	</div>
 </div>
 <div id="main" class="container">
+	<div class="row mechmania-row">
+		<div class="mechmania-info span12">
+			<div class="hero-unit">
+				<h2>What is it?</h2>
+				<p>
+				MechMania is a 24-hour programming contest in which teams of
+				students from various schools compete to create an AI capable of
+				playing (and winning) a strategy game we have developed for the
+				event.
+				</p>
+			</div>
+		</div>
+	</div>
 	<div class="row mechmania-row">
 		<div class="mechmania-info span12">
 			<div class="hero-unit">

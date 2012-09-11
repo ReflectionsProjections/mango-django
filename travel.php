@@ -27,7 +27,6 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">Travel</h1>
-					<p>Directions to the Urbana-Champaign campus are available <a href="http://illinois.edu/find/directions.html">here</a>.</p>
 				</div>
 			</div>
 		</div>
@@ -36,6 +35,8 @@
 		<div class="row">
 			<div id="location" class="span6">
 				<div class="hero-unit info-box">
+					<h2>Directions</h2>
+					<p>Directions to the Urbana-Champaign campus are available <a href="http://illinois.edu/find/directions.html">here</a>.</p>
 					<h2>Locations</h2>
 					<h3><a href="http://cs.illinois.edu/siebel">Thomas M. Siebel Center for Computer Science</a></h3>
 					<p class="address">
