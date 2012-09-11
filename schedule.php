@@ -140,7 +140,7 @@
 						</tr>
 						<tr>
 						  <td></td>
-						  <td>Video Game Q&A with Eric Wolpaw (Portal) and Steve Jaros (Volition)</td>
+						  <td>Video Game Q&A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</td>
 						</tr>
 						<tr>
 							<td>9:00 PM</td>
