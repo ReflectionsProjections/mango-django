@@ -37,14 +37,10 @@
 								</li>
 							</ul>
 						</li>
-						<li class="dropdown" id="speakers">
-							<a class="dropdown-toggle" data-toggle="dropdown">speakers <b class="caret"></b></a>
-							<ul class="dropdown-menu">
-								<li class="<?php if($page=="speakers.php"){echo "active";} ?>">
-									<a href="./speakers.php">schedule</a>
-								</li>
-							</ul>
+						<li class="<?php if($page=="speakers.php"){echo "active";} ?>">
+							<a href="./speakers.php">speakers</a>
 						</li>
+
 						<li class="dropdown" id="job fairs">
 							<a class="dropdown-toggle" data-toggle="dropdown">job fairs <b class="caret"></b></a>
 							<ul class="dropdown-menu">

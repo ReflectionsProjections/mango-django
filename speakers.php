@@ -27,7 +27,16 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">Speakers</h1>
-					<p>Each year, Reflections | Projections hosts various tech talks and presentations by some of the most influential minds in the history of science and technology.  The speakers for this year's event have not yet been announced. Keep checking back for more information on who will be featured at this year's conference.</p>
+					<p>This Year's Reflections | Projections Speakers</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="main" class="container">
+		<div class="row">
+			<div class="span12">
+				<div class="hero-unit">
+					<p>Each year, Reflections | Projections hosts various tech talks and presentations by some of the most influential minds in the history of science and technology. The <a href="./schedule.php">speaker schedule</a> has been posted and we will soon post more detailed speakers information.</p>
 				</div>
 			</div>
 		</div>
