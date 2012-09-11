@@ -36,7 +36,7 @@
 		<div class="row">
 			<div class="span12">
 				<div class="hero-unit">
-					<p>Each year, Reflections | Projections hosts various tech talks and presentations by some of the most influential minds in the history of science and technology. The <a href="./schedule.php">speaker schedule</a> has been posted and we will soon post more detailed speakers information.</p>
+					<p>Each year, Reflections | Projections hosts diverse speaking events by some of the most influential minds in the history of technology. The <a href="./schedule.php">speaker schedule</a> has been posted. Profiles featuring the speakers and their talks will be available soon.</p>
 				</div>
 			</div>
 		</div>
