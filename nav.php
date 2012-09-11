@@ -29,13 +29,19 @@
 								<li class="<?php if($page=="volunteers.php"){echo "active";} ?>">
 									<a href="./volunteers.php">volunteers</a>
 								</li>
+								<li class="<?php if($page=="travel.php"){echo "active";} ?>">
+									<a href="./travel.php">travel</a>
+								</li>
+								<li class="<?php if($page=="schedule.php"){echo "active";} ?>">
+									<a href="./schedule.php">schedule</a>
+								</li>
 							</ul>
 						</li>
 						<li class="dropdown" id="speakers">
 							<a class="dropdown-toggle" data-toggle="dropdown">speakers <b class="caret"></b></a>
 							<ul class="dropdown-menu">
-								<li class="<?php if($page=="schedule.php"){echo "active";} ?>">
-									<a href="./schedule.php">schedule</a>
+								<li class="<?php if($page=="speakers.php"){echo "active";} ?>">
+									<a href="./speakers.php">schedule</a>
 								</li>
 							</ul>
 						</li>

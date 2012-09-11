@@ -40,28 +40,6 @@
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="span6">
-				<div class="hero-unit info-box">
-					<h2>Locations</h2>
-					<h3><a href="http://cs.illinois.edu/siebel">Thomas M. Siebel Center for Computer Science</a></h3>
-					<p class="address">
-						201 N. Goodwin Ave.<br />
-						Urbana, IL 61801
-					</p>
-					<h3><a href="http://cs.illinois.edu/csillinois">Digital Computer Lab</a></h3>
-					<p class="address">
-						1304 W. Springfield Ave.<br />
-						Urbana, IL 61801
-					</p>
-				</div>
-			</div>
-			<div class="span6">
-				<div style="margin: 0px auto">
-					<iframe width="580" height="400" frameborder="0" scrolling="no" marginheight="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=211750165632595458874.00047251c742179b84767&amp;ie=UTF8&amp;t=m&amp;vpsrc=6&amp;ll=40.113535,-88.225815&amp;spn=0.002872,0.00456&amp;z=17&amp;output=embed"></iframe>
-				</div>
-			</div>
-		</div>
 	</div>
 </div>
 <?php include("footer.php"); ?>
