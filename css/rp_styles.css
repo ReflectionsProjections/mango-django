@@ -214,8 +214,10 @@ body:before {
 .dropdown-menu .active > a:hover {
   background-color: #991B1E;
 }
+/*
 .navbar .nav .active > a,
 .navbar .nav .active > a:hover {
   background-color: inherit;
   color: #991B1E;
 }
+*/
