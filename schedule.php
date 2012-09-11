@@ -76,8 +76,7 @@
 							<td>Amber Graner, Co-Author of The Official Ubuntu Book</td>
 						<tr>
 						  <td></td>
-						  <td>Kumar Srinivasan, Chief Product & Technology Officer at Bazaarvoice</td>
-</tr>
+						  <td>Rian Hunter, Software Engineer at Dropbox</td>
 						</tr>
 						<tr>
 						  <td>11:15 AM</td>
@@ -110,10 +109,6 @@
 						<tr>
 						  <td></td>
 						  <td>Ian Chan, Front End Engineer at Twitter</td>
-						</tr>
-						<tr>
-						  <td></td>
-						  <td>Rian Hunter, Software Engineer at Dropbox</td>
 						</tr>
 						<tr>
 						  <td>4:00 PM</td>
