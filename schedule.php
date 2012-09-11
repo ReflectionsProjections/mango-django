@@ -124,7 +124,7 @@
 						</tr>
 						<tr>
 						  <td>6:30 PM</td>
-						  <td>Andrew Ritz, Devleopment Manager for Windows at Microsoft</td>
+						  <td>Andrew Ritz, Development Manager for Windows at Microsoft</td>
 						</tr>
 						<tr>
 						  <td></td>
