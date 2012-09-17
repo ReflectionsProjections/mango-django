@@ -72,6 +72,14 @@
 		</div>
 	</div>
 	<div class="row mechmania-row">
+		<div class="mechmania-info span12">
+			<div class="hero-unit">
+			  <h2>Register Now!</h2>
+			  <div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=4243049074&ref=etckt" frameborder="0" height="250" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+			</div>
+		</div>
+	</div>
+	<div class="row mechmania-row">
 		<div class="mechmania-info span6">
 			<div class="hero-unit">
 				<h2>What you need to know</h2>
@@ -156,16 +164,6 @@
 		</div>
 	</div>
 	<div class="row mechmania-row">
-		<div id="registration" class="mechmania-info span6">
-			<div class="hero-unit">
-				<h2>Registration</h2>
-				<p>
-				More information about registering for MechMania will become
-				available closer to the date of the event.  Be sure to keep
-				checking back for updates.
-				</p>
-			</div>
-		</div>
 		<div class="mechmania-info span6">
 			<div id="footnotes" class="hero-unit">
 				<h3>Footnotes</h3>
