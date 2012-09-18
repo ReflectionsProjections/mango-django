@@ -142,17 +142,27 @@ body {
 #social-networking {
   margin-top: 20px;
 }
-#event-schedule th {
+
+/* Schedule page styles */
+#event-schedule {
+  margin: 0 auto;
+  width: intrinsic;
+}
+#event-schedule h1 {
   font-size: 20px;
+  font-weight: bold;
   text-align: center;
 }
-#event-schedule td:nth-child(1) {
-  text-align: right;
-  width: 50%;
+#event-schedule .schedule {
 }
-#event-schedule td:nth-child(2) {
-  text-align: left;
-  width: 50%;
+#event-schedule .schedule dt {
+  padding: 8px;
+  line-height: 18px;
+}
+#event-schedule .schedule dd {
+  padding: 8px;
+  margin-left: 136px;
+  border-left: 1px solid #333;
 }
 
 /* Footer stylez yo */
@@ -221,3 +231,5 @@ body:before {
   color: #991B1E;
 }
 */
+
+

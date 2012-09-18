@@ -35,127 +35,67 @@
 		<div class="row">
 			<div class="span12">
 				<div class="hero-unit">
-					<table id="event-schedule" class="table table-bordered table-striped">
-						<tr>
-							<th id="friday" colspan="2">Friday, October 5</th>
-						</tr>
-						<tr>
-							<td>10:00 AM - 4:00 PM</td>
-							<td>Reflections | Projections Job Fair</td>
-						</tr>
-						<tr>
-							<td>5:00 PM</td>
-							<td>Garry Tan, Partner at Y Combinator</td>
-						</tr>
-						<tr>
-							<td>6:30 PM</td>
-							<td>Dinner</td>
-						</tr>
-						<tr>
-							<td>7:45 PM</td>
-							<td>Danielle Feinberg, Director of Photography -- Lighting  at Pixar</td>
-						</tr>
-						<tr>
-							<td>9:00 PM</td>
-							<td>MechMania Opening Ceremony</td>
-						</tr>
-						<tr>
-							<td>9:30 PM</td>
-							<td>MechMania Begins</td>
-						</tr>
-						<tr>
-							<th id="saturday" colspan="2">Saturday, October 6</th>
-						</tr>
-						<tr>
-							<td>9:00 AM</td>
-							<td>Breakfast</td>
-						</tr>
-						<tr>
-							<td>10:00 AM</td>
-							<td>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></td>
-						<tr>
-						  <td></td>
-						  <td>Rian Hunter, Software Engineer at Dropbox</td>
-						</tr>
-						<tr>
-						  <td>11:15 AM</td>
-						  <td>Startup Panel with Cory Levy (One), Dave Paola (Bloc), and Amit Kulkarni (Do)</td>
-						</tr>
-						<tr>
-							<td>12:30 AM</td>
-							<td>Lunch</td>
-						</tr>
-						<tr>
-							<td>1:00 PM - 4:00 PM</td>
-							<td>Reflections | Projections Startup Fair</td>
-						</tr>
-						<tr>
-						  <td>1:30 PM</td>
-						  <td>Shannon "JJ" Behrens, Member of Google DART Team</td>
-						<tr>
-						  <td></td>
-						  <td>Zed Shaw, Creator of Mongrel</td>
-						</tr>
-						<tr>
-						  <td></td>
-						  <td>Open Hatch Talk</td>
-						</tr>
-						</tr>
-						<tr>
-						  <td>2:45 PM</td>
-						  <td>Stefano Zacchiroli, Debian Project Leader</td>
-						</tr>
-						<tr>
-						  <td></td>
-						  <td>Ian Chan, Front End Engineer at Twitter</td>
-						</tr>
-						<tr>
-						  <td>4:00 PM</td>
-						  <td>Jiquan Ngiam, Director of Engineering at Coursera</td>
-						</tr>
-						<tr>
-						  <td></td>
-						  <td>Jonathan Verrecchia, Front End Engineer at Yelp</td>
-						</tr>
-						<tr>
-						  <td>5:30 PM</td>
-						  <td>Dinner</td>
-						</tr>
-						<tr>
-						  <td>6:30 PM</td>
-						  <td>Andrew Ritz, Development Manager for Windows at Microsoft</td>
-						</tr>
-						<tr>
-						  <td></td>
-						  <td>Radu Rusu, CEO of Open Perception, Inc.</td>
-						</tr>
-						<tr>
-						  <td></td>
-						  <td>Google DART Workshop</td>
-						</tr>
-						<tr>
-						  <td>7:45 PM</td>
-						  <td>Joe Boutros, Project Manager at Indeed</td>
-						</tr>
-						<tr>
-						  <td></td>
-						  <td>Video Game Q&A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</td>
-						</tr>
-						<tr>
-							<td>9:00 PM</td>
-							<td>MechMania Ends</td>
-						</tr>
-						<tr>
-							<th id="sunday" colspan="2">Sunday, October 7</th>
-						</tr>
-						<tr>
-						  <td>1:00 PM</td>
-						  <td>MechMania Closing Ceremony</td>
-						</tr>
-						<tr>
-						  <td>TBA</td>
-						  <td>Open Hatch Workshop</td>
-					</table>
+					<div id="event-schedule">
+						<h1 class="schedule-date">Friday, October 5</h1>
+						<dl class="dl-horizontal schedule">
+							<dt>10:00 AM - 4:00 PM</dt>
+							<dd>Reflections | Projections Job Fair</dd>
+							<dt>5:00 PM</dt>
+							<dd>Garry Tan, Partner at Y Combinator</dd>
+							<dt>6:30 PM</dt>
+							<dd>Dinner</dt>
+							<dt>7:45 PM</dt>
+							<dd>Danielle Feinberg, Director of Photography -- Lighting  at Pixar</dd>
+							<dt>9:00 PM</dt>
+							<dd>MechMania Opening Ceremony</dd>
+							<dt>9:30 PM</dt>
+							<dd>MechMania Begins</dd>
+						</dl>	
+
+						<h1 class="schedule-date">Saturday, October 6</h1>
+						<dl class="dl-horizontal schedule">
+							<dt>9:00 AM</dt>
+							<dd>Breakfast</dd>
+							<dt>10:00 AM</dt>
+							<dd>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></dd>
+							<dd>Rian Hunter, Software Engineer at Dropbox</dd>
+							<dt>11:15 AM</dt>
+							<dd>Startup Panel with Cory Levy (One), Dave Paola (Bloc), and Amit Kulkarni (Do)</dd>
+							<dt>12:30 AM</dt>
+							<dd>Lunch</dd>
+							<dt>1:00 PM - 4:00 PM</dt>
+							<dd>Reflections | Projections Startup Fair</dd>
+							<dt>1:30 PM</dt>
+							<dd>Shannon "JJ" Behrens, Member of Google DART Team</dd>
+							<dd>Zed Shaw, Creator of Mongrel</dd>
+							<dd>Open Hatch Talk</dd>
+							<dt>2:45 PM</dt>
+							<dd>Stefano Zacchiroli, Debian Project Leader</dd>
+							<dd>Ian Chan, Front End Engineer at Twitter</dd>
+							<dt>4:00 PM</dt>
+							<dd>Jiquan Ngiam, Director of Engineering at Coursera</dd>
+							<dd>Jonathan Verrecchia, Front End Engineer at Yelp</dd>
+							<dt>5:30 PM</dt>
+							<dd>Dinner</dd>
+							<dt>6:30 PM</dt>
+							<dd>Andrew Ritz, Development Manager for Windows at Microsoft</dd>
+							<dd>Radu Rusu, CEO of Open Perception, Inc.</dd>
+							<dd>Google DART Workshop</dd>
+							<dt>7:45 PM</dt>
+							<dd>Joe Boutros, Project Manager at Indeed</dd>
+							<dd>Video Game Q&amp;A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</dd>
+							<dt>9:00 PM</dt>
+							<dd>MechMania Ends</dd>
+						</dl>
+
+						<h1 class="schedule-date">Sunday, October 7</h1>
+						<dl class="dl-horizontal schedule">
+							<dt>1:00 PM</dt>
+							<dd>MechMania Closing Ceremony</dd>
+							<dt>TBA</dt>
+							<dd>Open Hatch Workshop</dd>
+						</dl>
+					</div> <!-- #event-schedule -->
 				</div>
 			</div>
 		</div>
