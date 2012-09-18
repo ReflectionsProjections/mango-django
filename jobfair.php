@@ -40,6 +40,7 @@
 				<div class="span3">
 				    <ul id="company_list_1" class="company_list">
 					<li>Allston Trading</li>
+					<li>Coursera</li>
 					<li>Citrix Systems</li>
 					<li>CME Group</li>
 					<li>Dropbox</li>
@@ -55,15 +56,17 @@
 					<li>Intel</li>
 					<li>Interactive Game Technology</li>
 					<li>Interactive Intelligence</li>
+					<li>Microsoft</li>
 				    </ul>
 				</div>
 				<div class="span3">
 				    <ul id="company_list_3" class="company_list">
-					<li>Microsoft</li>
 					<li>Palantir</li>
+					<li>Rdio, Inc</li>
 					<li>Riverbed</li>
 					<li>Salesforce</li>
 					<li>Sandia National Laboratories</li>
+					<li>Solstice Consulting</li>
 					<li>Trial Pay</li>
 				    </ul>
 				</div>
@@ -71,6 +74,7 @@
 				    <ul id="company_list_4" class="company_list">
 					<li>Twitter</li>
 					<li>ViaSat</li>
+					<li>Vistaprint</li>
 					<li>Yelp</li>
 					<li>Zynga</li>
 				    </ul>
