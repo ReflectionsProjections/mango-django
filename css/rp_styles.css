@@ -154,15 +154,41 @@ body {
   text-align: center;
 }
 #event-schedule .schedule {
+  border-left: 1px solid #DDD;
+  border-bottom: 1px solid #DDD;
+  border-right: 1px solid #DDD;
+}
+
+#event-schedule .schedule > *:nth-child(4n+1),
+#event-schedule .schedule > *:nth-child(4n+2) {
+  background-color: #F9F9F9
+}
+#event-schedule .schedule .col2 {
+  padding-bottom: 42px;
 }
 #event-schedule .schedule dt {
   padding: 8px;
   line-height: 18px;
+  border-top: 1px solid #DDD;
 }
 #event-schedule .schedule dd {
   padding: 8px;
   margin-left: 136px;
-  border-left: 1px solid #333;
+  border-left: 1px solid #999;
+  border-top: 1px solid #DDD;
+}
+
+#event-schedule .schedule dd p {
+  padding: 8px 0;
+  margin: 0;
+}
+#event-schedule .schedule dd p:first-child {
+  padding: 0 0 8px 0;
+  margin: 0;
+}
+#event-schedule .schedule dd p:last-child {
+  padding: 8px 0 0 0;
+  margin: 0;
 }
 
 /* Footer stylez yo */
