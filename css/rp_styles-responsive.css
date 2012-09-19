@@ -136,9 +136,6 @@
 	margin-left: 10px;
 	margin-right: 20px;
     }
-    #foot {
-	margin-left: 10px;
-    }
     #top-section {
 	width: 722px;
 	margin: 0 auto;
@@ -222,9 +219,6 @@
     }
     #location {
 	margin-left: 0px;
-    }
-    #foot {
-	margin-left: 10px;
     }
 }
 
@@ -338,9 +332,6 @@
 
 /* Full screen view */
 @media (min-width: 1200px) {
-    #main > .row {
-	margin-left: -10px;
-    }
     #top-section {
 	width: 1150px; margin: 0 auto;
     }

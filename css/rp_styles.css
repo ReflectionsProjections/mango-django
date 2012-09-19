@@ -195,10 +195,10 @@ body {
 
 /* Footer stylez yo */
 #foot {
-  width: inherit;
+  width: intrinsic;
   position: relative;
   clear: both;
-  margin-top: 25px;
+  margin: 25px auto;
   padding-bottom: 25px;
 }
 /*Opera Fix*/
