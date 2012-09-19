@@ -154,9 +154,7 @@ body {
   text-align: center;
 }
 #event-schedule .schedule {
-  border-left: 1px solid #DDD;
-  border-bottom: 1px solid #DDD;
-  border-right: 1px solid #DDD;
+  border: 1px solid #999;
 }
 
 #event-schedule .schedule > *:nth-child(4n+1),
@@ -176,6 +174,10 @@ body {
   margin-left: 136px;
   border-left: 1px solid #999;
   border-top: 1px solid #DDD;
+}
+#event-schedule .schedule dt:first-child,
+#event-schedule .schedule dd:nth-child(2) {
+  border-top: none;
 }
 
 #event-schedule .schedule dd p {
