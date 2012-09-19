@@ -22,6 +22,9 @@ body {
 #main {
   margin-top: 45px;
 }
+#main .span6:nth-child(n+2) {
+  margin-left: 30px;
+}
 
 /* Navbar */
 .navbar-fixed-top {
