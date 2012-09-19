@@ -41,6 +41,7 @@
 				playing (and winning) a strategy game we have developed for the
 				event.
 				</p>
+				<p><a href="#register">Register Below</a></p>
 			</div>
 		</div>
 	</div>
@@ -71,7 +72,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="row mechmania-row">
+	<div id="register" class="row mechmania-row">
 		<div class="mechmania-info span12">
 			<div class="hero-unit">
 			  <h2>Register Now!</h2>
