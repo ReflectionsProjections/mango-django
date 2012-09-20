@@ -263,4 +263,41 @@ body:before {
 }
 */
 
+h2.home-links{
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
 
+h2.home-links:last-child{
+  border-bottom: 0px;
+}
+
+h2.home-links a:hover{
+  text-decoration: none;
+  color: #08C;
+}
+
+.crarr{
+  background: url("../img/crarr.png");
+  height: 36px;
+  width: 40px;
+}
+
+.crarr.left{
+  float: left;
+  margin-left: 20px;
+}
+
+h2.home-links a:hover .crarr.left{
+  margin-left: 60px;
+}
+
+.crarr.right{
+  float: right;
+  background-position: -40px 0px;
+  margin-right: 20px;
+}
+
+h2.home-links a:hover .crarr.right{
+  margin-right: 60px;
+}
