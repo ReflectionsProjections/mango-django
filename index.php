@@ -29,6 +29,10 @@
 			<div id="homepage-span6">
 				<div class="span6">
 					<div class="hero-unit well" id="homepage-hero">
+						<h2><a href="./registration.php"><small>Registration for</small> Attendees</a></h2>
+						<h2><a href="./mechmania.php"><small>Registration for</small> Mechmania</a></h2>
+						<h2><a href="./volunteers.php"><small>Registration for</small> Volunteers</a></h2>
+						<br/>
 						<p class="description"> The Association for Computing Machinery at the University of Illinois will host its 18th annual computing conference on October 5-7, 2012.  Reflections | Projections brings together students from across the country to gain a broader perspective on technological topics.  Throughout the weekend, we'll have several speakers from industry and academia alike, a programming competition (MechMania) created by in-house developers, and a job fair for students and companies in computing.  </p>
 						<p class="description">There is no charge to attend the conference, but we'll hand out free t-shirts to those who register by Friday, September 28.  While registering, visitors to campus may wish to select to have food provided at a cost of $20.  Paid registration is also required for participation in the MechMania programming competition.</p>
 						<p class="description">Thank you for your interest; be sure to check back for updates on events, volunteer sign-up, and registration.</p>
