@@ -20,17 +20,22 @@
 								</li>
 							</ul>
 						</li>
-						<li class="dropdown" id="attend">
+						<li class="dropdown" id="register">
 							<a class="dropdown-toggle" data-toggle="dropdown">attend <b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li class="<?php if($page=="registration.php"){echo "active";} ?>">
-									<a href="./registration.php">register</a>
-								</li>
-								<li class="<?php if($page=="schedule.php"){echo "active";} ?>">
-									<a href="./schedule.php">schedule</a>
+									<a href="./registration.php">attendee registration</a>
 								</li>
 								<li class="<?php if($page=="volunteers.php"){echo "active";} ?>">
-									<a href="./volunteers.php">volunteers</a>
+									<a href="./volunteers.php">volunteer registration</a>
+								</li>
+							</ul>
+						</li>
+						<li class="dropdown" id="planweekend">
+							<a class="dropdown-toggle" data-toggle="dropdown">plan your weekend <b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li class="<?php if($page=="schedule.php"){echo "active";} ?>">
+									<a href="./schedule.php">schedule</a>
 								</li>
 								<li class="<?php if($page=="travel.php"){echo "active";} ?>">
 									<a href="./travel.php">travel</a>
