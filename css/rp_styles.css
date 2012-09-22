@@ -257,6 +257,9 @@ body:before {
 #company_row {
   margin: 20px auto 0 auto;
 }
+.dropdown-toggle {
+  cursor: pointer;
+}
 .dropdown-menu li > a:hover,
 .dropdown-menu .active > a,
 .dropdown-menu .active > a:hover {
