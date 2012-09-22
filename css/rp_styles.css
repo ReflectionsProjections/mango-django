@@ -14,6 +14,12 @@ body {
   width: auto;
   height: 100%;
 }
+a {
+  color: #DAA520;
+}
+a:hover {
+  color: #B8860B;
+}
 
 /* Wrappers for entire page/main content */
 #wrap {
@@ -275,7 +281,7 @@ h2.home-links:last-child{
 
 h2.home-links a:hover{
   text-decoration: none;
-  color: #08C;
+  color: #B8860B;
 }
 
 .crarr{
