@@ -35,6 +35,7 @@
 		<div class="row">
 			<div class="jobfair-info span12">
 				<div class="hero-unit">
+				<p>Make sure to add your resume to <a href="http://www.acm.uiuc.edu/corporate/resume/">ACM's Resume Book</a> before the job fair!</p>
 				<p>The following companies will attend the job fair this year:</p>
 				<div id="company_row" class="row">
 				<div class="span3">

@@ -35,7 +35,9 @@
 		<div class="row">
 			<div class="about-info span12">
 				<div class="hero-unit">
+				<p>Make sure to add your resume to <a href="http://www.acm.uiuc.edu/corporate/resume/">ACM's Resume Book</a> before the startup fair!</p>
 					<p>This year Reflections | Projections will feature a startup fair. The companies that will be at this year's fair have not yet been announced. Keep checking back to find out who you'll get a chance to meet.</p>
+					
 				</div>
 			</div>
 		</div>
