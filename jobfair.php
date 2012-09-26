@@ -41,6 +41,7 @@
 				<div class="span3">
 				    <ul id="company_list_1" class="company_list">
 					<li>Allston Trading</li>
+					<li>Blackbaud</li>
 					<li>Coursera</li>
 					<li>Citrix Systems</li>
 					<li>CME Group</li>
@@ -57,11 +58,13 @@
 					<li>Intel</li>
 					<li>Interactive Game Technology</li>
 					<li>Interactive Intelligence</li>
+					<li>LinkedIn</li>
 					<li>Microsoft</li>
 				    </ul>
 				</div>
 				<div class="span3">
-				    <ul id="company_list_3" class="company_list">
+					<ul id="company_list_3" class="company_list">
+					<li>Morningstar</li>
 					<li>Palantir</li>
 					<li>Rdio, Inc</li>
 					<li>Riverbed</li>
