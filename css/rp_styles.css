@@ -290,7 +290,7 @@ h2.home-links a:hover{
   text-decoration: none;
   color: #B8860B;
 }
-
+/*
 .crarr{
   background: url("../img/crarr.png");
   height: 36px;
@@ -315,3 +315,4 @@ h2.home-links a:hover .crarr.left{
 h2.home-links a:hover .crarr.right{
   margin-right: 60px;
 }
+*/
