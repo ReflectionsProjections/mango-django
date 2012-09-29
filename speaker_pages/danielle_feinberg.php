@@ -16,7 +16,7 @@ Feinberg’s love of combining computers and art began when she was eight years 
 
 $talk_abstract_id="feinberg_talk_abstract";
 $talk_title="The Making of Pixar's <i>Brave</i>: The Art and Algorithms Behind Movie Magic";
-$talk_time="Friday @ 7:45PM";
+$talk_time="Friday, 10/5 @ 7:45PM";
 $talk_location="1404 Siebel";
 $talk_abstract="
 <p>

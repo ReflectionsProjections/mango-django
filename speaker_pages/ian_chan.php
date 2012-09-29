@@ -12,7 +12,7 @@ Ian Chan is a Sr. Software Engineer at Twitter, where he has worked on the Web a
 $talk_abstract_id="chan_talk_abstract";
 $talk_title="Engineering at Human Scale: Building Software for 1 to 100 million users";
 
-$talk_time="Saturday @ 2:45PM";
+$talk_time="Saturday, 10/6 @ 2:45PM";
 $talk_location="1320 DCL";
 
 $talk_abstract="

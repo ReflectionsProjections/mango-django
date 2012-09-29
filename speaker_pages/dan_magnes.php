@@ -2,7 +2,7 @@
 $speaker_photo="danmanges.png";
 $speaker_bio_id="manges_bio";
 $speaker_name="Dan Manges";
-$speaker_job="Braintree Developer";
+$speaker_job="Developer at Braintree";
 
 $speaker_bio="
 <p>

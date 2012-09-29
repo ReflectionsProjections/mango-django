@@ -36,14 +36,15 @@
 
 			<div class="span6">
 				<div class="hero-unit">
-					<?php include("speaker_pages/shannon_jj_behrens.php"); ?>
-					<?php include("speaker_pages/danielle_feinberg.php"); ?>
-					<?php include("speaker_pages/joe_boutros.php"); ?>
-					<?php include("speaker_pages/ian_chan.php"); ?>
 					<?php include("speaker_pages/garry_tan.php"); ?>
-					<?php include("speaker_pages/radu_rusu.php"); ?>
-					<?php include("speaker_pages/stefano_zacchiroli.php"); ?>
+					<?php include("speaker_pages/amber_graner.php"); ?>
+					<?php include("speaker_pages/shannon_jj_behrens.php"); ?>
+					<?php include("speaker_pages/shauna_mckeon.php"); ?>
+					<?php include("speaker_pages/ian_chan.php"); ?>
+					<?php include("speaker_pages/jonathan_verrecchia.php"); ?>
 					<?php include("speaker_pages/andrew_ritz.php"); ?>
+					<?php include("speaker_pages/joe_boutros.php"); ?>
+
 				</div>
 				<div class="hero-unit">
 					<h2>Gaming Q & A</h2>
@@ -54,13 +55,13 @@
 
 			<div class="span6">
 				<div class="hero-unit">
-					<?php include("speaker_pages/zed_shaw.php"); ?>
-					<?php include("speaker_pages/amber_graner.php"); ?>
+					<?php include("speaker_pages/danielle_feinberg.php"); ?>
 					<?php include("speaker_pages/rian_hunter.php"); ?>
-					<?php include("speaker_pages/jiquan_ngiam.php"); ?>
-					<?php include("speaker_pages/jonathan_verrecchia.php"); ?>
+					<?php include("speaker_pages/zed_shaw.php"); ?>
+					<?php include("speaker_pages/stefano_zacchiroli.php"); ?>
 					<?php include("speaker_pages/healey_cypher.php"); ?>
-					<?php include("speaker_pages/shauna_mckeon.php"); ?>
+					<?php include("speaker_pages/jiquan_ngiam.php"); ?>
+					<?php include("speaker_pages/radu_rusu.php"); ?>
 				</div>
 				<div class="hero-unit">
 					<h2>Startup Panel</h2>

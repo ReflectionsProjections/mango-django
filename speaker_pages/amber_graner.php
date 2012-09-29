@@ -11,7 +11,7 @@ Amber Graner is currently the User Experience and Community Specialist with Lina
 
 $talk_abstract_id="graner_talk_abstract";
 $talk_title="Without Fear: You Don't Need Permission to Contribute to Your Own Destiny";
-$talk_time="Saturday @ 10AM";
+$talk_time="Saturday, 10/6 @ 10AM";
 $talk_location="1404 Siebel";
 
 $talk_abstract="
