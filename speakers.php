@@ -33,6 +33,7 @@
 	</div>
 	<div id="main" class="container">
 		<div class="row">
+
 			<div class="span5">
 				<div class="hero-unit">
 					<?php include("speaker_pages/shannon_jj_behrens.php"); ?>
@@ -44,8 +45,11 @@
 					<?php include("speaker_pages/jiquan_ngiam.php"); ?>
 					<?php include("speaker_pages/radu_rusu.php"); ?>
 					<?php include("speaker_pages/andrew_ritz.php"); ?>
+					<?php include("speaker_pages/dan_magnes.php"); ?>
+		
 				</div>
 			</div>
+
 			<div class="span5">
 				<div class="hero-unit">
 					<?php include("speaker_pages/zed_shaw.php"); ?>
@@ -57,8 +61,11 @@
 					<?php include("speaker_pages/dave_paola.php"); ?>
 					<?php include("speaker_pages/erik_wolpaw.php"); ?>
 					<?php include("speaker_pages/steve_jaros.php"); ?>
+					<?php include("speaker_pages/healey_cypher.php"); ?>
+					<?php include("speaker_pages/shauna_mckeon.php"); ?>
 				</div>
 			</div>
+
 			<div class="span12">
 				<div class="hero-unit">
 					<h2>Talks</h2>

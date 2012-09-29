@@ -1,5 +1,5 @@
 <?php
-$speaker_photo="jiquan_ngiam.png";
+$speaker_photo="jiquanngiam.png";
 $speaker_bio_id="ngiam_bio";
 $speaker_name="Jiquan Ngiam";
 $speaker_job="Director of Engineering at Coursera";

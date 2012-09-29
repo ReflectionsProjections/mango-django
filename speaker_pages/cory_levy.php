@@ -1,5 +1,5 @@
 <?php
-$speaker_photo="cory_levy.png";
+$speaker_photo="corylevy.png";
 $speaker_bio_id="levy_bio";
 $speaker_name="Cory Levy";
 $speaker_job="Co-founder of One";

@@ -1,5 +1,5 @@
 <?php
-$speaker_photo="andrew_ritz.png";
+$speaker_photo="andrewritz.png";
 $speaker_bio_id="ritz_bio";
 $speaker_name="Andrew Ritz";
 $speaker_job="Development Manager for Windows at Microsoft";

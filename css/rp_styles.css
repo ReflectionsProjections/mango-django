@@ -291,6 +291,13 @@ body:before {
 .speaker_name, .speaker_job {
   display: inline;
 }
+
+img.speaker_photo {
+  height:100px;
+  width:100px;
+} 
+
+
 /*
 .navbar .nav .active > a,
 .navbar .nav .active > a:hover {

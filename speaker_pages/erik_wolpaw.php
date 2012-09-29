@@ -1,5 +1,5 @@
 <?php
-$speaker_photo="erik_wolpaw.png";
+$speaker_photo="erikwolpaw.png";
 $speaker_bio_id="wolpaw_bio";
 $speaker_name="Erik Wolpaw";
 $speaker_job="Co-writer of <i>Portal</i> (Valve)";

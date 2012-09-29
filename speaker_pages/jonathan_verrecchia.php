@@ -1,5 +1,5 @@
 <?php
-$speaker_photo="jonathan_verrechia.png";
+$speaker_photo="jonathanverrecchia.png";
 $speaker_bio_id="verrecchia_bio";
 $speaker_name="Jonathan Verrecchia";
 $speaker_job="Front End Engineer at Yelp";

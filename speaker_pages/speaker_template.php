@@ -1,4 +1,4 @@
-<img src="img/speaker_photos/<?php echo $speaker_photo ?>" />
+<img class="speaker_photo" src="img/speaker_photos/<?php echo $speaker_photo ?>" />
 <div class="accordian" id="accordian2">
 	<div class="accordian-group">
 		<div class="accordian-heading">

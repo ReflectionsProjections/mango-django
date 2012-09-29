@@ -1,5 +1,5 @@
 <?php
-$speaker_photo="zed_shaw.png";
+$speaker_photo="zedshaw.png";
 $speaker_bio_id="shaw_bio";
 $speaker_name="Zed Shaw";
 $speaker_job="Creator of Mongrel";

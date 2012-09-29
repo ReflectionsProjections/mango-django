@@ -1,5 +1,5 @@
 <?php
-$speaker_photo="dave_paola.png";
+$speaker_photo="davepaola.png";
 $speaker_bio_id="paola_bio";
 $speaker_name="Dave Paola";
 $speaker_job="Hacker at Bloc";

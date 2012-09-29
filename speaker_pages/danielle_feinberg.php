@@ -1,5 +1,5 @@
 <?php
-$speaker_photo="DanielleFeinberg.png";
+$speaker_photo="daniellefeinberg.png";
 $speaker_bio_id="feinberg_bio";
 $speaker_name="Danielle Feinberg";
 $speaker_job="Director of Photography--Lighting at Pixar Animation Studios";
