@@ -308,6 +308,11 @@ img.speaker_photo {
   width:170px;
 } 
 
+.talk_abstract{
+text-align:justify;
+text-justify:inter-word;
+}
+
 
 /*
 .navbar .nav .active > a,

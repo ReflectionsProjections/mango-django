@@ -16,6 +16,8 @@ Feinberg’s love of combining computers and art began when she was eight years 
 
 $talk_abstract_id="feinberg_talk_abstract";
 $talk_title="The Making of Pixar's <i>Brave</i>: The Art and Algorithms Behind Movie Magic";
+$talk_time="Friday @ 7:45PM";
+$talk_location="1404 Siebel";
 $talk_abstract="
 <p>
 What does it take to bring a computer animated film to the bring screen? It is an intriguing combination of creativity and technology. Brave was Pixar's most ambitious film to date, with a complexity level well beyond their previous movies. Feinberg and her team were tasked with creating an ancient Scottish world with telltale varied landscapes and lush, complex forests. The world was to be inhabited by a heroine with an insane head of curly red hair, a cast wearing multi-layered costumes and a slew of hairy bears. In this talk, Feinberg will take you behind the curtain, to the inner workings of their process, as well as show you some of the unique and creative solutions they found to satisfy the immense demands of this movie.

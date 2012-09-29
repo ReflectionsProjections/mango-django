@@ -11,6 +11,9 @@ Behrens is a developer advocate for Dart. He blogs at jjinux.blogspot.com on top
 
 $talk_abstract_id="behrens_talk_abstract";
 $talk_title="Structured Web Programming: An Introduction to Dart";
+$talk_time="Saturday @ 1:30PM";
+$talk_location="1404 Siebel";
+
 
 $talk_abstract="
 <p>

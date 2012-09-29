@@ -17,6 +17,8 @@
 		<div id="<?php echo $talk_abstract_id ?>" class="accordion-body collapse">
       			<div class="accordion-inner talk_abstract">
 				<h3><?php echo $talk_title ?></h4>
+				<h4>Time: <?php echo $talk_time ?></h4>
+				<h4>Room #: <?php echo $talk_location ?></h4>
 				<?php echo $talk_abstract ?>
 				<h3>Biography:</h3>
 				<?php echo $speaker_bio ?>

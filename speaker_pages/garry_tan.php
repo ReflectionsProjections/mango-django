@@ -11,6 +11,8 @@ Garry Tan has been in your shoes. As a naïve computer science student at Stanfo
 
 $talk_abstract_id="tan_talk_abstract";
 $talk_title="Startup Lessons: How to Change the World With Your Mind";
+$talk_time="Friday @ 5:00PM";
+$talk_location="1404 Siebel";
 
 $talk_abstract="
 <p>

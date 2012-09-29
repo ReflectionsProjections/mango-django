@@ -12,6 +12,9 @@ Zed A. Shaw is the creator of the greatest software development methodology ever
 
 $talk_abstract_id="shaw_talk_abstract";
 $talk_title="Undoing Your Student Code";
+$talk_time="Saturday @ 1:30PM";
+$talk_location="1320 DCL";
+
 $talk_abstract="
 <p>
 A presentation on the things that annoy everyone about beginner or \"student\" code, and the things you can do to avoid it. Shaw will show you what makes beginner code painful, how your code gets this way, how even professionals like Shaw still write code like this, and various tips, tricks, and techniques for making your software a pleasure to read and use. At a minimum you'll get a laugh at his expense as he shows you his own shameful \"student code\" and how he fixed it.

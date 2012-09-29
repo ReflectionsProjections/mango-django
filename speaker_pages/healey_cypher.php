@@ -15,6 +15,8 @@ Healey's primary responsibility is maintaining the fluid operating rhythms of th
 
 $talk_abstract_id="cypher_talk_abstract";
 $talk_title="Holy. Mobile.";
+$talk_time="Saturday @ 2:45PM";
+$talk_location="1310 DCL";
 
 $talk_abstract="
 <p>
