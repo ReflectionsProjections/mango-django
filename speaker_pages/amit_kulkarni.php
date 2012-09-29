@@ -1,4 +1,4 @@
-<img src="img/amit_kulkarni.png" />
+<img src="img/speaker_photos/amit_kulkarni.png" />
 <div class="accordian" id="accordian2">
 	<div class="accordian-group">
 		<div class="accordian-heading">

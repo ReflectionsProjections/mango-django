@@ -1,4 +1,4 @@
-<img src="img/zed_shaw.png" />
+<img src="img/speaker_photos/zed_shaw.png" />
 <div class="accordian" id="accordian2">
 	<div class="accordian-group">
 		<div class="accordian-heading">

@@ -1,4 +1,4 @@
-<img src="img/dave_paola.png" />
+<img src="img/speaker_photos/dave_paola.png" />
 <div class="accordian" id="accordian2">
 	<div class="accordian-group">
 		<div class="accordian-heading">
