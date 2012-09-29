@@ -2,7 +2,7 @@
 $speaker_photo="danmanges.png";
 $speaker_bio_id="manges_bio";
 $speaker_name="Dan Manges";
-$speaker_job="Co-founder of One";
+$speaker_job="Braintree Developer";
 
 $speaker_bio="
 <p>
@@ -10,6 +10,5 @@ Dan joined Braintree as a software developer in 2008 and wrote much of the first
 </p>
 ";
 
-$has_talk_abstract=False;
-include "speaker_template.php";
+include "panel_template.php";
 ?>

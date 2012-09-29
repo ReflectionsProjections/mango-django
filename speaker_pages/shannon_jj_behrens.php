@@ -10,7 +10,6 @@ Behrens is a developer advocate for Dart. He blogs at jjinux.blogspot.com on top
 </p>
 ";
 
-$has_talk_abstract=True;
 $talk_abstract_id="behrens_talk_abstract";
 $talk_title="Structured Web Programming: An Introduction to Dart";
 

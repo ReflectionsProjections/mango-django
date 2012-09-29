@@ -11,6 +11,5 @@ Over the last ten years, Erik Wolpaw has contributed story and dialog to several
 </p>
 ";
 
-$has_talk_abstract=False;
-include "speaker_template.php";
+include "panel_template.php";
 ?>

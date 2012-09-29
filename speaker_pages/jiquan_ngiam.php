@@ -10,7 +10,6 @@ Jiquan Ngiam works at the cross roads of machine learning, education, and large-
 ";
 
 
-$has_talk_abstract=True;
 $talk_abstract_id="ngiam_talk_abstract";
 $talk_title="Technology Meets Education: Building A Scalable Online Learning Platform";
 

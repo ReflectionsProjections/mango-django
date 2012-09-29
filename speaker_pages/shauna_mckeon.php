@@ -10,7 +10,6 @@ Shauna Gordon-McKeon is a freelance writer, researcher, and programmer, living i
 </p>
 ";
 
-$has_talk_abstract=True;
 $talk_abstract_id="mckeon_talk_abstract";
 $talk_title="How to Get Started Contributing to Open Source";
 

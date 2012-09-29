@@ -10,7 +10,6 @@ Andrew Ritz is the development manager for core networking in Windows, which pro
 ";
 
 
-$has_talk_abstract=True;
 $talk_abstract_id="ritz_talk_abstract";
 $talk_title="Designing Windows for SOC PCs";
 

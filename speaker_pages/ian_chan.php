@@ -10,7 +10,6 @@ Ian Chan is a Sr. Software Engineer at Twitter, where he has worked on the Web a
 ";
 
 
-$has_talk_abstract=True;
 $talk_abstract_id="chan_talk_abstract";
 $talk_title="Engineering at Human Scale: Building Software for 1 to 100 million users";
 

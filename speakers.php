@@ -34,90 +34,40 @@
 	<div id="main" class="container">
 		<div class="row">
 
-			<div class="span5">
+			<div class="span6">
 				<div class="hero-unit">
 					<?php include("speaker_pages/shannon_jj_behrens.php"); ?>
+					<?php include("speaker_pages/danielle_feinberg.php"); ?>
 					<?php include("speaker_pages/joe_boutros.php"); ?>
 					<?php include("speaker_pages/ian_chan.php"); ?>
-					<?php include("speaker_pages/danielle_feinberg.php"); ?>
+					<?php include("speaker_pages/garry_tan.php"); ?>
+					<?php include("speaker_pages/radu_rusu.php"); ?>
+					<?php include("speaker_pages/stefano_zacchiroli.php"); ?>
+					<?php include("speaker_pages/andrew_ritz.php"); ?>
+				</div>
+				<div class="hero-unit">
+					<h2>Gaming Q & A</h2>
+					<?php include("speaker_pages/erik_wolpaw.php"); ?>
+					<?php include("speaker_pages/steve_jaros.php"); ?>
+				</div>	
+			</div>
+
+			<div class="span6">
+				<div class="hero-unit">
+					<?php include("speaker_pages/zed_shaw.php"); ?>
 					<?php include("speaker_pages/amber_graner.php"); ?>
 					<?php include("speaker_pages/rian_hunter.php"); ?>
 					<?php include("speaker_pages/jiquan_ngiam.php"); ?>
-					<?php include("speaker_pages/radu_rusu.php"); ?>
-					<?php include("speaker_pages/andrew_ritz.php"); ?>
-					<?php include("speaker_pages/dan_magnes.php"); ?>
-		
-				</div>
-			</div>
-
-			<div class="span5">
-				<div class="hero-unit">
-					<?php include("speaker_pages/zed_shaw.php"); ?>
-					<?php include("speaker_pages/garry_tan.php"); ?>
 					<?php include("speaker_pages/jonathan_verrecchia.php"); ?>
-					<?php include("speaker_pages/stefano_zacchiroli.php"); ?>
-					<?php include("speaker_pages/cory_levy.php"); ?>
-					<?php include("speaker_pages/amit_kulkarni.php"); ?>
-					<?php include("speaker_pages/dave_paola.php"); ?>
-					<?php include("speaker_pages/erik_wolpaw.php"); ?>
-					<?php include("speaker_pages/steve_jaros.php"); ?>
 					<?php include("speaker_pages/healey_cypher.php"); ?>
 					<?php include("speaker_pages/shauna_mckeon.php"); ?>
 				</div>
-			</div>
-
-			<div class="span12">
-				<div class="hero-unit">
-					<h2>Talks</h2>
-					<div class="row">
-						<div class="span4">
-							<ul>
-								<li>Shannon “JJ” Behrens, Member of Google DART Team</li>
-								<li>Joe Boutros, Project Manager at Indeed</li>
-								<li>Ian Chan, Front End Engineer at Twitter</li>
-								<li>Danielle Feinberg, Director of Photography—Lighting at Pixar</li>
-								<li>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></li>
-							</ul>
-						</div>
-						<div class="span4">
-							<ul>
-								<li>Rian Hunter, Software Engineer at Dropbox</li>
-								<li>Jiquan Ngiam, Director of Engineering at Coursera</li>
-								<li>Radu Rusu, CEO of Open Perception, Inc.</li>
-								<li>Andrew Ritz, Development Manager for Windows at Microsoft</li>
-								<li>Zed Shaw, Creator of Mongrel</li>
-							</ul>
-						</div>
-						<div class="span3">
-							<ul>
-								<li>Garry Tan, Partner at Y Combinator</li>
-								<li>Jonathan Verrecchia, Front End Engineer at Yelp</li>
-								<li>Stefano Zacchiroli, Debian Project Leader</li>
-							</ul>
-						</div>
-					</div>				
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="span6">
 				<div class="hero-unit">
 					<h2>Startup Panel</h2>
-					<ul>
-						<li>Cory Levy, One</li>
-						<li>Amit Kulkarni, Do</li>
-						<li>Dave Paola, Bloc</li>
-					</ul>	
-				</div>	
-			</div>
-			<div class="span6">
-				<div class="hero-unit">
-					<h2>Gaming Q & A</h2>
-					<ul>
-						<li>Erik Wolpaw, Co-writer for Portal (Valve)</li>
-						<li>Steve Jaros, Lead Writer for Saints Row (Volition)</li>
-						<br/><!-- This is a kluge. Forgive me gods of computing -->
-					</ul>	
+					<?php include("speaker_pages/cory_levy.php"); ?>
+					<?php include("speaker_pages/amit_kulkarni.php"); ?>
+					<?php include("speaker_pages/dan_magnes.php"); ?>
+					<?php include("speaker_pages/dave_paola.php"); ?>
 				</div>	
 			</div>
 		</div>

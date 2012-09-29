@@ -10,7 +10,6 @@ Jonathan Verrecchia is a Front-End Engineer at Yelp in San Francisco. Originally
 ";
 
 
-$has_talk_abstract=True;
 $talk_abstract_id="verrecchia_talk_abstract";
 $talk_title="Writing Large Scale CSS With OOCSS and Sass";
 

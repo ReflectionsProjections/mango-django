@@ -11,7 +11,6 @@ Zed A. Shaw is the creator of the greatest software development methodology ever
 
 ";
 
-$has_talk_abstract=True;
 $talk_abstract_id="shaw_talk_abstract";
 $talk_title="Undoing Your Student Code";
 $talk_abstract="

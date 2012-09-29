@@ -2,7 +2,7 @@
 $speaker_photo="healeycypher.png";
 $speaker_bio_id="cypher_bio";
 $speaker_name="Healey Cypher";
-$speaker_job="Chief of Staff, Global Product Management, eBay, inc.";
+$speaker_job="Chief of Staff, Global Product Management, eBay";
 
 $speaker_bio="
 <p>
@@ -14,7 +14,6 @@ Healey's primary responsibility is maintaining the fluid operating rhythms of th
 </p>
 ";
 
-$has_talk_abstract=True;
 $talk_abstract_id="cypher_talk_abstract";
 $talk_title="Holy. Mobile.";
 

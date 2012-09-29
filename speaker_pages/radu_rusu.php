@@ -10,7 +10,6 @@ Radu B. Rusu is the President and CEO of Open Perception, Inc., and a Visiting L
 ";
 
 
-$has_talk_abstract=True;
 $talk_abstract_id="rusu_talk_abstract";
 $talk_title="Perceiving the World Through the Eyes of a Robot";
 

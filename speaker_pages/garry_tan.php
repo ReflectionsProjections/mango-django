@@ -10,7 +10,6 @@ Garry Tan has been in your shoes. As a naïve computer science student at Stanfo
 ";
 
 
-$has_talk_abstract=True;
 $talk_abstract_id="tan_talk_abstract";
 $talk_title="Startup Lessons: How to Change the World With Your Mind";
 

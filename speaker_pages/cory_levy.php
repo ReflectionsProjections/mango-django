@@ -14,6 +14,5 @@ Levy studied Computer Science at the University of Illinois. At the University o
 </p>
 ";
 
-$has_talk_abstract=False;
-include "speaker_template.php";
+include "panel_template.php";
 ?>

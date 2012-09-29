@@ -11,6 +11,5 @@ His most recent work continues at Bloc, where he and his team are rebuilding edu
 </p>
 ";
 
-$has_talk_abstract=False;
-include "speaker_template.php";
+include "panel_template.php";
 ?>

@@ -10,7 +10,6 @@ Stefano Zacchiroli is an Associate Professor of Computer Science at University P
 </p>
 ";
 
-$has_talk_abstract=True;
 $talk_abstract_id="zacchiroli_talk_abstract";
 $talk_title="Debian: 19 Years of Free Software, Do-ocracy, and Democracy";
 

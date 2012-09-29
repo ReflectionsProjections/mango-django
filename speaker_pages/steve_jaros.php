@@ -11,6 +11,5 @@ Steve Jaros is the Creative Director at Volition, Inc., and the Lead Writer for 
 
 ";
 
-$has_talk_abstract=False;
-include "speaker_template.php";
+include "panel_template.php";
 ?>

@@ -2,7 +2,7 @@
 $speaker_photo="daniellefeinberg.png";
 $speaker_bio_id="feinberg_bio";
 $speaker_name="Danielle Feinberg";
-$speaker_job="Director of Photography--Lighting at Pixar Animation Studios";
+$speaker_job="Director of Photography--Lighting at Pixar";
 
 $speaker_bio="
 <p>
@@ -15,7 +15,6 @@ Feinberg’s love of combining computers and art began when she was eight years 
 ";
 
 
-$has_talk_abstract=True;
 $talk_abstract_id="feinberg_talk_abstract";
 $talk_title="The Making of Pixar's <i>Brave</i>: The Art and Algorithms Behind Movie Magic";
 $talk_abstract="

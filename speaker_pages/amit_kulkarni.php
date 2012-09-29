@@ -12,7 +12,6 @@ Before Do, Amit was the CEO and co-founder of Manymoon (acquired by salesforce.c
 </p>
 ";
 
-$has_talk_abstract=False;
-include "speaker_template.php";
+include "panel_template.php";
 ?>
 
