@@ -1,6 +1,5 @@
 <?php
 $speaker_photo="rianhunter.png";
-$speaker_bio_id="hunter_bio";
 $speaker_name="Rian Hunter";
 $speaker_job="Software Engineer at Dropbox";
 $speaker_bio="

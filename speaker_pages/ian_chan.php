@@ -1,6 +1,5 @@
 <?php
 $speaker_photo="ianchan.png";
-$speaker_bio_id="chan_bio";
 $speaker_name="Ian Chan";
 $speaker_job="Front End Engineer at Twitter";
 $speaker_bio="

@@ -1,6 +1,5 @@
 <?php
 $speaker_photo="healeycypher.png";
-$speaker_bio_id="cypher_bio";
 $speaker_name="Healey Cypher";
 $speaker_job="Chief of Staff, Global Product Management, eBay";
 

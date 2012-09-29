@@ -1,6 +1,5 @@
 <?php
 $speaker_photo="garrytan.png";
-$speaker_bio_id="tan_bio";
 $speaker_name="Garry Tan";
 $speaker_job="Partner at Y Combinator";
 $speaker_bio="

@@ -1,8 +1,8 @@
 <?php
 $speaker_photo="amitkulkarni.png";
-$speaker_bio_id="kulkarni_bio";
 $speaker_name="Amit Kulkarni";
 $speaker_job="Co-founder of Do";
+$speaker_bio_id="ritz_bio";
 
 
 $speaker_bio="

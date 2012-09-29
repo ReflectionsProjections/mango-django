@@ -1,6 +1,5 @@
 <?php
 $speaker_photo="shannonbehrens.png";
-$speaker_bio_id="behrens_bio";
 $speaker_name="Shannon \"JJ\" Behrens";
 $speaker_job="Member of Google DART Team";
 

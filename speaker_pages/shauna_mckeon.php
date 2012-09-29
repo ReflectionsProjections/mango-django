@@ -1,6 +1,5 @@
 <?php
 $speaker_photo="shaunamckeon.png";
-$speaker_bio_id="mckeon_bio";
 $speaker_name="Shauna Gordon McKeon";
 $speaker_job="Team Member at OpenHatch";
 
