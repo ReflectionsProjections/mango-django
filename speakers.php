@@ -60,7 +60,6 @@
 				</div>
 			</div>
 			<div class="span12">
-				<?php include("speakerboxxx.php"); ?>
 				<div class="hero-unit">
 					<h2>Talks</h2>
 					<div class="row">
