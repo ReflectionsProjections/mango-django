@@ -14,11 +14,11 @@ $has_talk_abstract=True;
 $talk_abstract_id="ngiam_talk_abstract";
 $talk_title="Technology Meets Education: Building A Scalable Online Learning Platform";
 
-$talk_abstract='
+$talk_abstract="
 <p>
-A revolution in education is coming; recently massive online courses have brought together millions of students from all over the world. These courses have been designed from the ground-up as complete classes, where students are expected to submit homework, meet deadlines, and are awarded a "Statement of Accomplishment" only upon meeting a high grading bar. This talk will be about the key technological ideas that Coursera has developed to support massive online courses. Ngiam will discuss interactive video lectures, scalable online Q&A forums, sophisticated auto-graded homeworks, and carefully-designed peer grading pipelines that leverage the crowd for grading open-ended essays and design work at scale.
+A revolution in education is coming; recently massive online courses have brought together millions of students from all over the world. These courses have been designed from the ground-up as complete classes, where students are expected to submit homework, meet deadlines, and are awarded a \"Statement of Accomplishment\" only upon meeting a high grading bar. This talk will be about the key technological ideas that Coursera has developed to support massive online courses. Ngiam will discuss interactive video lectures, scalable online Q&A forums, sophisticated auto-graded homeworks, and carefully-designed peer grading pipelines that leverage the crowd for grading open-ended essays and design work at scale.
 </p>
-';
+";
 
 include "speaker_template.php";
 ?>
