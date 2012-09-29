@@ -4,11 +4,9 @@ $speaker_bio_id="chan_bio";
 $speaker_name="Ian Chan";
 $speaker_job="Front End Engineer at Twitter";
 $speaker_bio="
-
 <p>
 Ian Chan is a Sr. Software Engineer at Twitter, where he has worked on the Web and Platform team for the last 2.5 years. He graduated from the University of Toronto, studying Software Engineering and Computer Science. Prior to Twitter, he helped build user interfaces and consumer experiences for Thoora, Autodesk, and IBM.
 </p>
-
 ";
 
 
