@@ -71,7 +71,7 @@
 							<dt>11:15 AM</dt>
 							<dd>Startup Panel with Cory Levy (One), Dave Paola (Bloc), and Amit Kulkarni (Do)</dd>
 
-							<dt>12:30 AM</dt>
+							<dt>12:30 PM</dt>
 							<dd>Lunch</dd>
 
 							<dt>1:00 PM - 4:00 PM</dt>

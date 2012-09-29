@@ -14,6 +14,12 @@ body {
   width: auto;
   height: 100%;
 }
+a {
+  color: #DAA520;
+}
+a:hover {
+  color: #B8860B;
+}
 
 /* Wrappers for entire page/main content */
 #wrap {
@@ -24,6 +30,10 @@ body {
 }
 #main .span6:nth-child(n+2) {
   margin-left: 30px;
+}
+#main #company_row .span6 {
+  margin-left: 20px;
+  width: 545px;
 }
 
 /* Navbar */
@@ -94,6 +104,7 @@ body {
 }
 .page-heading {
   font-size: 42px;
+  color: #2B2B2B;
 }
 
 /* Special mechmania.html styles */
@@ -269,6 +280,9 @@ body:before {
 #company_row {
   margin: 20px auto 0 auto;
 }
+.dropdown-toggle {
+  cursor: pointer;
+}
 .dropdown-menu li > a:hover,
 .dropdown-menu .active > a,
 .dropdown-menu .active > a:hover {
@@ -285,4 +299,42 @@ body:before {
 }
 */
 
+h2.home-links{
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
 
+h2.home-links:last-child{
+  border-bottom: 0px;
+}
+
+h2.home-links a:hover{
+  text-decoration: none;
+  color: #B8860B;
+}
+/*
+.crarr{
+  background: url("../img/crarr.png");
+  height: 36px;
+  width: 40px;
+}
+
+.crarr.left{
+  float: left;
+  margin-left: 20px;
+}
+
+h2.home-links a:hover .crarr.left{
+  margin-left: 60px;
+}
+
+.crarr.right{
+  float: right;
+  background-position: -40px 0px;
+  margin-right: 20px;
+}
+
+h2.home-links a:hover .crarr.right{
+  margin-right: 60px;
+}
+*/

@@ -34,9 +34,31 @@
 	<div id="main" class="container">
 		<div class="row">
 			<div class="about-info span12">
-				<div class="hero-unit">
-					<p>This year Reflections | Projections will feature a startup fair. The companies that will be at this year's fair have not yet been announced. Keep checking back to find out who you'll get a chance to meet.</p>
+			<div class="hero-unit">
+			<p>Make sure to add your resume to <a href="http://www.acm.uiuc.edu/corporate/resume/">ACM's Resume Book</a> before the startup fair!</p>
+			<p>The following companies will attend the startup fair this year:</p>
+			<div id="company_row" class="row">
+				<div class="span6">
+				    <ul id="company_list_1" class="company_list">
+					<li>16z</li>
+					<li>Academia.edu</li>
+					<li>Addepar</li>
+					<li>Backplane</li>
+					<li>Bloc</li>
+					<li>Clover</li>
+					</ul>
 				</div>
+				<div class="span6">
+				    <ul id="company_list_2" class="company_list">
+					<li>Flutter</li>
+					<li>Greenbook Technologies</li>
+					<li>Quora</li>
+					<li>Seelio</li>
+					<li>Snap Logic</li>
+					</ul>
+				</div>
+			</div>
+			</div>
 			</div>
 		</div>
 	</div>

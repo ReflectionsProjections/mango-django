@@ -21,7 +21,7 @@
 							</ul>
 						</li>
 						<li class="dropdown" id="register">
-							<a class="dropdown-toggle" data-toggle="dropdown">attend <b class="caret"></b></a>
+							<a class="dropdown-toggle" data-toggle="dropdown">register <b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li class="<?php if($page=="registration.php"){echo "active";} ?>">
 									<a href="./registration.php">attendee registration</a>

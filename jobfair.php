@@ -35,11 +35,13 @@
 		<div class="row">
 			<div class="jobfair-info span12">
 				<div class="hero-unit">
+				<p>Make sure to add your resume to <a href="http://www.acm.uiuc.edu/corporate/resume/">ACM's Resume Book</a> before the job fair!</p>
 				<p>The following companies will attend the job fair this year:</p>
 				<div id="company_row" class="row">
 				<div class="span3">
 				    <ul id="company_list_1" class="company_list">
 					<li>Allston Trading</li>
+					<li>Blackbaud</li>
 					<li>Coursera</li>
 					<li>Citrix Systems</li>
 					<li>CME Group</li>
@@ -56,11 +58,13 @@
 					<li>Intel</li>
 					<li>Interactive Game Technology</li>
 					<li>Interactive Intelligence</li>
+					<li>LinkedIn</li>
 					<li>Microsoft</li>
 				    </ul>
 				</div>
 				<div class="span3">
-				    <ul id="company_list_3" class="company_list">
+					<ul id="company_list_3" class="company_list">
+					<li>Morningstar</li>
 					<li>Palantir</li>
 					<li>Rdio, Inc</li>
 					<li>Riverbed</li>

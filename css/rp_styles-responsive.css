@@ -49,6 +49,13 @@
     }
 }
 
+@media (max-width: 399px) {
+    #header .span12 > img {
+      width: 300px;
+      margin: 10px;
+    }
+}
+
 @media (max-width: 566px) {
     .container-fluid .span12 h1, .container-fluid .span12 h2 {
 	display: block;
