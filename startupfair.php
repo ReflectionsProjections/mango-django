@@ -40,7 +40,7 @@
 			<div id="company_row" class="row">
 				<div class="span6">
 				    <ul id="company_list_1" class="company_list">
-					<li>16z</li>
+					<li>a16z</li>
 					<li>Academia.edu</li>
 					<li>Addepar</li>
 					<li>Backplane</li>
