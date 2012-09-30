@@ -304,8 +304,8 @@ h2.home-links a:hover{
 }
 
 img.speaker_photo {
-  height:170px;
-  width:170px;
+  width:100%;
+  max-width: 170px
 } 
 
 .talk_abstract{
