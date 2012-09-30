@@ -60,6 +60,9 @@
 						<li class="<?php if($page=="mechmania.php"){echo "active";} ?>">
 							<a href="./mechmania.php">mechmania</a>
 						</li>
+						<li class="<?php if($page=="puzzlebang.php"){echo "active";} ?>">
+							<a href="./puzzlebang.php">puzzlebang</a>
+						</li>
 					</ul>
 					<ul class="nav pull-right">
 						<li class="">
