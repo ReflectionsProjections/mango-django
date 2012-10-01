@@ -38,6 +38,7 @@
 				<p>
 PuzzleBang is a week-long puzzle contest. Teams solve a series
 of puzzles through the week, leading up to a metapuzzle on Saturday.
+Registration for PuzzleBang can be done on the <a href="http://www.puzzlebang.com/register/">PuzzleBang website</a>.
 				</p>
 			</div>
 		</div>
