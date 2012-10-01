@@ -36,8 +36,7 @@
 			<div class="hero-unit">
 				<h2>What is it?</h2>
 				<p>
-PuzzleBang is a week-long puzzle contest, similar to the MIT Mystery
-Hunt or the Microsoft College Puzzle Challenge. Teams solve a series
+PuzzleBang is a week-long puzzle contest. Teams solve a series
 of puzzles through the week, leading up to a metapuzzle on Saturday.
 				</p>
 			</div>
@@ -113,7 +112,7 @@ useful for Friday and Saturday.
 		</div>
 		<div class="mechmania-info span6">
 			<div class="hero-unit">
-        <h2> Where are the puzzles located? Is campus presence a requirement?</h2>
+        <h2> Where are the puzzles located?</h2><h2>Is campus presence a requirement?</h2>
 				<p>
 The puzzles during the week will all be online. The final few puzzles
 / metapuzzle on Friday and Saturday will likely require you to have a
@@ -129,8 +128,7 @@ with.
 		<div class="mechmania-info span12">
 			<div class="hero-unit">
 				<h2>Generously Sponsored By</h2>
-        <img src="img/savo.png"/>
-        <img src="img/verticalresponse.png"/>
+        <img style="margin-right:5%" src="img/savo.png"/> <img src="img/verticalresponse.png"/>
 			</div>
 		</div>
 	</div>

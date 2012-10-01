@@ -10,7 +10,7 @@ Jiquan Ngiam works at the cross roads of machine learning, education, and large-
 
 
 $talk_abstract_id="ngiam_talk_abstract";
-$talk_title="Technology Meets Education: Building A Scalable Online Learning Platform";
+$talk_title="Technology Meets Education:<br/>Building A Scalable Online Learning Platform";
 $talk_time="Saturday, 10/6 @ 4PM";
 $talk_location="1320 DCL";
 
