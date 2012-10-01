@@ -11,7 +11,7 @@
 	<div class="accordian-group">
 		<div class="accordian-heading">
 			<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#<?php echo $talk_abstract_id ?>">
-				<h3>More info</h3>
+				<h4>More info</h4>
 			</a>
 		</div>
 		<div id="<?php echo $talk_abstract_id ?>" class="accordion-body collapse">

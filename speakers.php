@@ -48,8 +48,10 @@
 				</div>
 				<div class="hero-unit">
 					<h2>Gaming Q & A</h2>
-					<?php include("speaker_pages/erik_wolpaw.php"); ?>
+					<h4>Saturday, 10/6 @ 7:45PM</h4>
+					<h4>1320 DCL</h4>
 					<?php include("speaker_pages/steve_jaros.php"); ?>
+					<?php include("speaker_pages/erik_wolpaw.php"); ?>
 				</div>	
 			</div>
 
@@ -65,8 +67,10 @@
 				</div>
 				<div class="hero-unit">
 					<h2>Startup Panel</h2>
-					<?php include("speaker_pages/cory_levy.php"); ?>
+					<h4>Saturday, 10/6 @ 11:15AM</h4>
+					<h4>1404 Siebel</h4>
 					<?php include("speaker_pages/amit_kulkarni.php"); ?>
+					<?php include("speaker_pages/cory_levy.php"); ?>
 					<?php include("speaker_pages/dan_magnes.php"); ?>
 					<?php include("speaker_pages/dave_paola.php"); ?>
 				</div>	
