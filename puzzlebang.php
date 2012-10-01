@@ -128,7 +128,13 @@ with.
 		<div class="mechmania-info span12">
 			<div class="hero-unit">
 				<h2>Generously Sponsored By</h2>
-        <img style="margin-right:5%" src="img/savo.png"/> <img src="img/verticalresponse.png"/>
+        <div class="row">
+          <div class="span3">
+            <img src="img/savo.png"/> 
+          </div>
+          <div class="span5">
+            <img src="img/verticalresponse.png"/>
+          </div>
 			</div>
 		</div>
 	</div>
