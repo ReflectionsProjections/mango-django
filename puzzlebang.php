@@ -125,6 +125,15 @@ with.
 			</div>
 		</div>
 	</div>
+	<div class="row mechmania-row">
+		<div class="mechmania-info span12">
+			<div class="hero-unit">
+				<h2>Generously Sponsored By</h2>
+        <img src="img/savo.png"/>
+        <img src="img/verticalresponse.png"/>
+			</div>
+		</div>
+	</div>
 </div>
 
 <?php include("footer.php"); ?>
