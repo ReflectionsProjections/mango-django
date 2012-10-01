@@ -39,7 +39,7 @@
 						<h1 class="schedule-date">Friday, October 5</h1>
 						<dl class="dl-horizontal schedule">
 							<dt>10:00 AM - 4:00 PM</dt>
-							<dd>Reflections | Projections Job Fair</dd>
+							<dd><a href="jobfair.php">Reflections | Projections Job Fair</a></dd>
 
 							<dt>5:00 PM</dt>
 							<dd>Garry Tan, Partner at Y Combinator</dd>
@@ -75,7 +75,7 @@
 							<dd>Lunch</dd>
 
 							<dt>1:00 PM - 4:00 PM</dt>
-							<dd>Reflections | Projections Startup Fair</dd>
+							<dd><a href="startupfair.php">Reflections | Projections Startup Fair</a></dd>
 
 							<dt>1:30 PM</dt>
 							<dd>
