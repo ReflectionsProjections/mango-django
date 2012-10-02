@@ -121,6 +121,12 @@
 	margin-top: 50px;
 	margin-bottom: 20px;
     }
+    .speaker_info {
+	text-align: center;
+    }
+    .speaker_photo {
+	margin: 0 auto !important;
+    }
 }
 
 /* Tablet view */

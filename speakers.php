@@ -27,13 +27,13 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">Speakers</h1>
+					<p>Click on a speaker's name for more information about his or her talk and biography.</p>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div id="main" class="container">
 		<div class="row">
-
 			<div class="span6">
 				<div class="hero-unit">
 					<?php include("speaker_pages/garry_tan.php"); ?>
