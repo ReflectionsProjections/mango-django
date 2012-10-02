@@ -37,7 +37,8 @@
 				<h2>The pitch</h2>
 				<p>
 				Want to contribute to open source projects, but not sure where to start or
-				what tools to use?
+				what tools to use? Attend Shauna Gordon-McKeon's talk on Saturday, then come
+				to our workshop on Sunday.
 				</p>
 				<p>On Sunday, October 7, we're running a four-hour workshop
 				where we'll mentor you through your first (or your next) open source contribution.
