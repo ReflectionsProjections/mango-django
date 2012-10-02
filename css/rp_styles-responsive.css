@@ -188,24 +188,50 @@
         height: 255px;
     }
     #startup_panel {
-       /* margin-top: -275px;*/
+     /*   margin-top: -275px;*/
     }
     /* mechmania hoopla */
     #dont {
 	height: 189px;
     }
     #bring {
-	height: 226px;
+	height: 189px;
     }
-    #when {
-	height: 188px;
+    #do {
+        height: 207px;
+    }
+    #sponsored {
+        width: auto;
+	padding: 18px 20px;
+	text-align: center;
+    }
+    #have > .hero-unit {
+        height: 279px;
+    }
+    #who > .hero-unit {
+        height: 171px;
+    }
+    #dont_oh > .hero-unit {
+        height: 234px;
+    }
+    #do_oh > .hero-unit {
+        height: 273px;
     }
 }
 
 /* Almost full screen view (maybe full screen on some compooters, but not on a 15-inch Mac */
 @media (min-width: 1055px) {
+    #have > .hero-unit {
+        height: 189px;
+    }
+    #dont_oh > .hero-unit {
+        height: 179px;
+    }
+    #do_oh > .hero-unit {
+        height: 201px;
+    }
     #startup_panel {
-	/*	margin-top: -210px;*/
+      /*	margin-top: -210px;*/
     }
     #top-section {
 	width: 940px;
@@ -225,8 +251,14 @@
     #dont p {
 	height: 107px;
     }
-    #bring p {
-	height: 127px;
+    #bring {
+	height: 154px;
+    }
+    #do {
+        height: 172px;
+    }
+    #palantir > .hero-unit {
+        padding: 43px 20px;
     }
     #homepage-carousel .carousel-inner .item > img {
 	float: right;
@@ -357,6 +389,9 @@
 
 /* Full screen view */
 @media (min-width: 1200px) {
+    #have > .hero-unit {
+        height: 153px;
+    }
     #top-section {
 	width: 1150px; margin: 0 auto;
     }
@@ -373,6 +408,18 @@
         height: 135px;
     }
     #bring {
-	height: 153px;
+	height: 136px;
+    }
+    #do {
+        height: 136px;
+    }
+    #palantir > .hero-unit {
+        padding: 26px 20px;
+    }
+    #dont_oh > .hero-unit {
+        height: 162px;
+    }
+    #do_oh > .hero-unit {
+        height: 184px;
     }
 }

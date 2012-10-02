@@ -21,7 +21,7 @@
 </head>
 <body>
 <div id="wrap">
-<?php $page="contact.php"; include("nav.php"); ?>
+	<?php $page="contact.php"; include("nav.php"); ?>
 	<div id="page-description" class="container-fluid">
 		<div class="row" id="header">
 			<div id="top-section">
@@ -67,15 +67,8 @@
 		</div>
 	</div>
 </div>
-<div id="foot">
-	<h1>October 5-7, 2012</h1>
-	<p>18<sup>th</sup> Annual Reflections | Projections Student Computing Conference</p>
-	<p id="copyright">Copyright ACM 2012</p>
+<div id="short_page">
+	<?php include("footer.php"); ?>
 </div>
-
-	<!-- Le JavaScript -->
-	<script src="js/jquery.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-
 </body>
 </html>

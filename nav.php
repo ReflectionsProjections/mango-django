@@ -13,7 +13,7 @@
 							<a class="dropdown-toggle" data-toggle="dropdown">conference <b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li class="<?php if($page=="about.php"){echo "active";} ?>">
-									<a href="./about.php">about</a>
+									<a href="about.php">about</a>
 								</li>
 								<li class="<?php if($page=="contact.php"){echo "active";} ?>">
 									<a href="./contact.php">contact</a>

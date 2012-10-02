@@ -89,6 +89,8 @@
 		</div>
 	</div>
 </div>
-<?php include("footer.php"); ?>
+<div id="short_page">
+	<?php include("footer.php"); ?>
+</div>
 </body>
 </html>

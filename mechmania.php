@@ -122,7 +122,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="mechmania-info span6">
+		<div id="give" class="mechmania-info span6">
 			<div class="hero-unit">
 				<h2>What we'll give you</h2>
 				<p>
@@ -138,7 +138,7 @@
 	</div>
 	<div class="row mechmania-row">
 		<div class="mechmania-info span6">
-			<div class="hero-unit">
+			<div id="do" class="hero-unit">
 			<h2>What you'll do</h2>
 			<p>
 			By either starting from scratch or using our provided sample
@@ -151,7 +151,7 @@
 			</div>
 		</div>
 		<div id="when" class="mechmania-info span6">
-			<div id="when" class="hero-unit">
+			<div class="hero-unit">
 				<h2>When it'll happen</h2>
 				<p>
 				This year we have changed the start time for the competition
@@ -182,12 +182,12 @@
 				</p>
 			</div>
 		</div>
-	</div>
-	<div class="row mechmania-row">
-		<div class="mechmania-info span12">
+		<div id="palantir" class="mechmania-info span6">
 			<div class="hero-unit">
-				<h2>Generously Sponsored By</h2>
-        <img src="img/palantirlogo.png"/>
+				<div id="sponsored" class="span2">
+					<h3>Generously Sponsored By</h3>
+				</div>
+        			<img id="palantir_logo" src="img/palantirlogo.png"/>
 			</div>
 		</div>
 	</div>

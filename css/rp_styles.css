@@ -116,6 +116,9 @@ a:hover {
   font-size: 42px;
   color: #2B2B2B;
 }
+#register > .mechmania-info > .hero-unit > div > iframe {
+  height: 290px;
+}
 
 /* Special mechmania.html styles */
 .hero-unit.mechmania-info {
@@ -130,6 +133,26 @@ a:hover {
 #footnotes .small-font {
   font-size: 11px;
   line-height: 17px;
+}
+#palantir {
+  height: 129px;
+}
+#palantir_logo {
+  width:100%;
+  max-width: 270px;
+}
+#sponsored {
+  margin-left: 0;
+}
+#organized {
+  margin: 0 auto;
+  text-align: center;
+}
+.puzzlebang_sponsor {
+  margin: 20px;
+}
+#short_page > #foot {
+  margin-top: -155px;
 }
 
 /* index.html styles */
@@ -244,8 +267,9 @@ a:hover {
   width: intrinsic;
   position: relative;
   clear: both;
-  margin: 25px auto;
-  padding-bottom: 25px;
+  margin: 30px auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 /*Opera Fix*/
 body:before {
@@ -332,13 +356,11 @@ img.speaker_photo {
   height: 190px;
 }
 
-/*
 .navbar .nav .active > a,
 .navbar .nav .active > a:hover {
   background-color: inherit;
   color: #991B1E;
 }
-*/
 
 /*
 .crarr{
