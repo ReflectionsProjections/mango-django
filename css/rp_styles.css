@@ -358,8 +358,8 @@ img.speaker_photo {
 
 .navbar .nav .dropdown-menu .active > a,
 .navbar .nav .dropdown-menu .active > a:hover {
-  background-color: inherit;
-  color: #991B1E;
+  background-color: #991B1E;
+  color: #eee;
 }
 
 /*
