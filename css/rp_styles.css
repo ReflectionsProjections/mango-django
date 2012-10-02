@@ -356,8 +356,8 @@ img.speaker_photo {
   height: 190px;
 }
 
-.navbar .nav .active > a,
-.navbar .nav .active > a:hover {
+.navbar .nav .dropdown-menu .active > a,
+.navbar .nav .dropdown-menu .active > a:hover {
   background-color: inherit;
   color: #991B1E;
 }
