@@ -46,6 +46,9 @@
 				And if you want some hands-on time with git and the command line first, come
 				to our workshops, also on Sunday.
 				</p>
+				<p>It's free, but for lunch,
+				<strong>you have to sign up</strong>.
+				</p>
 				<p><a href="#register">Register Below</a></p>
 			</div>
 		</div>
