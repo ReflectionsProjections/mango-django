@@ -331,11 +331,15 @@ h2.home-links{
   border-bottom: 1px solid #ccc;
 }
 
-h2.home-links:last-child{
+h2.home-links:last-child {
   border-bottom: 0px;
 }
 
-h2.home-links a:hover{
+h2.home-links a {
+  color: #DAA520;
+}
+
+h2.home-links a:hover {
   text-decoration: none;
   color: #B8860B;
 }
