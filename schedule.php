@@ -51,27 +51,31 @@
 							// FRIDAY
 							$fridayEvents = array(
 								array(
-									"time"  => "10:00 AM - 4:00 PM",
-									"desc" => "<a href=\"jobfair.php\">Reflections | Projections Job Fair</a>",
+									"time" => "9:00 AM",
+									"desc" => "Registration Begins",
 								),
 								array(
-									"time"  => "5:00 PM",
+									"time" => "10:00 AM - 4:00 PM",
+									"desc" => "<a href='jobfair.php'>Reflections | Projections Job Fair</a>",
+								),
+								array(
+									"time" => "5:00 PM",
 									"desc" => "Garry Tan, Partner at Y Combinator",
 								),
 								array(
-									"time"  => "6:30 PM",
+									"time" => "6:30 PM",
 									"desc" => "Dinner",
 								),
 								array(
-									"time"  => "7:45 PM",
+									"time" => "7:45 PM",
 									"desc" => "Danielle Feinberg, Director of Photography -- Lighting  at Pixar",
 								),
 								array(
-									"time"  => "9:00 PM",
-									"desc" => "MechMania Opening Ceremony",
+									"time" => "9:00 PM",
+									"desc" => "<a href=''>MechMania Opening Ceremony</a>",
 								),
 								array(
-									"time"  => "9:30 PM",
+									"time" => "9:30 PM",
 									"desc" => "MechMania Begins",
 								),
 
@@ -82,54 +86,65 @@
 							// SATURDAY
 							$saturdayEvents = array(
 								array(
-									"time"  => "9:00 AM",
+									"time" => "9:00 AM",
 									"desc" => "Breakfast",
 								),
 								array(
-									"time"  => "10:00 AM",
+									"time" => "10:00 AM",
 									"room"  => "",
 								
-									"desc" => "<p>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></p><p>Rian Hunter, Software Engineer at Dropbox</p>",
+									"desc" => "<p>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></p>
+											   <p>Rian Hunter, Software Engineer at Dropbox</p>
+											  ",
 								),
 								array(
-									"time"  => "11:15 AM",
+									"time" => "11:15 AM",
 									"desc" => "Startup Panel with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)",
 								),
 								array(
-									"time"  => "12:30 PM",
+									"time" => "12:30 PM",
 									"desc" => "Lunch",
 								),
 								array(
-									"time"  => "1:00 PM - 4:00 PM",
-									"desc" => "<a href=\"startupfair.php\">Reflections | Projections Startup Fair</a>",
+									"time" => "1:00 PM - 4:00 PM",
+									"desc" => "<a href='startupfair.php'>Reflections | Projections Startup Fair</a>",
 								),
 								array(
-									"time"  => "1:30 PM",
-									"desc" => "<p>Shannon \"JJ\" Behrens, Member of Google DART Team</p><p>Zed Shaw, Creator of Mongrel</p><p>Open Hatch Talk</p>",
+									"time" => "1:30 PM",
+									"desc" => "<p>Shannon 'JJ' Behrens, Member of Google DART Team</p>
+											   <p>Zed Shaw, Creator of Mongrel</p><p>Open Hatch Talk</p>
+											   ",
 								),
 								array(
-									"time"  => "2:45 PM",
-									"desc" => "<p>Stefano Zacchiroli, Debian Project Leader</p><p>Ian Chan, Front End Engineer at Twitter</p>",
+									"time" => "2:45 PM",
+									"desc" => "<p>Stefano Zacchiroli, Debian Project Leader</p>
+											   <p>Ian Chan, Front End Engineer at Twitter</p>
+											  ",
 								),
 								array(
-									"time"  => "4:00 PM",
-									"desc" => "<p>Jiquan Ngiam, Director of Engineering at Coursera</p><p>Jonathan Verrecchia, Front End Engineer at Yelp</p>",
+									"time" => "4:00 PM",
+									"desc" => "<p>Jiquan Ngiam, Director of Engineering at Coursera</p>
+											   <p>Jonathan Verrecchia, Front End Engineer at Yelp</p>
+											  ",
 								),
 								array(
-									"time"  => "5:30 PM",
+									"time" => "5:30 PM",
 									"desc" => "Dinner",
 								),
 								array(
-									"time"  => "6:30 PM",
-									"desc" => "<p>Andrew Ritz, Development Manager for Windows at Microsoft</p><p>Radu Rusu, CEO of Open Perception, Inc.</p><p>Google DART Workshop</p>",
+									"time" => "6:30 PM",
+									"desc" => "<p>Andrew Ritz, Development Manager for Windows at Microsoft</p>
+											   <p>Radu Rusu, CEO of Open Perception, Inc.</p>
+											   <p>Google DART Workshop</p>
+											  ",
 								),
 								array(
-									"time"  => "7:45 PM",
+									"time" => "7:45 PM",
 									"desc" => "<p>Joe Boutros, Project Manager at Indeed</p>
 								<p>Video Game Q&amp;A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</p>",
 								),
 								array(
-									"time"  => "9:00 PM",
+									"time" => "9:00 PM",
 									"desc" => "MechMania Ends",
 								),
 							);
@@ -139,11 +154,11 @@
 							// SUNDAY
 							$sundayEvents = array(
 								array(
-									"time"  => "1:00 PM",
+									"time" => "1:00 PM",
 									"desc" => "MechMania Closing Ceremony",
 								),
 								array(
-									"time"  => "TBA",
+									"time" => "TBA",
 									"desc" => "Open Hatch Workshop",
 								),
 							);
