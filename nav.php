@@ -29,6 +29,9 @@
 								<li class="<?php if($page=="volunteers.php"){echo "active";} ?>">
 									<a href="./volunteers.php">volunteer registration</a>
 								</li>
+								<li class="<?php if($page=="openhatch.php"){echo "active";} ?>">
+									<a href="./openhatch.php">open source workshop registration</a>
+								</li>
 							</ul>
 						</li>
 						<li class="dropdown" id="planweekend">
