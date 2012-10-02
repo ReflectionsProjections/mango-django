@@ -34,13 +34,17 @@
 	<div class="row openhatch-row">
 		<div class="openhatch-info span12">
 			<div class="hero-unit">
-				<h2>What is it?</h2>
+				<h2>The pitch</h2>
 				<p>
-				The Open Source Workshop is a four-hour, newcomer-friendly
-				event to you find out, hands-on, what it's like to contribute
-				to open source projects.
-				To help students participate, we also provide workshops on
-				essential skills like git and the command line.
+				Want to contribute to open source projects, but not sure where to start or
+				what tools to use?
+				</p>
+				<p>On Sunday, October 7, we're running a four-hour workshop
+				where we'll mentor you through your first (or your next) open source contribution.
+				We can help you join big projects like WordPress, niche ones like Biopython,
+				and everything in between.
+				And if you want some hands-on time with git and the command line first, come
+				to our workshops, also on Sunday.
 				</p>
 				<p><a href="#register">Register Below</a></p>
 			</div>
@@ -49,26 +53,24 @@
 	<div class="row openhatch-row">
 		<div class="openhatch-info span12">
 			<div class="hero-unit">
-				<h2>Who's eligible?</h2>
+				<h2>Who should come?</h2>
 				<p>
-				We accept teams of up to three people in two brackets: the
-				student competition and the corporate competition.
+				Newcomers and experienced contributors alike. For newcomers to open source, come and learn what it's like to submit your
+				first patch to an open source project. Experienced contributors, come to program in a supportive space and build an
+				atmosphere of collaboration.
 				</p>
-				<h3>Student Competition</h3>
+				<h3>Mentorship, not competition</h3>
 				<p>
-				Our student competition accepts up to twenty teams and pits them
-				against each other in one final battle. Teams do not need to be
-				comprised of all students from the same school, but all
-				participants must be actively enrolled in a college or
-				university.
+				The event is run by OpenHatch, an educational non-profit that wants to see more
+				students participating in open source communities. To that end, experienced
+				programmers, system administrators, and open source contributors will be on hand
+				to help you through your first contribution.
 				</p>
-				<h3>Corporate Competition</h3>
+				<h3>Optional tutorials</h3>
 				<p>
-				The corporate competition is open to teams representing
-				companies. Be sure to contact us if your company is interested
-				in participating in this year's competition. There are no
-				prizes (other than the joy of winning) for corporate
-				competitors.
+				If you want to learn <tt>git</tt> or come to a tutorial on the basics of the
+				command line, we'll be happy to teach you on Sunday morning through hands-on
+				exercises.
 				</p>
 			</div>
 		</div>
@@ -86,12 +88,15 @@
 			<div class="hero-unit">
 				<h2>What you need to know</h2>
 				<p>
-				At least one, and preferably all, members of each team will need
-				general familiarity with a Linux shell (bash, zsh, and csh are
-				all provided on our workstations). All members should be
-				proficient in the programming language their team intends to
-				use. The API will use JSON messages passed over HTTP, so we recommend having
-				knowledge of a JSON library in your chosen language.
+				It helps you if you are reasonably familiar with one programming
+				language: C, Python, C++, Ruby, or so forth. The open source projects
+				we'll be using as examples will have tasks available ranging from
+				simple documentation fixes where no code editing is needed, to small
+				code changes, to adding unit tests, up to reviewing others' patches.
+				</p>
+				<p>
+				If you let us know in the sign-up form what you know, we'll work to
+				prepare tasks appropriate for you!
 				</p>
 			</div>
 		</div>
@@ -99,40 +104,10 @@
 			<div id="dont" class="hero-unit">
 				<h2>What you don't need to know</h2>
 				<p>
-				No prior knowledge of any specific languages are
-				required<sup>1</sup>. You won't need a background in artificial
-				intelligence&mdash;in previous years, many teams without an AI
-				background have competed and done well, or even won. You also
-				shouldn't need knowledge of network programming beyond HTTP
-				requests.
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="row openhatch-row">
-		<div class="openhatch-info span6">
-			<div id="bring" class="hero-unit">
-				<h2>What you can bring</h2>
-				<p>
-				You can bring any reference manual(s) you wish, whether it be the
-				<em>Art of Computer Programming</em> or the <em>Art of War.</em>
-				But absolutely no outside code. You may, however, bring non-code
-				items like rc files, build scripts, notes, etc. Competitors are
-				allowed to bring their own laptops, though the code you write
-				must be capable of running on our systems.
-				</p>
-			</div>
-		</div>
-		<div class="openhatch-info span6">
-			<div class="hero-unit">
-				<h2>What we'll give you</h2>
-				<p>
-				Teams will be provided two PCs running Scientific Linux 6.
-				Your code should be platform-independent to ensure compatibility with the competition environment.
-				We will provide a standard Unix environment, as described above.
-				You will have access to the internet throughout the competition
-				and are free to find reference materials, documentation and
-				third party libraries<sup>2</sup>.
+				You don't have to know how <tt>git</tt> works, or even how to use
+				the command line. (Come to our tutorials &mdash; keep reading!)
+				You don't even really have to know yet what open source is; just
+				be sure to go to Shauna Gordon-McKeon's talk to learn more.
 				</p>
 			</div>
 		</div>
@@ -142,53 +117,38 @@
 			<div class="hero-unit">
 			<h2>What you'll do</h2>
 			<p>
-			By either starting from scratch or using our provided sample
-			clients, you will build an artificial intelligence client to play a strategy game
-			of our design. Our API will provide you
-			information about the current state of the game, as well as
-			allow you to send commands to play it. You may find previous
-			competition sites useful to get an idea of how openhatch operates.
+			At <strong>12 PM</strong>, you'll show up at the Seibel Center (room TBA), eat lunch, and get to know the mentors in attendance.
+			</p>
+			<p>
+			At <strong>1 PM</strong>, the workshop begins! We'll step you through a
+			<a href="http://downtime.makesad.us/foss-contrib-guide/">guide</a>
+			on contributing to open source. We'll provide specially-chosen tasks that are
+			appropriate for newcomers.
 			</p>
 			</div>
 		</div>
 		<div id="when" class="openhatch-info span6">
 			<div id="when" class="hero-unit">
-				<h2>When it'll happen</h2>
+				<h2>Newcomers track: optional tutorials</h2>
 				<p>
-				This year we have changed the start time for the competition
-				based on feedback from previous years' participants. The
-				competition will begin with the opening ceremony and announcement of the game on Friday,
-				October 5, after which the programming component will
-				commence immediately. The competition will end Saturday evening
-				after running for 24 hours. We will present the closing ceremony and awards Sunday afternoon.
+				If you're a total newcomer to open source, we're happy to teach you what
+				you need to know!
 				</p>
-			</div>
-		</div>
-	</div>
-	<div class="row openhatch-row">
-		<div class="openhatch-info span6">
-			<div id="footnotes" class="hero-unit">
-				<h3>Footnotes</h3>
-				<p class="small-font">
-				1 You may only use languages and language features that compile
-				and run on our test machine. Note that this means you should
-				avoid Linux-specific C/C++. Pure Unix-targeted code should
-				suffice.
+				<p>
+				At <strong>10 AM</strong>, come to the Seibel Center (room TBA), and we'll introduce the
+				workshop. We'll provide coffee and a basic breakfast.
 				</p>
-				<p class="small-font">
-				2 Please note that when we say "third-party libraries," we mean
-				third-party--not ones written by you, your team, or your
-				friends. We will try to make sure that PIP is set up for Python
-				users.
-				</p>
+				<p>At <strong>10:15 AM</strong>, we'll provide a tutorial on the basics of the command line.</p>
+				<p>At <strong>11 AM</strong>, we'll provide a hands-on tutorial with <tt>git</tt>, a
+				common version control system.</p>
 			</div>
 		</div>
 	</div>
 	<div class="row openhatch-row">
 		<div class="openhatch-info span12">
 			<div class="hero-unit">
-				<h2>Generously Sponsored By</h2>
-        <img src="img/palantirlogo.png"/>
+				<h2>Organized in collaboration with</h2>
+        <img alt="OpenHatch" src="img/openhatch-logo.png"/>
 			</div>
 		</div>
 	</div>
