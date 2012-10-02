@@ -50,7 +50,7 @@
 				<p>It's free! But if you want lunch,
 				<strong>you have to sign up</strong>.
 				</p>
-				<p><a href="#register">Register Below</a></p>
+				<p><a href="#register_jump">Register Below</a></p>
 			</div>
 		</div>
 	</div>
@@ -79,14 +79,14 @@
 			</div>
 		</div>
 	</div>
-	<div id="register" class="row openhatch-row">
+	<a name="register_jump"><div id="register" class="row openhatch-row">
 		<div class="openhatch-info span12">
 			<div class="hero-unit">
 			  <h2>Register Now!</h2>
 			  <div style="width:100%; text-align:left;" ><iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDZoRVFhMUszSExOaVdvaExQOHp1OVE6MA" width="760" height="890" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></div>
 			</div>
 		</div>
-	</div>
+	</div></a>
 	<div class="row openhatch-row">
 		<div class="openhatch-info span6">
 			<div class="hero-unit">

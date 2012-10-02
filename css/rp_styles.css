@@ -168,6 +168,9 @@ a:hover {
 .hero-unit {
   padding: 20px;
 }
+#register > .hero-unit {
+  height: 350px;
+}
 .hero-unit p {
   font-weight: normal;
   font-size: 13px;
