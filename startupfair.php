@@ -46,15 +46,19 @@
 					<li>Backplane</li>
 					<li>Bloc</li>
 					<li>Clover</li>
+					<li>Flutter</li>
+					<li>Greenbook Technologies</li>
 					</ul>
 				</div>
 				<div class="span6">
 				    <ul id="company_list_2" class="company_list">
-					<li>Flutter</li>
-					<li>Greenbook Technologies</li>
+					<li>Infobright</li>
+					<li>One</li>
+					<li>Nuvixa</li>
 					<li>Quora</li>
 					<li>Seelio</li>
 					<li>Snap Logic</li>
+					<li>Zero Percent</li>
 					</ul>
 				</div>
 			</div>
