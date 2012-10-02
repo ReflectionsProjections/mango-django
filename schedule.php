@@ -36,94 +36,121 @@
 			<div class="span12">
 				<div class="hero-unit">
 					<div id="event-schedule">
-						<h1 class="schedule-date">Friday, October 5</h1>
-						<dl class="dl-horizontal schedule">
-							<dt>10:00 AM - 4:00 PM</dt>
-							<dd><a href="jobfair.php">Reflections | Projections Job Fair</a></dd>
+						
+						<?php
+							function printEvents($events, $day) {
+								echo "<h1 class=\"schedule-date\">$day</h1>";
+								echo "<dl class=\"dl-horizontal schedule\">";
+								foreach ($events as $event) {
+									echo '<dt>' . $event["time"] . '</dt>';
+									echo '<dd>' . $event["desc"] . '</dd>';
+								}
+								echo '</dl>';
+							}
 
-							<dt>5:00 PM</dt>
-							<dd>Garry Tan, Partner at Y Combinator</dd>
+							// FRIDAY
+							$fridayEvents = array(
+								array(
+									"time"  => "10:00 AM - 4:00 PM",
+									"desc" => "<a href=\"jobfair.php\">Reflections | Projections Job Fair</a>",
+								),
+								array(
+									"time"  => "5:00 PM",
+									"desc" => "Garry Tan, Partner at Y Combinator",
+								),
+								array(
+									"time"  => "6:30 PM",
+									"desc" => "Dinner",
+								),
+								array(
+									"time"  => "7:45 PM",
+									"desc" => "Danielle Feinberg, Director of Photography -- Lighting  at Pixar",
+								),
+								array(
+									"time"  => "9:00 PM",
+									"desc" => "MechMania Opening Ceremony",
+								),
+								array(
+									"time"  => "9:30 PM",
+									"desc" => "MechMania Begins",
+								),
 
-							<dt>6:30 PM</dt>
-							<dd>Dinner</dt>
+							);
 
-							<dt>7:45 PM</dt>
-							<dd>Danielle Feinberg, Director of Photography -- Lighting  at Pixar</dd>
+							printEvents($fridayEvents, "Friday, October 5");
+							
+							// SATURDAY
+							$saturdayEvents = array(
+								array(
+									"time"  => "9:00 AM",
+									"desc" => "Breakfast",
+								),
+								array(
+									"time"  => "10:00 AM",
+									"room"  => "",
+								
+									"desc" => "<p>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></p><p>Rian Hunter, Software Engineer at Dropbox</p>",
+								),
+								array(
+									"time"  => "11:15 AM",
+									"desc" => "Startup Panel with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)",
+								),
+								array(
+									"time"  => "12:30 PM",
+									"desc" => "Lunch",
+								),
+								array(
+									"time"  => "1:00 PM - 4:00 PM",
+									"desc" => "<a href=\"startupfair.php\">Reflections | Projections Startup Fair</a>",
+								),
+								array(
+									"time"  => "1:30 PM",
+									"desc" => "<p>Shannon \"JJ\" Behrens, Member of Google DART Team</p><p>Zed Shaw, Creator of Mongrel</p><p>Open Hatch Talk</p>",
+								),
+								array(
+									"time"  => "2:45 PM",
+									"desc" => "<p>Stefano Zacchiroli, Debian Project Leader</p><p>Ian Chan, Front End Engineer at Twitter</p>",
+								),
+								array(
+									"time"  => "4:00 PM",
+									"desc" => "<p>Jiquan Ngiam, Director of Engineering at Coursera</p><p>Jonathan Verrecchia, Front End Engineer at Yelp</p>",
+								),
+								array(
+									"time"  => "5:30 PM",
+									"desc" => "Dinner",
+								),
+								array(
+									"time"  => "6:30 PM",
+									"desc" => "<p>Andrew Ritz, Development Manager for Windows at Microsoft</p><p>Radu Rusu, CEO of Open Perception, Inc.</p><p>Google DART Workshop</p>",
+								),
+								array(
+									"time"  => "7:45 PM",
+									"desc" => "<p>Joe Boutros, Project Manager at Indeed</p>
+								<p>Video Game Q&amp;A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</p>",
+								),
+								array(
+									"time"  => "9:00 PM",
+									"desc" => "MechMania Ends",
+								),
+							);
 
-							<dt>9:00 PM</dt>
-							<dd>MechMania Opening Ceremony</dd>
+							printEvents($saturdayEvents, "Saturday, October 6");
 
-							<dt>9:30 PM</dt>
-							<dd>MechMania Begins</dd>
-						</dl>	
+							// SUNDAY
+							$sundayEvents = array(
+								array(
+									"time"  => "1:00 PM",
+									"desc" => "MechMania Closing Ceremony",
+								),
+								array(
+									"time"  => "TBA",
+									"desc" => "Open Hatch Workshop",
+								),
+							);
 
-						<h1 class="schedule-date">Saturday, October 6</h1>
-						<dl class="dl-horizontal schedule">
-							<dt>9:00 AM</dt>
-							<dd>Breakfast</dd>
+							printEvents($sundayEvents, "Sunday, October 7");
+						?>
 
-							<dt>10:00 AM</dt>
-							<dd>
-								<p>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></p>
-								<p>Rian Hunter, Software Engineer at Dropbox</p>
-							</dd>
-
-							<dt>11:15 AM</dt>
-							<dd>Startup Panel with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)</dd>
-
-							<dt>12:30 PM</dt>
-							<dd>Lunch</dd>
-
-							<dt>1:00 PM - 4:00 PM</dt>
-							<dd><a href="startupfair.php">Reflections | Projections Startup Fair</a></dd>
-
-							<dt>1:30 PM</dt>
-							<dd>
-								<p>Shannon "JJ" Behrens, Member of Google DART Team</p>
-								<p>Zed Shaw, Creator of Mongrel</p>
-								<p>Open Hatch Talk</p>
-							</dd>
-
-							<dt class="col2">2:45 PM</dt>
-							<dd>
-								<p>Stefano Zacchiroli, Debian Project Leader</p>
-								<p>Ian Chan, Front End Engineer at Twitter</p>
-							</dd>
-
-							<dt>4:00 PM</dt>
-							<dd>
-								<p>Jiquan Ngiam, Director of Engineering at Coursera</p>
-								<p>Jonathan Verrecchia, Front End Engineer at Yelp</p>
-							</dd>
-
-							<dt>5:30 PM</dt>
-							<dd>Dinner</dd>
-
-							<dt>6:30 PM</dt>
-							<dd>
-								<p>Andrew Ritz, Development Manager for Windows at Microsoft</p>
-								<p>Radu Rusu, CEO of Open Perception, Inc.</p>
-								<p>Google DART Workshop</p>
-							</dd>
-
-							<dt class="odd col2">7:45 PM</dt>
-							<dd>
-								<p>Joe Boutros, Project Manager at Indeed</p>
-								<p>Video Game Q&amp;A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</p>
-							</dd>
-
-							<dt>9:00 PM</dt>
-							<dd>MechMania Ends</dd>
-						</dl>
-
-						<h1 class="schedule-date">Sunday, October 7</h1>
-						<dl class="dl-horizontal schedule">
-							<dt>1:00 PM</dt>
-							<dd>MechMania Closing Ceremony</dd>
-
-							<dt>TBA</dt>
-							<dd>Open Hatch Workshop</dd>
-						</dl>
 					</div> <!-- #event-schedule -->
 				</div>
 			</div>
