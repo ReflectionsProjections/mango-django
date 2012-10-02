@@ -41,7 +41,7 @@
 				playing (and winning) a strategy game we have developed for the
 				event.
 				</p>
-				<p><a href="#register_jump">Register Below</a></p>
+				<p>Registration for MechMania 2012 has closed.</p>
 			</div>
 		</div>
 	</div>
@@ -72,14 +72,6 @@
 			</div>
 		</div>
 	</div>
-	<a name="register_jump"><div id="register" class="row mechmania-row">
-		<div class="mechmania-info span12">
-			<div class="hero-unit">
-			  <h2>Register Now!</h2>
-			  <div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=4243049074&ref=etckt" frameborder="0" height="250" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-			</div>
-		</div>
-	</div></a>
 	<div class="row mechmania-row">
 		<div class="mechmania-info span6">
 			<div class="hero-unit">
