@@ -41,7 +41,7 @@
 				playing (and winning) a strategy game we have developed for the
 				event.
 				</p>
-				<p><a href="#register_jump">Register Below</a></p>
+				<p>Registration for MechMania 2012 has closed.</p>
 			</div>
 		</div>
 	</div>
