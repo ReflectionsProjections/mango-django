@@ -15,6 +15,7 @@ body {
   height: 100%;
 }
 .speaker_info {
+  margin-left: 20px;
   color: #222;
 }
 .speaker_info:hover {
@@ -30,6 +31,7 @@ a:hover {
 .accordian-inner {
   border-top: 1px solid #E5E5E5;
   padding: 9px 0px;
+  margin-left: 20px;
 }
 
 /* Wrappers for entire page/main content */
@@ -38,9 +40,6 @@ a:hover {
 }
 #main {
   margin-top: 45px;
-}
-#main .span6:nth-child(n+2) {
-  margin-left: 20px;
 }
 #main #company_row .span6 {
   margin-left: 20px;
@@ -316,13 +315,18 @@ h2.home-links a:hover{
 
 img.speaker_photo {
   width:100%;
-  max-width: 170px
+  max-width: 170px;
+  margin-right: 20px;
 } 
 
 .talk_abstract{
   text-align:justify;
   text-justify:inter-word;
   padding: 9px 0px;
+  margin-left: 20px;
+}
+.speakerbox {
+  height: 190px;
 }
 
 /*

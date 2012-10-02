@@ -121,11 +121,11 @@
 	margin-top: 50px;
 	margin-bottom: 20px;
     }
-    .speaker_info {
-	text-align: center;
-    }
     .speaker_photo {
-	margin: 0 auto !important;
+	margin-right: 20px;
+    }
+    .talk_abstract {
+	margin-right: 20px;
     }
 }
 
@@ -181,6 +181,15 @@
     #location {
 	width: 100%;
     }
+    img.speaker_photo {
+	margin-right: 80px;
+    }
+    .speakerbox {
+        height: 255px;
+    }
+    #startup_panel {
+       /* margin-top: -275px;*/
+    }
     /* mechmania hoopla */
     #dont {
 	height: 189px;
@@ -195,6 +204,9 @@
 
 /* Almost full screen view (maybe full screen on some compooters, but not on a 15-inch Mac */
 @media (min-width: 1055px) {
+    #startup_panel {
+	/*	margin-top: -210px;*/
+    }
     #top-section {
 	width: 940px;
 	margin: 0 auto;

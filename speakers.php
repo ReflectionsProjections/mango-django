@@ -44,17 +44,8 @@
 					<?php include("speaker_pages/jonathan_verrecchia.php"); ?>
 					<?php include("speaker_pages/andrew_ritz.php"); ?>
 					<?php include("speaker_pages/joe_boutros.php"); ?>
-
 				</div>
-				<div class="hero-unit">
-					<h2>Gaming Q & A</h2>
-					<h4>Saturday, 10/6 @ 7:45PM</h4>
-					<h4>1320 DCL</h4>
-					<?php include("speaker_pages/steve_jaros.php"); ?>
-					<?php include("speaker_pages/erik_wolpaw.php"); ?>
-				</div>	
 			</div>
-
 			<div class="span6">
 				<div class="hero-unit">
 					<?php include("speaker_pages/danielle_feinberg.php"); ?>
@@ -65,10 +56,25 @@
 					<?php include("speaker_pages/jiquan_ngiam.php"); ?>
 					<?php include("speaker_pages/radu_rusu.php"); ?>
 				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="span6">
+				<div class="hero-unit">
+					<h2>Gaming Q & A</h2>
+					<h4>Saturday, 10/6 @ 7:45PM</h4>
+					<h4>1320 DCL</h4>
+					<br>
+					<?php include("speaker_pages/steve_jaros.php"); ?>
+					<?php include("speaker_pages/erik_wolpaw.php"); ?>
+				</div>	
+			</div>
+			<div id="startup_panel" class="span6">
 				<div class="hero-unit">
 					<h2>Startup Panel</h2>
 					<h4>Saturday, 10/6 @ 11:15AM</h4>
 					<h4>1404 Siebel</h4>
+					<br>
 					<?php include("speaker_pages/amit_kulkarni.php"); ?>
 					<?php include("speaker_pages/cory_levy.php"); ?>
 					<?php include("speaker_pages/dan_magnes.php"); ?>

@@ -1,12 +1,14 @@
 <div class="row">
-	<img class="span2 speaker_photo" src="img/speaker_photos/<?php echo $speaker_photo ?>" />
-	<div class="accordian span3">
+	<div class="accordian span5" id="accordian2">
 		<div class="accordian-group">
 			<div class="accordian-heading">
 				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#<?php echo $talk_abstract_id ?>">
-					<div class="speaker_info">
-						<h2 class="speaker_name"><?php echo $speaker_name ?></h2>
-						<h4 class="speaker_job"><?php echo $speaker_job ?></h4>
+					<div class="speakerbox">
+						<img class="span2 speaker_photo" src="img/speaker_photos/<?php echo $speaker_photo ?>" />
+						<div class="speaker_info">
+							<h2 class="speaker_name"><?php echo $speaker_name ?></h2>
+							<h4 class="speaker_job"><?php echo $speaker_job ?></h4>
+						</div>
 					</div>
 				</a>
 				<div id="<?php echo $talk_abstract_id ?>" class="accordion-body collapse">
