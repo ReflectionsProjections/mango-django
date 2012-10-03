@@ -64,7 +64,7 @@
 					<h4>Saturday, 10/6 @ 7:45PM</h4>
 					<h4>1320 DCL</h4>
 					<br>
-					<h4>Got questions? Help them get answered by suggesting them <a id="panel_link" href="./panel_suggestions.php">here</a>.</h4>
+					<h4>Suggest questions <a id="panel_link" href="./panel_suggestions.php">here</a>.</h4>
 					<br>
 					<?php include("speaker_pages/steve_jaros.php"); ?>
 					<?php include("speaker_pages/erik_wolpaw.php"); ?>
