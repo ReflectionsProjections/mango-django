@@ -238,12 +238,13 @@ a:hover {
   padding-bottom: 42px;
 }
 #event-schedule .schedule {
-  margin-left: -136px;
   padding-left: 136px;
 }
 #event-schedule .schedule dt {
   padding: 8px;
   line-height: 18px;
+  
+  /* trick to fill the dt's background */
   margin-left: -136px;
 }
 #event-schedule .schedule dd {
