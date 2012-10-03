@@ -22,8 +22,12 @@ body {
   color: #777 !important;
   text-decoration: none !important;
 }
+a {
+  color: #daa520;
+}
 a:hover {
   text-decoration: none;
+  color: #B8860B;
 }
 .accordian-toggle:hover {
   text-decoration: none;
