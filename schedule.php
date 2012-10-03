@@ -111,7 +111,7 @@
 								),
 								array(
 									"time" => "1:30 PM",
-									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a><br/>Member of Google DART Team<br/><em>1040 Siebel</em></p>
+									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a><br/>Member of Google DART Team<br/><em>1404 Siebel</em></p>
                   <p><a href='speakers.php#shaw'>Zed Shaw</a><br/>Creator of Mongrel<br/><em>1320 DCL</em></p>
                   <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon</a><br/>Team Member at OpenHatch<br/><em>1310 DCL</em></p>
 											   ",
@@ -136,13 +136,13 @@
 									"time" => "6:30 PM",
 									"desc" => "<p><a href='speakers.php#ritz'>Andrew Ritz</a><br/>Development Manager for Windows at Microsoft<br/><em>1404 Seibel</em></p>
 											   <p><a href='speakers.php#rusu'>Radu Rusu</a><br/>CEO of Open Perception, Inc.<br/><em>1320 DCL</em></p>
-											   <p><a href='speakers.php#behrens'>Google DART Workshop</a></br><em>Siebel 2405</em></p>
+											   <p><a href='speakers.php#behrens'>Google DART Workshop</a></br><em>2405 Siebel</em></p>
 											  ",
 								),
 								array(
 									"time" => "7:45 PM",
-									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros</a><br/>Project Manager at Indeed<br/><em>Siebel 1404</em></p>
-								<p><a href='speakers.php#gaming_panel'>Video Game Q&amp;A</a><br/>with Erik Wolpaw (Portal) and Steve Jaros (Volition)<br/><em>DCL 1320</em></p>",
+									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros</a><br/>Project Manager at Indeed<br/><em>1404 Siebel</em></p>
+								<p><a href='speakers.php#gaming_panel'>Video Game Q&amp;A</a><br/>with Erik Wolpaw (Portal) and Steve Jaros (Volition)<br/><em>1320 DCL</em></p>",
 								),
 								array(
 									"time" => "9:00 PM",
