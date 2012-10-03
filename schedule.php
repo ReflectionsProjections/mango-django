@@ -43,7 +43,7 @@
 								echo "<dl class=\"dl-horizontal schedule\">";
 								foreach ($events as $event) {
 									echo '<dt>' . $event["time"] . '</dt>';
-									echo '<dd>' . $event["desc"] . '</dd>';
+									echo '<dd><span class="spacing">' . $event["desc"] . '</span></dd>';
 								}
 								echo '</dl>';
 							}
