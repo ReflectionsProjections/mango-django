@@ -64,7 +64,7 @@
 								),
 								array(
 									"time" => "6:30 PM",
-									"desc" => "Dinner",
+									"desc" => "Dinner sponsored by Neustar",
 								),
 								array(
 									"time" => "7:45 PM",
@@ -72,7 +72,7 @@
 								),
 								array(
 									"time" => "9:00 PM",
-									"desc" => "<a href='mechmania.php'>MechMania Opening Ceremony</a>",
+									"desc" => "<a href='mechmania.php'>MechMania Opening Ceremony</a> sponsored by Palantir Technologies",
 								),
 								array(
 									"time" => "9:30 PM",
