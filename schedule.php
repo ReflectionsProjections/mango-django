@@ -60,7 +60,7 @@
 								),
 								array(
 									"time" => "5:00 PM",
-									"desc" => "<p><a href='speakers.php#tan'>Garry Tan</a><br/>Partner at Y Combinator</p>",
+									"desc" => "<a href='speakers.php#tan'>Garry Tan</a><br/>Partner at Y Combinator",
 								),
 								array(
 									"time" => "6:30 PM",
@@ -68,11 +68,11 @@
 								),
 								array(
 									"time" => "7:45 PM",
-									"desc" => "<p><a href='speakers.php#feinberg'>Danielle Feinberg</a><br/>Director of Photography -- Lighting  at Pixar</p>",
+									"desc" => "<a href='speakers.php#feinberg'>Danielle Feinberg</a><br/>Director of Photography -- Lighting  at Pixar",
 								),
 								array(
 									"time" => "9:00 PM",
-									"desc" => "<p><a href='mechmania.php'>MechMania Opening Ceremony</a><br/>sponsored by Palantir Technologies</p>",
+									"desc" => "<a href='mechmania.php'>MechMania Opening Ceremony</a><br/>sponsored by Palantir Technologies",
 								),
 								array(
 									"time" => "9:30 PM",
@@ -99,7 +99,7 @@
 								),
 								array(
 									"time" => "11:15 AM",
-									"desc" => "<p><a href='speakers.php#startup_panel'>Startup Panel</a><br/>with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)</p>",
+									"desc" => "<a href='speakers.php#startup_panel'>Startup Panel</a><br/>with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)",
 								),
 								array(
 									"time" => "12:30 PM",
@@ -111,7 +111,7 @@
 								),
 								array(
 									"time" => "1:30 PM",
-									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a></p><p>Member of Google DART Team</p>
+									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a><br/>Member of Google DART Team</p>
                   <p><a href='speakers.php#shaw'>Zed Shaw</a><br/>Creator of Mongrel</p>
                   <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon</a><br/>Team Member at OpenHatch</p>
 											   ",
