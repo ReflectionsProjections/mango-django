@@ -17,10 +17,8 @@ $talk_location="1310 DCL";
 
 $talk_abstract="
 <p>
-This talk walks you through the life cycle of a bug,
-tools you'll use to contribute to free, open source software, and
-teaches you how to communicate with a project. A great intro for the
-<a href=\"openhatch.php\">open source workshop</a> on Sunday!
+This talk walks you through the life cycle of a bug, discusses tools you'll use to contribute to free, open source software, and teaches you how to communicate for a project. 
+A great intro to the <a href='openhatch.php'>open source workshop</a> on Sunday!
 </p>
 ";
 
