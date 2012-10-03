@@ -99,7 +99,7 @@
 								),
 								array(
 									"time" => "11:15 AM",
-									"desc" => "Startup Panel with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)",
+									"desc" => "<a href='speakers.php#startup_panel'>Startup Panel with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)</a>",
 								),
 								array(
 									"time" => "12:30 PM",
@@ -112,7 +112,8 @@
 								array(
 									"time" => "1:30 PM",
 									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens, Member of Google DART Team</a></p>
-											   <p><a href='speakers.php#shaw'>Zed Shaw, Creator of Mongrel</a></p><p>Open Hatch Talk</p>
+                  <p><a href='speakers.php#shaw'>Zed Shaw, Creator of Mongrel</a></p>
+                  <p><a href='speakers.php#mckeon'>Shauna Gordon Mckeon, Team Member at OpenHatch</a></p>
 											   ",
 								),
 								array(
@@ -141,7 +142,7 @@
 								array(
 									"time" => "7:45 PM",
 									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros, Project Manager at Indeed</a></p>
-								<p>Video Game Q&amp;A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</p>",
+								<p><a href='speakers.php#gaming_panel'>Video Game Q&amp;A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</a></p>",
 								),
 								array(
 									"time" => "9:00 PM",
@@ -158,8 +159,8 @@
 									"desc" => "MechMania Closing Ceremony",
 								),
 								array(
-									"time" => "TBA",
-									"desc" => "Open Hatch Workshop",
+									"time" => "10:00 AM",
+									"desc" => "<a href='openhatch.php'>Open Hatch Workshop</a>",
 								),
 							);
 

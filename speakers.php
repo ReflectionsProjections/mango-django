@@ -60,6 +60,7 @@
 		<div class="row">
 			<div class="span6">
 				<div class="hero-unit">
+          <a id="gaming_panel"></a>
 					<h2>Gaming Q & A</h2>
 					<h4>Saturday, 10/6 @ 7:45PM</h4>
 					<h4>1320 DCL</h4>
@@ -72,6 +73,7 @@
 			</div>
 			<div id="startup_panel" class="span6">
 				<div class="hero-unit">
+          <a id="startup_panel"></a>
 					<h2>Startup Panel</h2>
 					<h4>Saturday, 10/6 @ 11:15AM</h4>
 					<h4>1404 Siebel</h4>
