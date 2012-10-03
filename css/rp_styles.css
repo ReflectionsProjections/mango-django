@@ -230,26 +230,37 @@ a:hover {
   border: 1px solid #999;
 }
 
-#event-schedule .schedule > *:nth-child(4n+1),
+/* #event-schedule .schedule > *:nth-child(4n+1), */
 #event-schedule .schedule > *:nth-child(4n+2) {
   background-color: #F9F9F9
 }
 #event-schedule .schedule .col2 {
   padding-bottom: 42px;
 }
+#event-schedule .schedule {
+  margin-left: -136px;
+  padding-left: 136px;
+}
 #event-schedule .schedule dt {
   padding: 8px;
   line-height: 18px;
-  border-top: 1px solid #DDD;
+  margin-left: -136px;
 }
 #event-schedule .schedule dd {
-  padding: 8px;
   margin-left: 136px;
-  border-left: 1px solid #999;
   border-top: 1px solid #DDD;
+
+  /* trick to fill the dt's background */
+  margin-left: -136px;
+  padding-left: 136px;
 }
 #event-schedule .schedule dd a, #panel_link {
   color: #daa520;
+}
+#event-schedule .schedule dd .spacing {
+  display: block;
+  padding: 8px;
+  border-left: 1px solid #999;
 }
 
 #event-schedule .schedule dt:first-child,
@@ -263,11 +274,12 @@ a:hover {
 }
 #event-schedule .schedule dd p:first-child {
   padding: 0 0 8px 0;
-  margin: 0;
 }
 #event-schedule .schedule dd p:last-child {
   padding: 8px 0 0 0;
-  margin: 0;
+}
+#event-schedule .schedule dd p:only-child {
+  padding: 0;
 }
 
 /* Footer stylez yo */

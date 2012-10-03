@@ -43,7 +43,7 @@
 								echo "<dl class=\"dl-horizontal schedule\">";
 								foreach ($events as $event) {
 									echo '<dt>' . $event["time"] . '</dt>';
-									echo '<dd>' . $event["desc"] . '</dd>';
+									echo '<dd><span class="spacing">' . $event["desc"] . '</span></dd>';
 								}
 								echo '</dl>';
 							}
@@ -111,7 +111,7 @@
 								),
 								array(
 									"time" => "1:30 PM",
-									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a></p><p>Member of Google DART Team</p>
+									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a><br>Member of Google DART Team</p>
                   <p><a href='speakers.php#shaw'>Zed Shaw</a><br/>Creator of Mongrel</p>
                   <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon</a><br/>Team Member at OpenHatch</p>
 											   ",
