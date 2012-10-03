@@ -136,7 +136,7 @@
 									"time" => "6:30 PM",
 									"desc" => "<p><a href='speakers.php#ritz'>Andrew Ritz</a><br/>Development Manager for Windows at Microsoft<br/><em>1404 Seibel</em></p>
 											   <p><a href='speakers.php#rusu'>Radu Rusu</a><br/>CEO of Open Perception, Inc.<br/><em>1320 DCL</em></p>
-											   <p>Google DART Workshop</p>
+											   <p><a href='speakers.php#behrens'>Google DART Workshop</a></br><em>Siebel 2405</em></p>
 											  ",
 								),
 								array(
