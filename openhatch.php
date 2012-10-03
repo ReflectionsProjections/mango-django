@@ -122,7 +122,7 @@
 				<div class="hero-unit">
 				<h2>What you'll do</h2>
 				<p>
-				At <strong>12 PM</strong>, you'll show up at the Siebel Center (room TBA), eat lunch, and get to know the mentors in attendance.
+				At <strong>12 PM</strong>, you'll show up at the Siebel Center 2405, eat lunch, and get to know the mentors in attendance.
 				</p>
 				<p>
 				At <strong>1 PM</strong>, the workshop begins! We'll step you through a
@@ -140,7 +140,7 @@
 					you need to know!
 					</p>
 					<p>
-					At <strong>10 AM</strong>, come to the Siebel Center (room TBA), and we'll introduce the
+					At <strong>10 AM</strong>, come to the Siebel Center (room 2405), and we'll introduce the
 					workshop. We'll provide coffee and a basic breakfast.
 					</p>
 					<p>At <strong>10:15 AM</strong>, we'll provide a tutorial on the basics of the command line.</p>

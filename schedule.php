@@ -60,7 +60,7 @@
 								),
 								array(
 									"time" => "5:00 PM",
-									"desc" => "<a href='speakers.php#tan'>Garry Tan</a><br/>Partner at Y Combinator",
+									"desc" => "<a href='speakers.php#tan'>Garry Tan</a><br/>Partner at Y Combinator<br/><em>1404 Siebel</em>",
 								),
 								array(
 									"time" => "6:30 PM",
@@ -68,11 +68,11 @@
 								),
 								array(
 									"time" => "7:45 PM",
-									"desc" => "<a href='speakers.php#feinberg'>Danielle Feinberg</a><br/>Director of Photography -- Lighting  at Pixar",
+									"desc" => "<a href='speakers.php#feinberg'>Danielle Feinberg</a><br/>Director of Photography -- Lighting  at Pixar<br/><em>1404 Siebel</em>",
 								),
 								array(
 									"time" => "9:00 PM",
-									"desc" => "<a href='mechmania.php'>MechMania Opening Ceremony</a><br/>sponsored by Palantir Technologies",
+									"desc" => "<a href='mechmania.php'>MechMania Opening Ceremony</a><br/>sponsored by Palantir Technologies<br/><em>1404 Siebel</em>",
 								),
 								array(
 									"time" => "9:30 PM",
@@ -93,13 +93,13 @@
 									"time" => "10:00 AM",
 									"room"  => "",
 								
-									"desc" => "<p><a href='speakers.php#graner'>Amber Graner</a><br/>Co-Author of <em>The Official Ubuntu Book</em></p>
-											   <p><a href='speakers.php#hunter'>Rian Hunter</a><br/>Software Engineer at Dropbox</p>
+									"desc" => "<p><a href='speakers.php#graner'>Amber Graner</a><br/>Co-Author of <em>The Official Ubuntu Book</em><br/><em>1404 Siebel</em></p>
+											   <p><a href='speakers.php#hunter'>Rian Hunter</a><br/>Software Engineer at Dropbox<br/><em>1320 DCL</em></p>
 											  ",
 								),
 								array(
 									"time" => "11:15 AM",
-									"desc" => "<a href='speakers.php#startup_panel'>Startup Panel</a><br/>with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)",
+									"desc" => "<a href='speakers.php#startup_panel'>Startup Panel</a><br/>with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)<br/><em>1404 Siebel</em>",
 								),
 								array(
 									"time" => "12:30 PM",
@@ -111,22 +111,22 @@
 								),
 								array(
 									"time" => "1:30 PM",
-									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a><br/>Member of Google DART Team</p>
-                  <p><a href='speakers.php#shaw'>Zed Shaw</a><br/>Creator of Mongrel</p>
-                  <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon</a><br/>Team Member at OpenHatch</p>
+									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a><br/>Member of Google DART Team<br/><em>1040 Siebel</em></p>
+                  <p><a href='speakers.php#shaw'>Zed Shaw</a><br/>Creator of Mongrel<br/><em>1320 DCL</em></p>
+                  <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon</a><br/>Team Member at OpenHatch<br/><em>1310 DCL</em></p>
 											   ",
 								),
 								array(
 									"time" => "2:45 PM",
-									"desc" => "<p><a href='speakers.php#zacchiroli'>Stefano Zacchiroli</a><br/>Debian Project Leader</p>
-											   <p><a href='speakers.php#chan'>Ian Chan</a><br/>Front End Engineer at Twitter</p>
+									"desc" => "<p><a href='speakers.php#zacchiroli'>Stefano Zacchiroli</a><br/>Debian Project Leader<br/><em>1404 Siebel</em></p>
+											   <p><a href='speakers.php#chan'>Ian Chan</a><br/>Front End Engineer at Twitter<br/><em>1320 DCL</em></p>
 											  ",
 								),
 								array(
 									"time" => "4:00 PM",
-									"desc" => "<p><a href='speakers.php#ngiam'>Jiquan Ngiam</a><br/>Director of Engineering at Coursera</p>
-											   <p><a href='speakers.php#verrecchia'>Jonathan Verrecchia</a><br/>Front End Engineer at Yelp</p>
-											  ",
+									"desc" => "<p><a href='speakers.php#verrecchia'>Jonathan Verrecchia</a><br/>Front End Engineer at Yelp</br><em>1404 Siebel</em></p>
+											<p><a href='speakers.php#ngiam'>Jiquan Ngiam</a><br/>Director of Engineering at Coursera<br/><em>1320 DCL</em></p>
+                    ",
 								),
 								array(
 									"time" => "5:30 PM",
@@ -134,15 +134,15 @@
 								),
 								array(
 									"time" => "6:30 PM",
-									"desc" => "<p><a href='speakers.php#ritz'>Andrew Ritz</a><br/>Development Manager for Windows at Microsoft</p>
-											   <p><a href='speakers.php#rusu'>Radu Rusu</a><br/>CEO of Open Perception, Inc.</p>
+									"desc" => "<p><a href='speakers.php#ritz'>Andrew Ritz</a><br/>Development Manager for Windows at Microsoft<br/><em>1404 Seibel</em></p>
+											   <p><a href='speakers.php#rusu'>Radu Rusu</a><br/>CEO of Open Perception, Inc.<br/><em>1320 DCL</em></p>
 											   <p>Google DART Workshop</p>
 											  ",
 								),
 								array(
 									"time" => "7:45 PM",
-									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros</a><br/>Project Manager at Indeed</p>
-								<p><a href='speakers.php#gaming_panel'>Video Game Q&amp;A</a><br/>with Erik Wolpaw (Portal) and Steve Jaros (Volition)</p>",
+									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros</a><br/>Project Manager at Indeed<br/><em>Siebel 1404</em></p>
+								<p><a href='speakers.php#gaming_panel'>Video Game Q&amp;A</a><br/>with Erik Wolpaw (Portal) and Steve Jaros (Volition)<br/><em>DCL 1320</em></p>",
 								),
 								array(
 									"time" => "9:00 PM",
@@ -160,7 +160,7 @@
 								),
 								array(
 									"time" => "10:00 AM",
-									"desc" => "<a href='openhatch.php'>Open Hatch Workshop</a>",
+									"desc" => "<a href='openhatch.php'>Open Hatch Workshop</a><br/><em>Siebel 2405</em>",
 								),
 							);
 
