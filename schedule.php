@@ -60,7 +60,7 @@
 								),
 								array(
 									"time" => "5:00 PM",
-									"desc" => "<a href='speakers.php#tan'>Garry Tan, Partner at Y Combinator</a>",
+									"desc" => "<p><a href='speakers.php#tan'>Garry Tan</a></p><p>Partner at Y Combinator</p>",
 								),
 								array(
 									"time" => "6:30 PM",
@@ -68,11 +68,11 @@
 								),
 								array(
 									"time" => "7:45 PM",
-									"desc" => "<a href='speakers.php#feinberg'>Danielle Feinberg, Director of Photography -- Lighting  at Pixar</a>",
+									"desc" => "<p><a href='speakers.php#feinberg'>Danielle Feinberg</a></p><p>Director of Photography -- Lighting  at Pixar</p>",
 								),
 								array(
 									"time" => "9:00 PM",
-									"desc" => "<a href='mechmania.php'>MechMania Opening Ceremony</a> sponsored by Palantir Technologies",
+									"desc" => "<p><a href='mechmania.php'>MechMania Opening Ceremony</a></p><p>sponsored by Palantir Technologies</p>",
 								),
 								array(
 									"time" => "9:30 PM",
@@ -93,13 +93,13 @@
 									"time" => "10:00 AM",
 									"room"  => "",
 								
-									"desc" => "<p><a href='speakers.php#graner'>Amber Graner, Co-Author of <em>The Official Ubuntu Book</em></a></p>
-											   <p><a href='speakers.php#hunter'>Rian Hunter, Software Engineer at Dropbox</a></p>
+									"desc" => "<p><a href='speakers.php#graner'>Amber Graner</a></p><p>Co-Author of <em>The Official Ubuntu Book</em></p>
+											   <p><a href='speakers.php#hunter'>Rian Hunter</a></p><p>Software Engineer at Dropbox</p>
 											  ",
 								),
 								array(
 									"time" => "11:15 AM",
-									"desc" => "<a href='speakers.php#startup_panel'>Startup Panel with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)</a>",
+									"desc" => "<p><a href='speakers.php#startup_panel'>Startup Panel</a></p><p>with Amit Kulkarni (Do), Cory Levy (One), Dan Manges (Braintree), and Dave Paola (Bloc)</p>",
 								),
 								array(
 									"time" => "12:30 PM",
@@ -111,21 +111,21 @@
 								),
 								array(
 									"time" => "1:30 PM",
-									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens, Member of Google DART Team</a></p>
-                  <p><a href='speakers.php#shaw'>Zed Shaw, Creator of Mongrel</a></p>
-                  <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon, Team Member at OpenHatch</a></p>
+									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a></p><p>Member of Google DART Team</p>
+                  <p><a href='speakers.php#shaw'>Zed Shaw</a></p><p>Creator of Mongrel</p>
+                  <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon</a></p><p>Team Member at OpenHatch</p>
 											   ",
 								),
 								array(
 									"time" => "2:45 PM",
-									"desc" => "<p><a href='speakers.php#zacchiroli'>Stefano Zacchiroli, Debian Project Leader</a></p>
-											   <p><a href='speakers.php#chan'>Ian Chan, Front End Engineer at Twitter</a></p>
+									"desc" => "<p><a href='speakers.php#zacchiroli'>Stefano Zacchiroli</a></p><p>Debian Project Leader</p>
+											   <p><a href='speakers.php#chan'>Ian Chan</a></p><p>Front End Engineer at Twitter</p>
 											  ",
 								),
 								array(
 									"time" => "4:00 PM",
-									"desc" => "<p><a href='speakers.php#ngiam'>Jiquan Ngiam, Director of Engineering at Coursera</a></p>
-											   <p><a href='speakers.php#verrecchia'>Jonathan Verrecchia, Front End Engineer at Yelp</a></p>
+									"desc" => "<p><a href='speakers.php#ngiam'>Jiquan Ngiam</a></p><p>Director of Engineering at Coursera</p>
+											   <p><a href='speakers.php#verrecchia'>Jonathan Verrecchia</a></p><p>Front End Engineer at Yelp</p>
 											  ",
 								),
 								array(
@@ -134,15 +134,15 @@
 								),
 								array(
 									"time" => "6:30 PM",
-									"desc" => "<p><a href='speakers.php#ritz'>Andrew Ritz, Development Manager for Windows at Microsoft</a></p>
-											   <p><a href='speakers.php#rusu'>Radu Rusu, CEO of Open Perception, Inc.</a></p>
+									"desc" => "<p><a href='speakers.php#ritz'>Andrew Ritz</a></p><p>Development Manager for Windows at Microsoft</p>
+											   <p><a href='speakers.php#rusu'>Radu Rusu</a></p><p>CEO of Open Perception, Inc.</p>
 											   <p>Google DART Workshop</p>
 											  ",
 								),
 								array(
 									"time" => "7:45 PM",
-									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros, Project Manager at Indeed</a></p>
-								<p><a href='speakers.php#gaming_panel'>Video Game Q&amp;A with Erik Wolpaw (Portal) and Steve Jaros (Volition)</a></p>",
+									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros</a></p><p>Project Manager at Indeed</p>
+								<p><a href='speakers.php#gaming_panel'>Video Game Q&amp;A</a></p><p>with Erik Wolpaw (Portal) and Steve Jaros (Volition)</p>",
 								),
 								array(
 									"time" => "9:00 PM",
