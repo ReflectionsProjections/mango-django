@@ -244,6 +244,10 @@ a:hover {
   border-left: 1px solid #999;
   border-top: 1px solid #DDD;
 }
+#event-schedule .schedule dd a, #panel_link {
+  color: #daa520;
+}
+
 #event-schedule .schedule dt:first-child,
 #event-schedule .schedule dd:nth-child(2) {
   border-top: none;
