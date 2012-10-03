@@ -86,5 +86,12 @@
 	</div>
 </div>
 <?php include("footer.php"); ?>
+<script type="text/javascript">
+$(function(){
+var hash = window.location.hash;
+$(hash).click();
+
+});
+</script>
 </body>
 </html>

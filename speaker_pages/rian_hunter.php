@@ -1,4 +1,5 @@
 <?php
+$speaker_id="hunter";
 $speaker_photo="rianhunter.png";
 $speaker_name="Rian Hunter";
 $speaker_job="Software Engineer at Dropbox";

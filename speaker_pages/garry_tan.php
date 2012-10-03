@@ -1,4 +1,5 @@
 <?php
+$speaker_id="tan";
 $speaker_photo="garrytan.png";
 $speaker_name="Garry Tan";
 $speaker_job="Partner at Y Combinator";

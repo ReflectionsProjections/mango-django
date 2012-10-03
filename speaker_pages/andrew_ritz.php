@@ -1,4 +1,5 @@
 <?php
+$speaker_id="ritz";
 $speaker_photo="andrewritz.png";
 $speaker_bio_id="ritz_bio";
 $speaker_name="Andrew Ritz";

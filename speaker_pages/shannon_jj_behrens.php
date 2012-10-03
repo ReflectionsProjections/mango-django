@@ -1,4 +1,5 @@
 <?php
+$speaker_id="behrens";
 $speaker_photo="shannonbehrens.png";
 $speaker_name="Shannon \"JJ\" Behrens";
 $speaker_job="Member of Google DART Team";

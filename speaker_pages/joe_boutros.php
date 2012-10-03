@@ -1,4 +1,5 @@
 <?php
+$speaker_id="boutros";
 $speaker_photo="joeboutros.png";
 $speaker_name="Joe Boutros";
 $speaker_job="Product Manager at Indeed.com";

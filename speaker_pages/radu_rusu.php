@@ -1,4 +1,5 @@
 <?php
+$speaker_id="rusu";
 $speaker_photo="radurusu.png";
 $speaker_name="Radu Rusu";
 $speaker_job="CEO of Open Perception, Inc.";

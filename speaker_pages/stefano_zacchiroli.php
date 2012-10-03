@@ -1,4 +1,5 @@
 <?php
+$speaker_id="zacchiroli";
 $speaker_photo="stefanozacchiroli.png";
 $speaker_name="Stefano Zacchiroli";
 $speaker_job="Debian Project Leader";

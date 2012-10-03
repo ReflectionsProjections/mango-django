@@ -1,4 +1,5 @@
 <?php
+$speaker_id="graner";
 $speaker_photo="ambergraner.png";
 $speaker_name="Amber Graner";
 $speaker_job="Co-author of <i>The Official Ubuntu Book</i>";

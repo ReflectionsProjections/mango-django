@@ -2,7 +2,7 @@
 	<div class="accordian span5" id="accordian2">
 		<div class="accordian-group">
 			<div class="accordian-heading">
-				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#<?php echo $talk_abstract_id ?>">
+        <a id="<?php echo $speaker_id ?>" class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#<?php echo $talk_abstract_id ?>">
 					<div class="speakerbox">
 						<img class="span2 speaker_photo" src="img/speaker_photos/<?php echo $speaker_photo ?>" />
 						<div class="speaker_info">
