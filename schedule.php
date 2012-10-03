@@ -113,7 +113,7 @@
 									"time" => "1:30 PM",
 									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens, Member of Google DART Team</a></p>
                   <p><a href='speakers.php#shaw'>Zed Shaw, Creator of Mongrel</a></p>
-                  <p><a href='speakers.php#mckeon'>Shauna Gordon Mckeon, Team Member at OpenHatch</a></p>
+                  <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon, Team Member at OpenHatch</a></p>
 											   ",
 								),
 								array(
