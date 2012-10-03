@@ -22,9 +22,10 @@ Dart is a new class-based programming language for creating structured web appli
 </p>
 <h3>Bullseye: Your First Dart App</h3>
 <h4>Saturday, 10/6 @ 6:30</h4>
-<h4>Siebel 2405</h4>
+<h4>2405 Siebel</h4>
 <p>
-Build your first Dart app! We'll lead you through the process of building a modern web app with the Dart platform, using both client-side and server-side Dart. You will explore the language, libraries, editor, and integration with Chromium. You'll leave this session with a working Dart app that works in modern browsers.
+Build your first Dart app! We'll lead you through the process of building a modern web app with the Dart platform, using both client-side and server-side Dart. You will explore the language, libraries, editor, and integration with Chromium. You'll leave this session with a working Dart app that works in modern browsers. Note that for this workshop you will need to have 
+<a href='http://www.dartlang.org/downloads.html'>DART Editor</a> installed on your computer. Please make sure you have it downloaded installed before attending the code lab.
 <p>
 ";
 
