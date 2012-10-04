@@ -73,7 +73,7 @@
 				</div>
 				<div class="span2">
 				    <ul id="company_list_4" class="company_list">
-					<li>Solstice Consulting</li>
+					<li>Solstice Mobile</li>
 					<li>TrialPay</li>
 					<li>Twitter</li>
 					<li>ViaSat</li>
