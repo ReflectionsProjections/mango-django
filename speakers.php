@@ -43,6 +43,7 @@
 					<?php include("speaker_pages/ian_chan.php"); ?>
 					<?php include("speaker_pages/jiquan_ngiam.php"); ?>
 					<?php include("speaker_pages/radu_rusu.php"); ?>
+					<?php include("speaker_pages/joe_boutros.php"); ?>
 				</div>
 			</div>
 			<div class="span6">
@@ -51,9 +52,9 @@
 					<?php include("speaker_pages/rian_hunter.php"); ?>
 					<?php include("speaker_pages/zed_shaw.php"); ?>
 					<?php include("speaker_pages/stefano_zacchiroli.php"); ?>
+					<?php include("speaker_pages/ken_taylor.php"); ?>
 					<?php include("speaker_pages/jonathan_verrecchia.php"); ?>
 					<?php include("speaker_pages/andrew_ritz.php"); ?>
-					<?php include("speaker_pages/joe_boutros.php"); ?>
 				</div>
 			</div>
 		</div>

@@ -120,6 +120,7 @@
 									"time" => "2:45 PM",
 									"desc" => "<p><a href='speakers.php#zacchiroli'>Stefano Zacchiroli</a><br/>Debian Project Leader<br/><em>1404 Siebel</em></p>
 											   <p><a href='speakers.php#chan'>Ian Chan</a><br/>Front End Engineer at Twitter<br/><em>1320 DCL</em></p>
+											   <p><a href='speakers.php#taylor'>Ken Taylor</a><br/>Engineering Manager at Neustar<br/><em>1310 DCL</em></p>
 											  ",
 								),
 								array(
