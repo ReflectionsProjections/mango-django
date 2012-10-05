@@ -161,7 +161,19 @@
 								),
 								array(
 									"time" => "10:00 AM",
-									"desc" => "<a href='openhatch.php'>Open Hatch Workshop</a><br/><em>Siebel 2405</em>",
+									"desc" => "<a href='openhatch.php'>Command line basics tutorial (optional part of Open Source Workshop)</a><br/><em>Siebel 2405</em>",
+								),
+								array(
+									"time" => "11:00 AM",
+									"desc" => "<a href='openhatch.php'>git tutorial (optional; see above)</a><br/><em>Siebel 2405</em>",
+								),
+								array(
+									"time" => "12:00 PM",
+									"desc" => "<a href='openhatch.php'>Open Source Workshop lunch</a><br/><em>Siebel 2405</em>",
+								),
+								array(
+									"time" => "1:00 PM",
+									"desc" => "<a href='openhatch.php'>Open Source Workshop hands-on projects time</a><br/><em>Siebel 2405</em>",
 								),
 							);
 
