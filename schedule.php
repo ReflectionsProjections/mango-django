@@ -60,7 +60,7 @@
 								),
 								array(
 									"time" => "5:00 PM",
-									"desc" => "<a href='speakers.php#tan'>Garry Tan</a><br/>Partner at Y Combinator<br/><em>1404 Siebel</em>",
+									"desc" => "<a href='speakers.php#tan'>Garry Tan - Startup Lessons: How to Change the World With Your Mind</a><br/>Partner at Y Combinator<br/><em>1404 Siebel</em>",
 								),
 								array(
 									"time" => "6:30 PM",
@@ -68,7 +68,7 @@
 								),
 								array(
 									"time" => "7:45 PM",
-									"desc" => "<a href='speakers.php#feinberg'>Danielle Feinberg</a><br/>Director of Photography -- Lighting  at Pixar<br/><em>1404 Siebel</em>",
+									"desc" => "<a href='speakers.php#feinberg'>Danielle Feinberg - The Making of Pixar's Brave: The Art and Algorithms Behind Movie Magic</a><br/>Director of Photography -- Lighting  at Pixar<br/><em>1404 Siebel</em>",
 								),
 								array(
 									"time" => "9:00 PM",
@@ -93,8 +93,8 @@
 									"time" => "10:00 AM",
 									"room"  => "",
 								
-									"desc" => "<p><a href='speakers.php#graner'>Amber Graner</a><br/>Co-Author of <em>The Official Ubuntu Book</em><br/><em>1404 Siebel</em></p>
-											   <p><a href='speakers.php#hunter'>Rian Hunter</a><br/>Software Engineer at Dropbox<br/><em>1320 DCL</em></p>
+									"desc" => "<p><a href='speakers.php#graner'>Amber Graner - Without Fear: You Don't Need Permission to Contribute to Your Own Destiny</a><br/>Co-Author of <em>The Official Ubuntu Book</em><br/><em>1404 Siebel</em></p>
+											   <p><a href='speakers.php#hunter'>Rian Hunter - Dropbox Notification Servers</a><br/>Software Engineer at Dropbox<br/><em>1320 DCL</em></p>
 											  ",
 								),
 								array(
@@ -111,22 +111,22 @@
 								),
 								array(
 									"time" => "1:30 PM",
-									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens</a><br/>Member of Google DART Team<br/><em>1404 Siebel</em></p>
-                  <p><a href='speakers.php#shaw'>Zed Shaw</a><br/>Creator of Mongrel<br/><em>1320 DCL</em></p>
-                  <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon</a><br/>Team Member at OpenHatch<br/><em>1310 DCL</em></p>
+									"desc" => "<p><a href='speakers.php#behrens'>Shannon 'JJ' Behrens - Structured Web Programming: An Introduction to Dart</a><br/>Member of Google DART Team<br/><em>1404 Siebel</em></p>
+                  <p><a href='speakers.php#shaw'>Zed Shaw - Undoing Your Student Code</a><br/>Creator of Mongrel<br/><em>1320 DCL</em></p>
+                  <p><a href='speakers.php#mckeon'>Shauna Gordon McKeon - How to Get Started Contributing to Open Source</a><br/>Team Member at OpenHatch<br/><em>1310 DCL</em></p>
 											   ",
 								),
 								array(
 									"time" => "2:45 PM",
-									"desc" => "<p><a href='speakers.php#zacchiroli'>Stefano Zacchiroli</a><br/>Debian Project Leader<br/><em>1404 Siebel</em></p>
-											   <p><a href='speakers.php#chan'>Ian Chan</a><br/>Front End Engineer at Twitter<br/><em>1320 DCL</em></p>
-											   <p><a href='speakers.php#taylor'>Ken Taylor</a><br/>Engineering Manager at Neustar<br/><em>1310 DCL</em></p>
+									"desc" => "<p><a href='speakers.php#zacchiroli'>Stefano Zacchiroli - Debian: 19 Years of Free Software, Do-ocracy, and Democracy</a><br/>Debian Project Leader<br/><em>1404 Siebel</em></p>
+											   <p><a href='speakers.php#chan'>Ian Chan - Engineering at Human Scale: Building Software for 1 to 100 million users</a><br/>Front End Engineer at Twitter<br/><em>1320 DCL</em></p>
+											   <p><a href='speakers.php#taylor'>Ken Taylor - Secrets of the Universe, or A Few Random Bits</a><br/>Engineering Manager at Neustar<br/><em>1310 DCL</em></p>
 											  ",
 								),
 								array(
 									"time" => "4:00 PM",
-									"desc" => "<p><a href='speakers.php#verrecchia'>Jonathan Verrecchia</a><br/>Front End Engineer at Yelp</br><em>1404 Siebel</em></p>
-											<p><a href='speakers.php#ngiam'>Jiquan Ngiam</a><br/>Director of Engineering at Coursera<br/><em>1320 DCL</em></p>
+									"desc" => "<p><a href='speakers.php#verrecchia'>Jonathan Verrecchia - Writing Large Scale CSS With OOCSS and Sass</a><br/>Front End Engineer at Yelp</br><em>1404 Siebel</em></p>
+											<p><a href='speakers.php#ngiam'>Jiquan Ngiam - Technology Meets Education: Building A Scalable Online Learning Platform</a><br/>Director of Engineering at Coursera<br/><em>1320 DCL</em></p>
                     ",
 								),
 								array(
@@ -135,14 +135,14 @@
 								),
 								array(
 									"time" => "6:30 PM",
-									"desc" => "<p><a href='speakers.php#ritz'>Andrew Ritz</a><br/>Development Manager for Windows at Microsoft<br/><em>1404 Seibel</em></p>
-											   <p><a href='speakers.php#rusu'>Radu Rusu</a><br/>CEO of Open Perception, Inc.<br/><em>1320 DCL</em></p>
+									"desc" => "<p><a href='speakers.php#ritz'>Andrew Ritz - Designing Windows for SOC PCs</a><br/>Development Manager for Windows at Microsoft<br/><em>1404 Seibel</em></p>
+											   <p><a href='speakers.php#rusu'>Radu Rusu - Perceiving the World Through the Eyes of a Robot</a><br/>CEO of Open Perception, Inc.<br/><em>1320 DCL</em></p>
 											   <p><a href='speakers.php#behrens'>Google DART Workshop</a></br><em>2405 Siebel</em></p>
 											  ",
 								),
 								array(
 									"time" => "7:45 PM",
-									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros</a><br/>Project Manager at Indeed<br/><em>1404 Siebel</em></p>
+									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros - Extremely Rapid Prototyping</a><br/>Project Manager at Indeed<br/><em>1404 Siebel</em></p>
 								<p><a href='speakers.php#gaming_panel'>Video Game Q&amp;A</a><br/>with Erik Wolpaw (Portal) and Steve Jaros (Volition)<br/><em>1320 DCL</em></p>",
 								),
 								array(
