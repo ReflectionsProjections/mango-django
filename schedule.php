@@ -141,6 +141,10 @@
 											  ",
 								),
 								array(
+									"time" => "7:00 PM",
+									"desc" => "PuzzleBang closing ceremony<br/><em>1310 DCL</em>",
+								),
+								array(
 									"time" => "7:45 PM",
 									"desc" => "<p><a href='speakers.php#boutros'>Joe Boutros</a><br/>Project Manager at Indeed<br/><em>1404 Siebel</em></p>
 								<p><a href='speakers.php#gaming_panel'>Video Game Q&amp;A</a><br/>with Erik Wolpaw (Portal) and Steve Jaros (Volition)<br/><em>1320 DCL</em></p>",
