@@ -27,6 +27,7 @@
 			<div id="top-section">
 				<div class="span12">
 					<h1 class="page-heading">Startup Fair</h1>
+					<p>Siebel Center, October 6, 1PM-4PM</p>
 				</div>
 			</div>
 		</div>

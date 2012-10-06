@@ -1,7 +1,7 @@
 <?php
 $speaker_id="taylor";
 $speaker_photo="kentaylor.png";
-$speaker_name="Key Taylor";
+$speaker_name="Ken Taylor";
 $speaker_job="Engineering Manager at Neustar";
 $speaker_bio="
 <p>
