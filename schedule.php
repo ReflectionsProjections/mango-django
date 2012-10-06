@@ -93,8 +93,7 @@
 									"time" => "10:00 AM",
 									"room"  => "",
 								
-									"desc" => "<p><a href='speakers.php#graner'>Amber Graner</a><br/>Co-Author of <em>The Official Ubuntu Book</em><br/><em>1404 Siebel</em></p>
-											   <p><a href='speakers.php#hunter'>Rian Hunter</a><br/>Software Engineer at Dropbox<br/><em>1320 DCL</em></p>
+									"desc" => "<a href='speakers.php#graner'>Amber Graner</a><br/>Co-Author of <em>The Official Ubuntu Book</em><br/><em>1404 Siebel</em>
 											  ",
 								),
 								array(
@@ -127,6 +126,7 @@
 									"time" => "4:00 PM",
 									"desc" => "<p><a href='speakers.php#verrecchia'>Jonathan Verrecchia</a><br/>Front End Engineer at Yelp</br><em>1404 Siebel</em></p>
 											<p><a href='speakers.php#ngiam'>Jiquan Ngiam</a><br/>Director of Engineering at Coursera<br/><em>1320 DCL</em></p>
+											   <p><a href='speakers.php#hunter'>Rian Hunter</a><br/>Software Engineer at Dropbox<br/><em>1310 DCL</em></p>
                     ",
 								),
 								array(
