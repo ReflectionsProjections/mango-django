@@ -92,9 +92,7 @@
 								array(
 									"time" => "10:00 AM",
 									"room"  => "",
-								
-									"desc" => "<p><a href='speakers.php#graner'>Amber Graner - Without Fear: You Don't Need Permission to Contribute to Your Own Destiny</a> | <a href='http://youtu.be/2Lhj0GvSBT4'>Watch Video</a><br/>Co-Author of <em>The Official Ubuntu Book</em><br/><em>1404 Siebel</em></p>
-											   <p><a href='speakers.php#hunter'>Rian Hunter - Dropbox Notification Servers</a> | <a href='http://youtu.be/FBRIeoEr8GU'>Watch Video</a><br/>Software Engineer at Dropbox<br/><em>1320 DCL</em></p>
+									"desc" => "<a href='speakers.php#graner'>Amber Graner - Without Fear: You Don't Need Permission to Contribute to Your Own Destiny</a> | <a href='http://youtu.be/2Lhj0GvSBT4'>Watch Video</a><br/>Co-Author of <em>The Official Ubuntu Book</em><br/><em>1404 Siebel</em>
 											  ",
 								),
 								array(
@@ -127,6 +125,7 @@
 									"time" => "4:00 PM",
 									"desc" => "<p><a href='speakers.php#verrecchia'>Jonathan Verrecchia - Writing Large Scale CSS With OOCSS and Sass</a><br/>Front End Engineer at Yelp</br><em>1404 Siebel</em></p>
 											<p><a href='speakers.php#ngiam'>Jiquan Ngiam - Technology Meets Education: Building A Scalable Online Learning Platform</a><br/>Director of Engineering at Coursera<br/><em>1320 DCL</em></p>
+											   <p><a href='speakers.php#hunter'>Rian Hunter - Dropbox Notification Servers</a> | <a href='http://youtu.be/FBRIeoEr8GU'>Watch Video</a><br/>Software Engineer at Dropbox<br/><em>1310 DCL</em></p>
                     ",
 								),
 								array(
@@ -139,6 +138,10 @@
 											   <p><a href='speakers.php#rusu'>Radu Rusu - Perceiving the World Through the Eyes of a Robot</a> | <a href='http://youtu.be/RzeUHBeO0tY'>Watch Video</a><br/>CEO of Open Perception, Inc.<br/><em>1320 DCL</em></p>
 											   <p><a href='speakers.php#behrens'>Google DART Workshop</a></br><em>2405 Siebel</em></p>
 											  ",
+								),
+								array(
+									"time" => "7:00 PM",
+									"desc" => "PuzzleBang closing ceremony<br/><em>1310 DCL</em>",
 								),
 								array(
 									"time" => "7:45 PM",

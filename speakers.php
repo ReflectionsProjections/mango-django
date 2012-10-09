@@ -49,11 +49,11 @@
 			<div class="span6">
 				<div class="hero-unit">
 					<?php include("speaker_pages/danielle_feinberg.php"); ?>
-					<?php include("speaker_pages/rian_hunter.php"); ?>
 					<?php include("speaker_pages/zed_shaw.php"); ?>
 					<?php include("speaker_pages/stefano_zacchiroli.php"); ?>
 					<?php include("speaker_pages/ken_taylor.php"); ?>
 					<?php include("speaker_pages/jonathan_verrecchia.php"); ?>
+					<?php include("speaker_pages/rian_hunter.php"); ?>
 					<?php include("speaker_pages/andrew_ritz.php"); ?>
 				</div>
 			</div>
