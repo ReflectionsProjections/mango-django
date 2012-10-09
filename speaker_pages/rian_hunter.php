@@ -11,7 +11,7 @@ Rian Hunter is Dropbox’s third engineer. He’s developed and helped shape the
 
 
 $talk_abstract_id="hunter_talk_abstract";
-$talk_title="Dropbox Notification Servers";
+$talk_title="Dropbox Notification Servers | <a href='http://youtu.be/FBRIeoEr8GU'>Watch Video</a>";
 $talk_time="Saturday 10/6 @ 10AM";
 $talk_location="1320 DCL";
 

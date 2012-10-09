@@ -11,7 +11,7 @@ Joe Boutros leads Indeed Labs, the \"startup within a startup\" at Indeed, the w
 
 
 $talk_abstract_id="boutros_talk_abstract";
-$talk_title="Extremely Rapid Prototyping";
+$talk_title="Extremely Rapid Prototyping | <a href='http://youtu.be/WkB33Mm_xCk'>Watch Video</a>";
 $talk_time="Saturday, 10/6 @ 7:45PM";
 $talk_location="1404 Siebel";
 
